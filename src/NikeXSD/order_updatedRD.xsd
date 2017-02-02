@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified"
+           targetNamespace="http://api.anatwine.com/schemas/brand/v3/order"
+           xmlns:anatwine="http://api.anatwine.com/schemas/brand/v3/order"
+           xmlns:common="commonTypes_updatedRD.xsd">
+
+     <xs:import schemaLocation="commonTypes_updatedRD.xsd" namespace="commonTypes_updatedRD.xsd"/>
+
+    <!--     Top level Element    -->
+    <xs:element name="orderFile">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="anatwine:orders"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <!--     Orders Element    -->
+    <xs:element name="orders">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="anatwine:order" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <!--     Order Element    -->
+    <xs:element name="order">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="anatwine:orderHeader"/>
+                <xs:element name="billingAddress" type="common:address" minOccurs="0"/>
+                <xs:element name="shippingAddress" type="common:address" minOccurs="0"/>
+                <xs:element ref="anatwine:orderLines" minOccurs="0"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <!--     Order Header Element    -->
+    <xs:element name="orderHeader">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="orderDate" type="xs:dateTime"/>
+                <xs:element name="retailerChannelCode" type="xs:string"/>
+                <xs:element name="anatwineOrderId" type="xs:integer" minOccurs="0"/>
+                <xs:element name="retailerOrderId" type="xs:string"/>
+                <xs:element name="orderPayment" type="anatwine:orderPaymentValues"/>
+                <xs:element name="extensions" type="common:extensions" minOccurs="0"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <!-- Simple Type of String Contrained Values     -->
+    <xs:simpleType name="orderPaymentValues">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="pending"/>
+            <xs:enumeration value="completed"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!--     Order Lines  Element    -->
+    <xs:element name="orderLines">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="anatwine:orderLine" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <!--     Order Line  Element    -->
+    <xs:element name="orderLine">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="orderLineId" type="xs:integer"/>
+                <xs:element name="brandArticleSku" type="common:brandArticleSku" minOccurs="0"/>
+                <xs:element name="ean" type="common:ean"/>
+                <xs:element name="retailerArticleSku" type="common:brandArticleSku"/>
+                <xs:element name="retailerSizeId" type="common:brandArticleSku"/>
+                <xs:element name="orderLinePrice" type="anatwine:orderLinePrice"/>
+                <xs:element name="quantity" type="xs:integer"/>
+                <xs:element name="articleDescription" type="anatwine:articleDescription"/>
+                <xs:element name="deliveryServiceCode" type="xs:string" minOccurs="0"/>
+                <xs:element name="extensions" type="common:extensions" minOccurs="0"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:simpleType name="articleDescription">
+        <xs:restriction base="xs:string">
+            <xs:minLength value="1"/>
+            <xs:maxLength value="100"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!--     Additional Order Line Price - Complex Element      -->
+
+    <xs:complexType name="orderLinePrice">
+        <xs:sequence>
+            <xs:element name="basePrice" type="common:money"/>
+            <xs:element name="grossPrice" type="common:money"/>
+            <xs:element name="netPrice" type="common:money"/>
+            <xs:element name="tax" type="common:money"/>
+            <xs:element name="taxRate">
+                <xs:simpleType>
+                    <xs:restriction base="xs:decimal">
+                        <xs:fractionDigits value="3"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+        </xs:sequence>
+        <xs:attribute name="currency" type="xs:string" use="required"/>
+    </xs:complexType>
+
+    <!--                   Complex Element End                -->
+	
+
+</xs:schema>

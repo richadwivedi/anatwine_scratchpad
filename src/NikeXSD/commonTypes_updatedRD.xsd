@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="http://api.anatwine.com/schemas/brand/v3/commonTypes"
+           xmlns="http://api.anatwine.com/schemas/brand/v3/commonTypes"
+           elementFormDefault="qualified"
+           attributeFormDefault="unqualified">
+
+    <xs:simpleType name="brandCode">
+        <xs:restriction base="xs:integer" />
+    </xs:simpleType>
+
+    <!--   ean type Definition (11 to 13 digits) -->
+    <xs:simpleType name="ean">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="(\\s|[0-9]{11,13})?" />
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- brandsku type Definition  -->
+    <xs:simpleType  name="brandArticleSku">
+        <xs:restriction base="xs:string">
+            <xs:minLength value="1"/>
+            <xs:maxLength value="50"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- percentage type Definition  -->
+    <xs:simpleType name="percentage">
+        <xs:restriction base="xs:integer">
+            <xs:minInclusive value="0"/>
+            <xs:maxInclusive value="100"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:complexType name="extension">
+        <xs:sequence>
+            <xs:element name="extensionName" type="xs:string"/>
+            <xs:element name="extensionValue" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- address type Definition    -->
+        <xs:complexType name="address">
+            <xs:sequence>
+                <xs:element name="retailerCustomerNumber" type="xs:integer"/>
+                <xs:element name="title" type="xs:string"/>
+                <xs:element name="firstName" type="xs:string"/>
+                <xs:element name="lastName" type="xs:string"/>
+                <xs:element name="address1" type="AddressStringType"/>
+                <xs:element name="address2" type="AddressStringType" minOccurs="0"/>
+                <xs:element name="address3" type="AddressStringType" minOccurs="0"/>
+                <xs:element name="address4" type="AddressStringType" minOccurs="0"/>
+                <xs:element name="address5" type="AddressStringType" minOccurs="0"/>
+                <xs:element name="address6" type="AddressStringType" minOccurs="0"/>
+                <xs:element name="zip" type="AddressStringType"/>
+                <xs:element name="city" type="AddressStringType"/>
+                <xs:element name="state" type="AddressStringType" minOccurs="0"/>
+                <xs:element name="country" type="AddressStringType"/>
+                <xs:element name="addressString" type="xs:string"/>
+                <xs:element name="email" type="email"/>
+                <xs:element name="homeTel" minOccurs="0" type="telephone"/>
+                <xs:element name="mobileTel" minOccurs="0" type="telephone"/>
+                <xs:element name="workTel" minOccurs="0" type="telephone"/>
+                <xs:element name="extensions" type="extensions" minOccurs="0"/>
+            </xs:sequence>
+        </xs:complexType>
+
+    <!-- Standard Address String Type    -->
+    <xs:simpleType name="AddressStringType">
+        <xs:restriction base="xs:string">
+            <xs:minLength value="0"/>
+            <xs:maxLength value="256"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- email type Definition -->
+    <xs:simpleType name="email">
+        <xs:restriction base="xs:string">
+            <xs:minLength value="1"/>
+            <xs:maxLength value="256"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- telephone type Definition -->
+    <xs:simpleType name="telephone">
+        <xs:restriction base="xs:string">
+            <xs:minLength value="0"/>
+            <xs:maxLength value="20"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- money type Definition -->
+    <xs:simpleType name="money">
+        <xs:restriction base="xs:decimal">
+            <xs:fractionDigits value="2" />
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!--  Generic Price Type definition -->
+    <xs:simpleType name="priceType">
+        <xs:restriction base="xs:decimal">
+            <!-- Price must be Greater than Zero -->
+            <xs:minExclusive value="0"/>
+            <!-- Maximum of 2DP supported  -->
+            <xs:fractionDigits value="2" />
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- type extensions Definition -->
+    <xs:complexType name="extensions">
+        <xs:sequence>
+            <xs:element name="extension" type="extension" minOccurs="0" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="localeDescription">
+        <xs:simpleContent>
+            <xs:extension base="xs:string">
+                <xs:attribute name="locale" type="localeType"/>
+            </xs:extension>
+        </xs:simpleContent>
+    </xs:complexType>
+
+    <xs:simpleType name="localeType">
+        <xs:restriction base="xs:string">
+            <xs:length value="5" />
+            <xs:pattern value="[a-z]{2}_[A-Z]{2}" />
+        </xs:restriction>
+    </xs:simpleType>
+
+
+    <xs:complexType name="articleMedia">
+        <xs:sequence>
+            <xs:element name="media" type="media" minOccurs="0" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="media">
+        <xs:sequence>
+            <xs:element name="mediaType" type="xs:string"/>
+            <xs:element name="mediaURL" type="xs:string" minOccurs="0" />
+            <xs:element name="mediaFileReference" type="xs:string" minOccurs="0" />
+            <xs:element name="sortOrder" type="xs:int"/>
+            <xs:element name="extensions" type="extensions" minOccurs="0"/>
+        </xs:sequence>
+    </xs:complexType>
+
+</xs:schema>
