@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<orderFile xmlns:ns2="http://api.anatwine.com/schemas/brand/v3/commonTypes">
+    <orders>
+        <order>
+            <orderHeader>
+                <orderDate>2017-01-31T17:10:24.043Z</orderDate>
+                <retailerChannelCode>zade</retailerChannelCode>
+                <anatwineOrderId>2895419</anatwineOrderId>
+                <retailerOrderId>10101115617952</retailerOrderId>
+                <orderPayment>completed</orderPayment>
+            </orderHeader>
+            <billingAddress>
+                <ns2:retailerCustomerNumber>3023067652</ns2:retailerCustomerNumber>
+                <ns2:title>Herr</ns2:title>
+                <ns2:firstName>Max</ns2:firstName>
+                <ns2:lastName>Schnappertz</ns2:lastName>
+                <ns2:address1>Neue Bahnhofstr. 11-17</ns2:address1>
+                <ns2:address2>Zalando</ns2:address2>
+                <ns2:zip>10245</ns2:zip>
+                <ns2:city>Berlin</ns2:city>
+                <ns2:country>DE</ns2:country>
+                <ns2:addressString>Herr|Max|Schnappertz|Neue Bahnhofstr. 11-17|Zalando|10245|Berlin|DE</ns2:addressString>
+                <ns2:email>pp-cc-kam+3755+10101115617952@zalando.de</ns2:email>
+            </billingAddress>
+            <shippingAddress>
+                <ns2:retailerCustomerNumber>0</ns2:retailerCustomerNumber>
+                <ns2:title>Herr</ns2:title>
+                <ns2:firstName>Max</ns2:firstName>
+                <ns2:lastName>Schnappertz</ns2:lastName>
+                <ns2:address1>Neue Bahnhofstr. 11-17</ns2:address1>
+                <ns2:address2>Zalando</ns2:address2>
+                <ns2:zip>10245</ns2:zip>
+                <ns2:city>Berlin</ns2:city>
+                <ns2:country>DE</ns2:country>
+                <ns2:addressString>Herr|Max|Schnappertz|Neue Bahnhofstr. 11-17|Zalando|10245|Berlin|DE</ns2:addressString>
+                <ns2:email>pp-cc-kam+3755+10101115617952@zalando.de</ns2:email>
+            </shippingAddress>
+            <orderLines>
+                <orderLine>
+                    <orderLineId>1</orderLineId>
+                    <brandArticleSku>3031035099702</brandArticleSku>
+                    <ean>2001006945041</ean>
+                    <retailerArticleSku>OY181B00Z-G11000S000</retailerArticleSku>
+                    <retailerSizeId>S</retailerSizeId>
+                    <orderLinePrice currency="EUR">
+                        <basePrice>22.99</basePrice>
+                        <grossPrice>22.99</grossPrice>
+                        <netPrice>19.32</netPrice>
+                        <tax>3.67</tax>
+                        <taxRate>0.19</taxRate>
+                    </orderLinePrice>
+                    <quantity>1</quantity>
+                    <articleDescription>Nachtwäsche Hose - red</articleDescription>
+                </orderLine>
+            </orderLines>
+        </order>
+    </orders>
+</orderFile>

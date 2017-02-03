@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
            targetNamespace="http://api.anatwine.com/schemas/brand/v3/commonTypes"
            xmlns="http://api.anatwine.com/schemas/brand/v3/commonTypes"
@@ -9,10 +8,10 @@
         <xs:restriction base="xs:integer" />
     </xs:simpleType>
 
-    <!--   ean type Definition (11 to 13 digits) -->
+    <!--   ean type Definition (11 to 14 digits for Nike) -->
     <xs:simpleType name="ean">
         <xs:restriction base="xs:string">
-            <xs:pattern value="(\\s|[0-9]{11,13})?" />
+            <xs:pattern value="(\\s|[0-9]{11,14})?" />
         </xs:restriction>
     </xs:simpleType>
 
@@ -40,30 +39,30 @@
     </xs:complexType>
 
     <!-- address type Definition    -->
-        <xs:complexType name="address">
-            <xs:sequence>
-                <xs:element name="retailerCustomerNumber" type="xs:integer"/>
-                <xs:element name="title" type="xs:string"/>
-                <xs:element name="firstName" type="xs:string"/>
-                <xs:element name="lastName" type="xs:string"/>
-                <xs:element name="address1" type="AddressStringType"/>
-                <xs:element name="address2" type="AddressStringType" minOccurs="0"/>
-                <xs:element name="address3" type="AddressStringType" minOccurs="0"/>
-                <xs:element name="address4" type="AddressStringType" minOccurs="0"/>
-                <xs:element name="address5" type="AddressStringType" minOccurs="0"/>
-                <xs:element name="address6" type="AddressStringType" minOccurs="0"/>
-                <xs:element name="zip" type="AddressStringType"/>
-                <xs:element name="city" type="AddressStringType"/>
-                <xs:element name="state" type="AddressStringType" minOccurs="0"/>
-                <xs:element name="country" type="AddressStringType"/>
-                <xs:element name="addressString" type="xs:string"/>
-                <xs:element name="email" type="email"/>
-                <xs:element name="homeTel" minOccurs="0" type="telephone"/>
-                <xs:element name="mobileTel" minOccurs="0" type="telephone"/>
-                <xs:element name="workTel" minOccurs="0" type="telephone"/>
-                <xs:element name="extensions" type="extensions" minOccurs="0"/>
-            </xs:sequence>
-        </xs:complexType>
+    <xs:complexType name="address">
+        <xs:sequence>
+            <xs:element name="retailerCustomerNumber" type="xs:integer"/>
+            <xs:element name="title" type="xs:string"/>
+            <xs:element name="firstName" type="xs:string"/>
+            <xs:element name="lastName" type="xs:string"/>
+            <xs:element name="address1" type="AddressStringType"/>
+            <xs:element name="address2" type="AddressStringType" minOccurs="0"/>
+            <xs:element name="address3" type="AddressStringType" minOccurs="0"/>
+            <xs:element name="address4" type="AddressStringType" minOccurs="0"/>
+            <xs:element name="address5" type="AddressStringType" minOccurs="0"/>
+            <xs:element name="address6" type="AddressStringType" minOccurs="0"/>
+            <xs:element name="zip" type="AddressStringType"/>
+            <xs:element name="city" type="AddressStringType"/>
+            <xs:element name="state" type="AddressStringType" minOccurs="0"/>
+            <xs:element name="country" type="AddressStringType"/>
+            <xs:element name="addressString" type="xs:string"/>
+            <xs:element name="email" type="email"/>
+            <xs:element name="homeTel" minOccurs="0" type="telephone"/>
+            <xs:element name="mobileTel" minOccurs="0" type="telephone"/>
+            <xs:element name="workTel" minOccurs="0" type="telephone"/>
+            <xs:element name="extensions" type="extensions" minOccurs="0"/>
+        </xs:sequence>
+    </xs:complexType>
 
     <!-- Standard Address String Type    -->
     <xs:simpleType name="AddressStringType">
@@ -124,7 +123,7 @@
     <xs:simpleType name="localeType">
         <xs:restriction base="xs:string">
             <xs:length value="5" />
-            <xs:pattern value="[a-z]{2}_[A-Z]{2}" />
+            <xs:pattern value="[a-z]{2}(_|-)[A-Z]{2}" />
         </xs:restriction>
     </xs:simpleType>
 

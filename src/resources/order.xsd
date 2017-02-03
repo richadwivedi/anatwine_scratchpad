@@ -2,10 +2,10 @@
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
            elementFormDefault="qualified"
            targetNamespace="http://api.anatwine.com/schemas/brand/v3/order"
-           xmlns:anatwine="http://api.anatwine.com/schemas/brand/v3/order"
-           xmlns:common="commonTypes_updatedRD.xsd">
+           xmlns:common="http://api.anatwine.com/schemas/brand/v3/commonTypes"
+           xmlns:anatwine="http://api.anatwine.com/schemas/brand/v3/order">
 
-     <xs:import schemaLocation="commonTypes_updatedRD.xsd" namespace="commonTypes_updatedRD.xsd"/>
+    <xs:import schemaLocation="commonTypes.xsd" namespace="http://api.anatwine.com/schemas/brand/v3/commonTypes"/>
 
     <!--     Top level Element    -->
     <xs:element name="orderFile">
@@ -76,7 +76,7 @@
                 <xs:element name="brandArticleSku" type="common:brandArticleSku" minOccurs="0"/>
                 <xs:element name="ean" type="common:ean"/>
                 <xs:element name="retailerArticleSku" type="common:brandArticleSku"/>
-                <xs:element name="retailerSizeId" type="common:brandArticleSku"/>
+                <xs:element name="retailerSizeId" type="common:brandArticleSku" minOccurs="0"/>
                 <xs:element name="orderLinePrice" type="anatwine:orderLinePrice"/>
                 <xs:element name="quantity" type="xs:integer"/>
                 <xs:element name="articleDescription" type="anatwine:articleDescription"/>
@@ -113,6 +113,6 @@
     </xs:complexType>
 
     <!--                   Complex Element End                -->
-	
+
 
 </xs:schema>

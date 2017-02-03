@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<orderFile xmlns="http://api.anatwine.com/schemas/brand/v3/order"
+        xmlns:ns2="http://api.anatwine.com/schemas/brand/v3/commonTypes">
+    <orders>
+        <order>
+            <orderHeader>
+                <orderDate>2015-05-08T09:30:22.000+01:00</orderDate>
+                <retailerChannelCode>7</retailerChannelCode>
+                <anatwineOrderId>30080043</anatwineOrderId>
+                <retailerOrderId>76543217654321</retailerOrderId>
+                <orderPayment>pending</orderPayment>
+            </orderHeader>
+            <billingAddress>
+                <ns2:retailerCustomerNumber>123456789</ns2:retailerCustomerNumber>
+                <ns2:title>Mr</ns2:title>
+                <ns2:firstName>TesterFirstName</ns2:firstName>
+                <ns2:lastName>TesterLastName</ns2:lastName>
+                <ns2:address1>24 Bath Road</ns2:address1>
+                <ns2:address2>Road2</ns2:address2>
+                <ns2:address3>Street3</ns2:address3>
+                <ns2:address4>Street4</ns2:address4>
+                <ns2:address5>Street5</ns2:address5>
+                <ns2:address6>Street6</ns2:address6>
+                <ns2:zip>GS5 1TA</ns2:zip>
+                <ns2:city>Cheltenham</ns2:city>
+                <ns2:state>Gloucestershire</ns2:state>
+                <ns2:country>United Kingdom</ns2:country>
+                <ns2:addressString>Mr|TesterFirstName|TesterLastName|24 Bath Road|Road2|Street3|Street4|Street5|Street6|GS5 1TA|Cheltenham|Gloucestershire|United Kingdom</ns2:addressString>
+                <ns2:email>customer@google.com</ns2:email>
+            </billingAddress>
+            <shippingAddress>
+                <ns2:retailerCustomerNumber>123456789</ns2:retailerCustomerNumber>
+                <ns2:title>Mrs</ns2:title>
+                <ns2:firstName>ShipperFirstName</ns2:firstName>
+                <ns2:lastName>ShipperLastName</ns2:lastName>
+                <ns2:address1>42 Christchurch Road</ns2:address1>
+                <ns2:address2>Street22</ns2:address2>
+                <ns2:address3>Street33</ns2:address3>
+                <ns2:address4>Street44</ns2:address4>
+                <ns2:address5>Street55</ns2:address5>
+                <ns2:address6>Street66</ns2:address6>
+                <ns2:zip>GS5 2TA</ns2:zip>
+                <ns2:city>Gloucester</ns2:city>
+                <ns2:state>Gloucestershire</ns2:state>
+                <ns2:country>England</ns2:country>
+                <ns2:addressString>Mrs|ShipperFirstName|ShipperLastName|42 Christchurch Road|Street22|Street33|Street44|Street55|Street66|GS5 2TA|Gloucester|Gloucestershire|England</ns2:addressString>
+                <ns2:email>recipient@google.com</ns2:email>
+            </shippingAddress>
+            <orderLines>
+                <orderLine>
+                    <orderLineId>1</orderLineId>
+                    <brandArticleSku>12345-67890</brandArticleSku>
+                    <retailerSizeId>Medium</retailerSizeId>
+                    <orderLinePrice currency="GBP">
+                        <basePrice>20.99</basePrice>
+                        <grossPrice>104.95</grossPrice>
+                        <netPrice>88.19</netPrice>
+                        <tax>16.76</tax>
+                        <taxRate>0.19</taxRate>
+                    </orderLinePrice>
+                    <quantity>5</quantity>
+                    <articleDescription>Union Jack Tee</articleDescription>
+                    <deliveryServiceCode>DHL99</deliveryServiceCode>
+                </orderLine>
+            </orderLines>
+        </order>
+    </orders>
+</orderFile>
