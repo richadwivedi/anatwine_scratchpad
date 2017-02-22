@@ -1148,7 +1148,7 @@
 		<recommend>true</recommend>
 		<productgroupid>11168408</productgroupid>
 		<niketype>FOOTWEAR</niketype>
-		<partnumber>511881-023</partnumber>
+		<partnumber>88888-023</partnumber>
 		<status>ACTIVE</status>
 		<colornumber>023</colornumber>
 		<imageurl>http://images.nike.com/is/image/DotCom/511881_023_A?$AFI$</imageurl>
@@ -1516,6 +1516,10 @@
 			</size>
 		</sizes>
 		<attributes>
+            <attribute type="partnerprogram" language="en">
+                <code>Zalando</code>
+                <name>Zalando</name>
+            </attribute>
 			<attribute type="digitalseason" language="en">
 				<code>HO15</code>
 				<name>HO15</name>

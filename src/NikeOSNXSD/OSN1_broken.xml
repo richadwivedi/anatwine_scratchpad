@@ -1,0 +1,17 @@
+<brandOrderStatusNotifications xmlns="http://api.anatwine.com/schemas/brand/v3/notifications">
+	<notifications>
+		<notification>
+            <orderNotificationCreated>2017-02-22T00:00:00</orderNotificationCreated>
+            <anatwineOrderId>1170907</anatwineOrderId>
+			<orderLines>
+				<orderLine>
+					<OrderLineId>1</OrderLineId>
+					<notificationType>CANCELLED</notificationType>
+					<quantity>2</quantity>
+                    <reasonCode>NO_INV</reasonCode>
+                    <trackingReference/>
+				</orderLine>
+			</orderLines>
+		</notification>
+	</notifications>
+</brandOrderStatusNotifications>

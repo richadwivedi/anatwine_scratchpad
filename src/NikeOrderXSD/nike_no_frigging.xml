@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orderFile xmlns="http://api.anatwine.com/schemas/brand/v3/order" xmlns:ns2="http://api.anatwine.com/schemas/brand/v3/commonTypes">
+    <orders>
+        <order>
+            <orderHeader>
+                <orderDate>2017-02-03T11:38:00.000Z</orderDate>
+                <retailerChannelCode>zaitit</retailerChannelCode>
+                <anatwineOrderId>1170633</anatwineOrderId>
+                <retailerOrderId>14858730842051</retailerOrderId>
+                <orderPayment>completed</orderPayment>
+                <extensions>
+                    <ns2:extension >
+                        <ns2:extensionName>EDD</ns2:extensionName>
+                        <ns2:extensionValue>2017-02-05T12:02:16Z</ns2:extensionValue>
+                    </ns2:extension>
+                    <ns2:extension >
+                        <ns2:extensionName>Language</ns2:extensionName>
+                        <ns2:extensionValue>IT</ns2:extensionValue>
+                    </ns2:extension>
+                </extensions>
+            </orderHeader>
+            <billingAddress>
+                <ns2:retailerCustomerNumber >123456</ns2:retailerCustomerNumber>
+                <ns2:title >Mr</ns2:title>
+                <ns2:firstName >RemoveMe</ns2:firstName>
+                <ns2:lastName >RawOrderOnly</ns2:lastName>
+                <ns2:address1 >Contrada Paragola 2</ns2:address1>
+                <ns2:address2 />
+                <ns2:zip >66044</ns2:zip>
+                <ns2:city >Archi</ns2:city>
+                <ns2:country >IT</ns2:country>
+                <ns2:addressString >Mr|RemoveMe|RawOrderOnly|Contrada Paragola 2|66044|Archi|IT</ns2:addressString>
+                <ns2:email >email@address.com</ns2:email>
+            </billingAddress>
+            <shippingAddress>
+                <ns2:retailerCustomerNumber >0</ns2:retailerCustomerNumber>
+                <ns2:title >Mr</ns2:title>
+                <ns2:firstName >RemoveMe</ns2:firstName>
+                <ns2:lastName >RawOrderOnly</ns2:lastName>
+                <ns2:address1 >Contrada Paragola 2</ns2:address1>
+                <ns2:address2 />
+                <ns2:zip >66044</ns2:zip>
+                <ns2:city >Archi</ns2:city>
+                <ns2:country >IT</ns2:country>
+                <ns2:addressString >Mr|RemoveMe|RawOrderOnly|Contrada Paragola 2|66044|Archi|IT</ns2:addressString>
+                <ns2:email >email@address.com</ns2:email>
+            </shippingAddress>
+            <orderLines>
+                <orderLine>
+                    <orderLineId>1</orderLineId>
+                    <brandArticleSku>11996054</brandArticleSku>
+                    <ean>00823233362895</ean>
+                    <retailerArticleSku>2214413</retailerArticleSku>
+                    <orderLinePrice currency="EUR">
+                        <basePrice>125.00</basePrice>
+                        <grossPrice>125.00</grossPrice>
+                        <netPrice>102.46</netPrice>
+                        <tax>22.54</tax>
+                        <taxRate>0.22</taxRate>
+                    </orderLinePrice>
+                    <quantity>1</quantity>
+                    <articleDescription>Nike Air Max 90 Leather Men's Shoe</articleDescription>
+                </orderLine>
+            </orderLines>
+        </order>
+        <order>
+            <orderHeader>
+                <orderDate>2017-02-03T12:01:00.000Z</orderDate>
+                <retailerChannelCode>zaitit</retailerChannelCode>
+                <anatwineOrderId>1170634</anatwineOrderId>
+                <retailerOrderId>14858730842052</retailerOrderId>
+                <orderPayment>completed</orderPayment>
+                <extensions>
+                    <ns2:extension >
+                        <ns2:extensionName>EDD</ns2:extensionName>
+                        <ns2:extensionValue>2017-02-05T12:28:54Z</ns2:extensionValue>
+                    </ns2:extension>
+                    <ns2:extension >
+                        <ns2:extensionName>Language</ns2:extensionName>
+                        <ns2:extensionValue>IT</ns2:extensionValue>
+                    </ns2:extension>
+                </extensions>
+            </orderHeader>
+            <billingAddress>
+                <ns2:retailerCustomerNumber >123456</ns2:retailerCustomerNumber>
+                <ns2:title >Mr</ns2:title>
+                <ns2:firstName >Thomas</ns2:firstName>
+                <ns2:lastName >RemoveMe</ns2:lastName>
+                <ns2:address1 >Via Osoppo 19</ns2:address1>
+                <ns2:address2 />
+                <ns2:zip >20148</ns2:zip>
+                <ns2:city >Milano</ns2:city>
+                <ns2:country >IT</ns2:country>
+                <ns2:addressString >Mr|Thomas|RemoveMe|Via Osoppo 19|20148|Milano|IT</ns2:addressString>
+                <ns2:email >Email@address.com</ns2:email>
+            </billingAddress>
+            <shippingAddress>
+                <ns2:retailerCustomerNumber >0</ns2:retailerCustomerNumber>
+                <ns2:title >Mr</ns2:title>
+                <ns2:firstName >Thomas</ns2:firstName>
+                <ns2:lastName >RemoveMe</ns2:lastName>
+                <ns2:address1 >Via Osoppo 19</ns2:address1>
+                <ns2:address2 />
+                <ns2:zip >20148</ns2:zip>
+                <ns2:city >Milano</ns2:city>
+                <ns2:country >IT</ns2:country>
+                <ns2:addressString >Mr|Thomas|RemoveMe|Via Osoppo 19|20148|Milano|IT</ns2:addressString>
+                <ns2:email >Email@address.com</ns2:email>
+            </shippingAddress>
+            <orderLines>
+                <orderLine>
+                    <orderLineId>1</orderLineId>
+                    <brandArticleSku>10242552</brandArticleSku>
+                    <ean>00826218005749</ean>
+                    <retailerArticleSku>2214414</retailerArticleSku>
+                    <orderLinePrice currency="EUR">
+                        <basePrice>80.00</basePrice>
+                        <grossPrice>80.00</grossPrice>
+                        <netPrice>65.57</netPrice>
+                        <tax>14.43</tax>
+                        <taxRate>0.22</taxRate>
+                    </orderLinePrice>
+                    <quantity>1</quantity>
+                    <articleDescription>Nike Air Force 1 Mid 06 Kids' Shoe</articleDescription>
+                </orderLine>
+            </orderLines>
+        </order>
+        <order>
+            <orderHeader>
+                <orderDate>2017-02-03T11:36:00.000Z</orderDate>
+                <retailerChannelCode>zadede</retailerChannelCode>
+                <anatwineOrderId>1170630</anatwineOrderId>
+                <retailerOrderId>14858730842048</retailerOrderId>
+                <orderPayment>completed</orderPayment>
+                <extensions>
+                    <ns2:extension >
+                        <ns2:extensionName>EDD</ns2:extensionName>
+                        <ns2:extensionValue>2017-02-05T11:38:10Z</ns2:extensionValue>
+                    </ns2:extension>
+                    <ns2:extension >
+                        <ns2:extensionName>Language</ns2:extensionName>
+                        <ns2:extensionValue>DE</ns2:extensionValue>
+                    </ns2:extension>
+                </extensions>
+            </orderHeader>
+            <billingAddress>
+                <ns2:retailerCustomerNumber >123456</ns2:retailerCustomerNumber>
+                <ns2:title >Mr</ns2:title>
+                <ns2:firstName >Thomas</ns2:firstName>
+                <ns2:lastName >Woodman</ns2:lastName>
+                <ns2:address1 >2. Koppelweg 2b</ns2:address1>
+                <ns2:address2 />
+                <ns2:zip >38518</ns2:zip>
+                <ns2:city >Gifhorn</ns2:city>
+                <ns2:country >DE</ns2:country>
+                <ns2:addressString >Mr|Thomas|Woodman|2. Koppelweg 2b|38518|Gifhorn|DE</ns2:addressString>
+                <ns2:email >thomas.woodman@anatwine.com</ns2:email>
+            </billingAddress>
+            <shippingAddress>
+                <ns2:retailerCustomerNumber >0</ns2:retailerCustomerNumber>
+                <ns2:title >Mr</ns2:title>
+                <ns2:firstName >Thomas</ns2:firstName>
+                <ns2:lastName >Woodman</ns2:lastName>
+                <ns2:address1 >2. Koppelweg 2b</ns2:address1>
+                <ns2:address2 />
+                <ns2:zip >38518</ns2:zip>
+                <ns2:city >Gifhorn</ns2:city>
+                <ns2:country >DE</ns2:country>
+                <ns2:addressString >Mr|Thomas|Woodman|2. Koppelweg 2b|38518|Gifhorn|DE</ns2:addressString>
+                <ns2:email >thomas.woodman@anatwine.com</ns2:email>
+            </shippingAddress>
+            <orderLines>
+                <orderLine>
+                    <orderLineId>1</orderLineId>
+                    <brandArticleSku>11996054</brandArticleSku>
+                    <ean>00823233362895</ean>
+                    <retailerArticleSku>2214413</retailerArticleSku>
+                    <orderLinePrice currency="EUR">
+                        <basePrice>125.00</basePrice>
+                        <grossPrice>125.00</grossPrice>
+                        <netPrice>105.04</netPrice>
+                        <tax>19.96</tax>
+                        <taxRate>0.19</taxRate>
+                    </orderLinePrice>
+                    <quantity>1</quantity>
+                    <articleDescription>Nike Air Max 90 Leather Men's Shoe</articleDescription>
+                </orderLine>
+            </orderLines>
+        </order>
+    </orders>
+</orderFile>

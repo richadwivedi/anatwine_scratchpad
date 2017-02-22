@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../anatwine-CodeChallenges/challenge-master/challenge.iml" filepath="$PROJECT_DIR$/../anatwine-CodeChallenges/challenge-master/challenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/scratchpad.iml" filepath="$PROJECT_DIR$/scratchpad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../anatwine-CodeChallenges/shopping-cart/shopping-cart.iml" filepath="$PROJECT_DIR$/../anatwine-CodeChallenges/shopping-cart/shopping-cart.iml" />
     </modules>
   </component>
 </project>
