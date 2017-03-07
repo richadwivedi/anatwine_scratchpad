@@ -1,0 +1,13 @@
+{
+  "blackListedProducts": [
+    "NIKEID",
+    "Physical Gift Card",
+    "Digital Gift Card",
+    "Voucher",
+    "Gift Wrap",
+    "Gift Message",
+    "Personalization",
+    "Sock Customization",
+    "Jersey Customization"
+  ]
+}

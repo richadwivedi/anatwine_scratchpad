@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<brandOrderStatusNotifications xmlns="http://api.anatwine.com/schemas/brand/v3/notifications">
+    <notifications>
+        <notification>
+            <orderNotificationCreated>2017-03-02T00:44:27</orderNotificationCreated>
+            <anatwineOrderId>1170985</anatwineOrderId>
+            <orderLines>
+                <orderLine>
+                    <OrderLineId>1</OrderLineId>
+                    <notificationType>SHIPPED</notificationType>
+                    <quantity>1</quantity>
+                    <reasonCode/>
+                    <trackingReference>1Z1703010439922</trackingReference>
+                </orderLine>
+            </orderLines>
+        </notification>
+    </notifications>
+</brandOrderStatusNotifications>

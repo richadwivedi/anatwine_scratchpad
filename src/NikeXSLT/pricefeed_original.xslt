@@ -1,8 +1,6 @@
 <xsl:stylesheet version="2.0"
                 xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-                xmlns:xs="http://www.w3.org/2001/XMLSchema"
                 exclude-result-prefixes="#all">
-
 
     <xsl:output method="xml" indent="yes"/>
 
@@ -23,7 +21,7 @@
         </product>
     </xsl:template>
 
-    <!-- Converts Nike size 'id' into 'brandArticleSku' & Nike size 'ean' into 'upc' -->
+    <!-- Converts size 'id' into 'brandArticleSku' & size 'ean' into 'upc' -->
     <xsl:template match="size">
         <article>
             <brandArticleSku><xsl:value-of select="@id"/></brandArticleSku>
@@ -34,8 +32,8 @@
         </article>
     </xsl:template>
 
-    <!-- Converts Nike price 'country' into 'countryChannel', Nike price 'list' into 'brandRRP'.
-         If Nike price 'onsale' is 1, then converts Nike price 'saleprice' into 'salesprice'-->
+    <!-- Converts price 'country' into 'countryChannel', price 'list' into 'brandRRP'.
+         If price 'onsale' is 1, then converts price 'saleprice' into 'salesprice'-->
     <xsl:template match="price">
         <xsl:element name="countryChannel">
             <xsl:attribute name="countryCode" select="@country"/>
@@ -55,5 +53,4 @@
             </prices>
         </xsl:element>
     </xsl:template>
-
 </xsl:stylesheet>
