@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<orderFile xmlns="http://api.anatwine.com/schemas/brand/v3/order" xmlns:ns2="http://api.anatwine.com/schemas/brand/v3/commonTypes">
+    <orders>
+        <order>
+            <orderHeader>
+                <orderDate>2017-04-25T12:19:00.000Z</orderDate>
+                <retailerChannelCode>zaitit</retailerChannelCode>
+                <anatwineOrderId>1176267</anatwineOrderId>
+                <retailerOrderId>14896928070726</retailerOrderId>
+                <orderPayment>completed</orderPayment>
+                <extensions>
+                    <ns2:extension>
+                        <ns2:extensionName>EDD</ns2:extensionName>
+                        <ns2:extensionValue>2017-04-30T06:55:13Z</ns2:extensionValue>
+                    </ns2:extension>
+                    <ns2:extension>
+                        <ns2:extensionName>Language</ns2:extensionName>
+                        <ns2:extensionValue>IT</ns2:extensionValue>
+                    </ns2:extension>
+                </extensions>
+            </orderHeader>
+            <billingAddress>
+                <ns2:retailerCustomerNumber>543</ns2:retailerCustomerNumber>
+                <ns2:title>Mrs</ns2:title>
+                <ns2:firstName>Neethu</ns2:firstName>
+                <ns2:lastName>Reena</ns2:lastName>
+                <ns2:address1>Via Ignazio Sorrentino 25b</ns2:address1>
+                <ns2:address2></ns2:address2>
+                <ns2:zip>80059</ns2:zip>
+                <ns2:city>Torre Del Greco</ns2:city>
+                <ns2:country>IT</ns2:country>
+                <ns2:addressString>Mrs|Neethu|Reena|Via Ignazio Sorrentino 25b|80059|Torre Del Greco|IT</ns2:addressString>
+                <ns2:email>ntester26@gmail.com</ns2:email>
+            </billingAddress>
+            <shippingAddress>
+                <ns2:retailerCustomerNumber>0</ns2:retailerCustomerNumber>
+                <ns2:title>Mrs</ns2:title>
+                <ns2:firstName>Neethu</ns2:firstName>
+                <ns2:lastName>Reena</ns2:lastName>
+                <ns2:address1>Via Ignazio Sorrentino 25b</ns2:address1>
+                <ns2:address2></ns2:address2>
+                <ns2:zip>80059</ns2:zip>
+                <ns2:city>Torre Del Greco</ns2:city>
+                <ns2:country>IT</ns2:country>
+                <ns2:addressString>Mrs|Neethu|Reena|Via Ignazio Sorrentino 25b|80059|Torre Del Greco|IT</ns2:addressString>
+                <ns2:email>ntester26@gmail.com</ns2:email>
+            </shippingAddress>
+            <orderLines>
+                <orderLine>
+                    <orderLineId>1</orderLineId>
+                    <brandArticleSku>11573921</brandArticleSku>
+                    <ean>00091206462983</ean>
+                    <retailerArticleSku>2242002123456789012345678901234567890</retailerArticleSku>
+                    <retailerSizeId>M</retailerSizeId>
+                    <orderLinePrice currency="EUR">
+                        <basePrice>15.00</basePrice>
+                        <grossPrice>45.00</grossPrice>
+                        <netPrice>36.89</netPrice>
+                        <tax>8.11</tax>
+                        <taxRate>0.22</taxRate>
+                    </orderLinePrice>
+                    <quantity>3</quantity>
+                    <articleDescription>Shorts da allenamento Nike Pro HyperCool - Ragazzo</articleDescription>
+                </orderLine>
+                <orderLine>
+                    <orderLineId>2</orderLineId>
+                    <brandArticleSku>11573923</brandArticleSku>
+                    <ean>00091206464581</ean>
+                    <retailerArticleSku>2242004123456789012345678901234567890</retailerArticleSku>
+                    <retailerSizeId>M</retailerSizeId>
+                    <orderLinePrice currency="EUR">
+                        <basePrice>15.00</basePrice>
+                        <grossPrice>45.00</grossPrice>
+                        <netPrice>36.89</netPrice>
+                        <tax>8.11</tax>
+                        <taxRate>0.22</taxRate>
+                    </orderLinePrice>
+                    <quantity>3</quantity>
+                    <articleDescription>Shorts da allenamento Nike Pro HyperCool - Ragazzo</articleDescription>
+                </orderLine>
+            </orderLines>
+        </order>
+    </orders>
+</orderFile>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<orderFile xmlns="http://api.anatwine.com/schemas/brand/v3/order" xmlns:ns2="http://api.anatwine.com/schemas/brand/v3/commonTypes">
+    <orders>
+        <order>
+            <orderHeader>
+                <orderDate>2017-04-25T10:32:00.000Z</orderDate>
+                <retailerChannelCode>zadede</retailerChannelCode>
+                <anatwineOrderId>1176268</anatwineOrderId>
+                <retailerOrderId>14896928070732</retailerOrderId>
+                <orderPayment>completed</orderPayment>
+                <extensions>
+                    <ns2:extension>
+                        <ns2:extensionName>EDD</ns2:extensionName>
+                        <ns2:extensionValue>2017-04-29T17:37:13Z</ns2:extensionValue>
+                    </ns2:extension>
+                    <ns2:extension>
+                        <ns2:extensionName>Language</ns2:extensionName>
+                        <ns2:extensionValue>DE</ns2:extensionValue>
+                    </ns2:extension>
+                </extensions>
+            </orderHeader>
+            <billingAddress>
+                <ns2:retailerCustomerNumber>988</ns2:retailerCustomerNumber>
+                <ns2:title>Mr</ns2:title>
+                <ns2:firstName>Ameen</ns2:firstName>
+                <ns2:lastName>Shaid</ns2:lastName>
+                <ns2:address1>757rueressiu</ns2:address1>
+                <ns2:address2></ns2:address2>
+                <ns2:zip>36277</ns2:zip>
+                <ns2:city>Schenklengsfeld</ns2:city>
+                <ns2:country>DE</ns2:country>
+                <ns2:addressString>Mr|Ameen|Shaid|757rueressiu|36277|Schenklengsfeld|DE</ns2:addressString>
+                <ns2:email>c2h.tester26@gmail.com</ns2:email>
+            </billingAddress>
+            <shippingAddress>
+                <ns2:retailerCustomerNumber>0</ns2:retailerCustomerNumber>
+                <ns2:title>Mr</ns2:title>
+                <ns2:firstName>Ameen</ns2:firstName>
+                <ns2:lastName>Shaid</ns2:lastName>
+                <ns2:address1>757rueressiu</ns2:address1>
+                <ns2:address2></ns2:address2>
+                <ns2:zip>36277</ns2:zip>
+                <ns2:city>Schenklengsfeld</ns2:city>
+                <ns2:country>DE</ns2:country>
+                <ns2:addressString>Mr|Ameen|Shaid|757rueressiu|36277|Schenklengsfeld|DE</ns2:addressString>
+                <ns2:email>c2h.tester26@gmail.com</ns2:email>
+            </shippingAddress>
+            <orderLines>
+                <orderLine>
+                    <orderLineId>1</orderLineId>
+                    <brandArticleSku>10519048</brandArticleSku>
+                    <ean>00659658324879</ean>
+                    <retailerArticleSku>2214411123456789012345678901234567890</retailerArticleSku>
+                    <retailerSizeId>M</retailerSizeId>
+                    <orderLinePrice currency="EUR">
+                        <basePrice>140.00</basePrice>
+                        <grossPrice>140.00</grossPrice>
+                        <netPrice>117.65</netPrice>
+                        <tax>22.35</tax>
+                        <taxRate>0.19</taxRate>
+                    </orderLinePrice>
+                    <quantity>1</quantity>
+                    <articleDescription>Nike Air Max 90 Leather Herrenschuh</articleDescription>
+                </orderLine>
+                <orderLine>
+                    <orderLineId>2</orderLineId>
+                    <brandArticleSku>15723020</brandArticleSku>
+                    <ean>00091204042491</ean>
+                    <retailerArticleSku>2214426</retailerArticleSku>
+                    <retailerSizeId>M</retailerSizeId>
+                    <orderLinePrice currency="EUR">
+                        <basePrice>35.00</basePrice>
+                        <grossPrice>35.00</grossPrice>
+                        <netPrice>29.41</netPrice>
+                        <tax>5.59</tax>
+                        <taxRate>0.19</taxRate>
+                    </orderLinePrice>
+                    <quantity>1</quantity>
+                    <articleDescription>2016/17 Manchester City Stadium Fußballshorts für ältere Kinder</articleDescription>
+                </orderLine>
+                <orderLine>
+                    <orderLineId>3</orderLineId>
+                    <brandArticleSku>17101649</brandArticleSku>
+                    <ean>00091209028940</ean>
+                    <retailerArticleSku>2214429</retailerArticleSku>
+                    <retailerSizeId>M</retailerSizeId>
+                    <orderLinePrice currency="EUR">
+                        <basePrice>130.00</basePrice>
+                        <grossPrice>130.00</grossPrice>
+                        <netPrice>109.24</netPrice>
+                        <tax>20.76</tax>
+                        <taxRate>0.19</taxRate>
+                    </orderLinePrice>
+                    <quantity>1</quantity>
+                    <articleDescription>Nike LunarGlide 8 Damen-Laufschuh</articleDescription>
+                </orderLine>
+                <orderLine>
+                    <orderLineId>4</orderLineId>
+                    <brandArticleSku>16569551</brandArticleSku>
+                    <ean>00675911589281</ean>
+                    <retailerArticleSku>2214437</retailerArticleSku>
+                    <retailerSizeId>M</retailerSizeId>
+                    <orderLinePrice currency="EUR">
+                        <basePrice>16.00</basePrice>
+                        <grossPrice>16.00</grossPrice>
+                        <netPrice>13.45</netPrice>
+                        <tax>2.55</tax>
+                        <taxRate>0.19</taxRate>
+                    </orderLinePrice>
+                    <quantity>1</quantity>
+                    <articleDescription>Jordan Ultimate Flight Crew Socken</articleDescription>
+                </orderLine>
+                <orderLine>
+                    <orderLineId>5</orderLineId>
+                    <brandArticleSku>10244016</brandArticleSku>
+                    <ean>00823233482128</ean>
+                    <retailerArticleSku>2241999</retailerArticleSku>
+                    <retailerSizeId>M</retailerSizeId>
+                    <orderLinePrice currency="EUR">
+                        <basePrice>12.00</basePrice>
+                        <grossPrice>12.00</grossPrice>
+                        <netPrice>10.08</netPrice>
+                        <tax>1.92</tax>
+                        <taxRate>0.19</taxRate>
+                    </orderLinePrice>
+                    <quantity>1</quantity>
+                    <articleDescription>Nike Metal Swoosh Verstellbare Kinderkappe</articleDescription>
+                </orderLine>
+            </orderLines>
+        </order>
+    </orders>
+</orderFile>

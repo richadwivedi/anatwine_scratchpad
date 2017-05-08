@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brandOrderStatusNotifications xmlns="http://api.anatwine.com/schemas/brand/v3/notifications">
+	<notifications>
+		<notification>
+			<orderNotificationCreated>2017-03-12T12:00:00</orderNotificationCreated>
+			<orderNotificationId>0123456789</orderNotificationId>
+			<anatwineOrderId>30080043</anatwineOrderId>
+			<orderLines>
+				<orderLine>
+					<OrderLineId>001</OrderLineId>
+					<notificationType>CANCELLED</notificationType>
+					<quantity>1</quantity>
+					<trackingReference/>			 
+				</orderLine>
+				<orderLine>  
+					<OrderLineId>002</OrderLineId>               
+					<notificationType>AWAITING_FULFILMENT</notificationType>
+					<quantity>1</quantity> 
+					<trackingReference/>
+				</orderLine>
+			</orderLines>
+		</notification>
+	</notifications>
+</brandOrderStatusNotifications>

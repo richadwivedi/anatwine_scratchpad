@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
+           targetNamespace="http://api.anatwine.com/schemas/brand/v3/notifications"
+           xmlns:common="http://api.anatwine.com/schemas/brand/v3/commonTypes"
+           xmlns:anatwine="http://api.anatwine.com/schemas/brand/v3/notifications">
+
+    <xs:import namespace="http://api.anatwine.com/schemas/brand/v3/commonTypes" />
+    <!--  Root Schema Object -->
+    <xs:element name="brandOrderStatusNotifications">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="anatwine:notifications"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <!--  Notifications Element Definition -->
+    <xs:element name="notifications">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="anatwine:notification"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <!--  Order Notification Element Definition -->
+    <xs:element name="notification">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="orderNotificationCreated" type="xs:dateTime"/>
+                <xs:element name="orderNotificationId" type="xs:string" minOccurs="0"/>
+                <xs:element name="anatwineOrderId" type="xs:integer"/>
+                <xs:element ref="anatwine:orderLines"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="orderLines">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="anatwine:orderLine"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <!--  Order Line  Element Definition -->
+    <xs:element name="orderLine">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="OrderLineId" type="xs:integer"/>
+                <xs:element ref="anatwine:notificationType"/>
+                <xs:element ref="anatwine:quantity"/>
+                <xs:element ref="anatwine:reasonCode" minOccurs="0"/>
+                <xs:element name="trackingReference" type="anatwine:trackingReference"/>
+                <xs:element name="returnTrackingReference" type="anatwine:trackingReference" minOccurs="0"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="notificationType" type="anatwine:notificationTypes"/>
+    <!-- Simple Type of String Contrained Values     -->
+    <xs:simpleType name="notificationTypes">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="AWAITING_FULFILMENT"/>
+            <xs:enumeration value="SHIPPED"/>
+            <xs:enumeration value="CANCELLED"/>
+            <xs:enumeration value="RETURNED"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+
+    <xs:element name="quantity" type="anatwine:nonZeroType"/>
+    <xs:simpleType name="nonZeroType">
+        <xs:restriction base="xs:integer">
+            <xs:minInclusive value="1"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="trackingReference">
+        <xs:restriction base="xs:string">
+            <xs:minLength value="0"/>
+            <xs:maxLength value="100"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:element name="reasonCode" type="anatwine:reasonCodeType" nillable="true" />
+
+    <xs:simpleType name="reasonCodeType">
+        <xs:restriction base="xs:string">
+            <xs:minLength value="0"/>
+            <xs:maxLength value="20"/>
+            <xs:enumeration value="WRONG_ITEM_DELIVERED"/>
+            <xs:enumeration value="ITEM_TOO_BIG"/>
+            <xs:enumeration value="ITEM_TOO_SMALL"/>
+            <xs:enumeration value="ITEM_NOT_LIKED"/>
+            <xs:enumeration value="ITEM_UNLIKE_IN_SHOP"/>
+            <xs:enumeration value="WRONG_ITEM_ORDERED"/>
+            <xs:enumeration value="ITEM_DAMAGED"/>
+            <xs:enumeration value="LATE_DELIVERY"/>
+            <xs:enumeration value="POOR_VALUE_FOR_MONEY"/>
+            <xs:enumeration value="CARRIER_RETURNED"/>
+            <xs:enumeration value="OTHER"/>
+            <xs:enumeration value="RETAILER_CANCELLED"/>
+            <xs:enumeration value="NO_INV"/>
+            <xs:enumeration value="FAULTY"/>
+            <xs:enumeration value="PRIME"/>
+            <xs:enumeration value="INCORRECT_ITEM"/>
+        </xs:restriction>
+    </xs:simpleType>
+</xs:schema>

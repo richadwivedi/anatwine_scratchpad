@@ -1,0 +1,32 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:common="http://api.anatwine.com/schemas/brand/v3/commonTypes"
+           xmlns:anatwine="http://api.anatwine.com/schemas/brand/v3/stock"
+           attributeFormDefault="unqualified"
+           elementFormDefault="qualified"
+           targetNamespace="http://api.anatwine.com/schemas/brand/v3/stock">
+
+    <xs:import namespace="http://api.anatwine.com/schemas/brand/v3/commonTypes" schemaLocation="commonTypes.xsd"/>
+
+    <xs:element name="stockData" type="anatwine:stockData"/>
+    <xs:complexType name="stockData">
+        <xs:sequence>
+            <xs:element name="stocks" type="anatwine:stocks"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="stocks">
+        <xs:sequence>
+            <xs:element ref="anatwine:stock" minOccurs="0" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:element name="stock">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="brandArticleSku" type="common:brandArticleSku" />
+                <xs:element name="ean" type="common:ean" minOccurs="0"/>
+                <xs:element name="quantity" type="xs:int"/>
+                <xs:element name="extensions" type="common:extensions" minOccurs="0"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

@@ -1,0 +1,3239 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<products xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<PRODUCT productid="10000021">
+		<stylenumber>511881</stylenumber>
+		<recommend>true</recommend>
+		<productgroupid>11168408</productgroupid>
+		<niketype>FOOTWEAR</niketype>
+		<partnumber>511881-010</partnumber>
+		<status>ACTIVE</status>
+		<colornumber>010</colornumber>
+		<imageurl>http://images.nike.com/is/image/DotCom/511881_010_A?$AFI$</imageurl>
+		<pdpurl>http://store.nike.com/gb/en_gb/pd/roshe-one-shoe/pid-10000021/pgid-11168408</pdpurl>
+		<startdate>29-MAY-14</startdate>
+		<producttype>1</producttype>
+		<taxcode> </taxcode>
+		<styledetail>
+			<style language="pl">
+				<stylename>Buty męskie Nike Roshe One</stylename>
+				<longdescription>&lt;div class=&quot;pi-tier3&quot;&gt;&lt;div class=&quot;pi-pdpmainbody&quot;&gt;&lt;p&gt;&lt;b&gt;DOSKONAŁA WENTYLACJA I AMORTYZACJA&lt;/b&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;Buty męskie Nike Roshe One mają cholewkę wykonaną w całości z siateczki oraz wtryskiwaną środkową podeszwę, dzięki czemu zapewniają doskonałą wentylację, lekkość i ochronę przed wstrząsami. Te uniwersalne buty mogą być noszone ze skarpetkami lub bez, do długich lub krótkich spodni i używane zarówno do chodzenia, jak i dla relaksu.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Zalety&lt;/b&gt;&lt;/p&gt;&lt;li&gt;Cholewka z siateczki gwarantuje doskonałą przewiewność&lt;/li&gt;&lt;li&gt;Pełnowymiarowa, wtryskiwana podeszwa środkowa zapewnia lekkość i amortyzację&lt;/li&gt;&lt;li&gt;Wkładka Solarsoft gwarantuje niezrównaną wygodę&lt;/li&gt;&lt;li&gt;Amortyzujący kołnierz buta chroni obszar wokół kostki&lt;/li&gt;&lt;li&gt;Wtryskiwana podeszwa zewnętrzna z waflowym bieżnikiem zapewnia przyczepność&lt;/li&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Wyjątkowe detale&lt;/b&gt;&lt;/p&gt;Buty Nike Roshe One, zainspirowane medytacją i filozofią Zen, są kwintesencją prostoty. Nie mają żadnych ozdób – tylko niezbędne elementy, dopracowane w każdym szczególe. Niemal każdy element buta odzwierciedla inny aspekt spokojnego ogrodu Zen: zmodyfikowany waflowy bieżnik podeszwy zewnętrznej przypomina kamienne stopnie, wewnętrzna wkładka przywodzi na myśl skalny ogród, a nieco różniące się długości boków podeszwy środkowej – przeciwstawienie powagi i radości.&lt;/div&gt;&lt;/div&gt;</longdescription>
+				<colordescription>Czerń/Alabastrowy/Połyskliwa czerń</colordescription>
+				<swatchcolor>13161A</swatchcolor>
+				<productnameline1>Nike Roshe One</productnameline1>
+				<productnameline2>Buty męskie</productnameline2>
+				<productslug>buty-meskie-roshe-one</productslug>
+			</style>
+			<style language="it">
+				<stylename>Scarpa Nike Roshe One - Uomo</stylename>
+				<longdescription>&lt;div class=&quot;pi-tier3&quot;&gt;&lt;div class=&quot;pi-pdpmainbody&quot;&gt;&lt;p&gt;&lt;b&gt;TRASPIRABILITÀ E AMMORTIZZAZIONE AI MASSIMI LIVELLI&lt;/b&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;Con la tomaia interamente in mesh e l&apos;intersuola iniettata, la scarpa Nike Roshe One - Uomo garantisce massima traspirabilità e protezione leggera dagli impatti. Estremamente versatile, può essere indossata con o senza calzini, con un abbigliamento elegante o informale, per una passeggiata o semplicemente per rilassarsi.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Vantaggi del prodotto&lt;/b&gt;&lt;/p&gt;&lt;li&gt;La tomaia in mesh garantisce massima traspirabilità&lt;/li&gt;&lt;li&gt;L&apos;intersuola iniettata a tutta lunghezza offre un&apos;ammortizzazione leggera&lt;/li&gt;&lt;li&gt;Sottopiede Solarsoft per una calzata comoda&lt;/li&gt;&lt;li&gt;Collare imbottito per una protezione superiore nell&apos;area intorno alla caviglia&lt;/li&gt;&lt;li&gt;Suola iniettata con struttura waffle per una trazione senza pari&lt;/li&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Dettagli unici&lt;/b&gt;&lt;/p&gt;Ispirata alla pratica della meditazione e alla filosofia Zen, la scarpa Nike Roshe One è il simbolo della semplicità. Priva di particolari decorazioni, questa calzatura essenziale è studiata nel dettaglio per la massima funzionalità. Quasi ogni elemento della scarpa richiama un aspetto dei tranquilli giardini Zen: la suola Waffle modificata ricorda le pietre su cui si cammina, il motivo della suola interna trae spunto dalle aree rastrellate intorno alle rocce e i lati dell&apos;intersuola di lunghezza leggermente diversa simboleggiano la giustapposizione tra serietà e giocosità.&lt;/div&gt;&lt;/div&gt;</longdescription>
+				<colordescription>Nero/Sail/Anthracite</colordescription>
+				<swatchcolor>13161A</swatchcolor>
+				<productnameline1>Nike Roshe One</productnameline1>
+				<productnameline2>Scarpa - Uomo</productnameline2>
+				<productslug>scarpa-roshe-one</productslug>
+			</style>
+			<style language="nl">
+				<stylename>Nike Roshe One Herenschoen</stylename>
+				<longdescription>&lt;div class=&quot;pi-tier3&quot;&gt;&lt;div class=&quot;pi-pdpmainbody&quot;&gt;&lt;p&gt;&lt;b&gt;SUPERIEURE VENTILATIE EN DEMPING&lt;/b&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;De lichte Nike Roshe One herenschoen heeft een bovenwerk van mesh en een ingespoten middenzool voor ventilatie en schokbescherming. De schoen is veelzijdig, kan met of zonder sokken worden gedragen, past bij een chique of casual outfit, maar is ook heel geschikt voor wandelen of gewoon relaxen.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Pluspunten&lt;/b&gt;&lt;/p&gt;&lt;li&gt;Bovenwerk van mesh voor uitstekende ventilatie&lt;/li&gt;&lt;li&gt;Lichte IU-middenzool over de gehele lengte voor demping&lt;/li&gt;&lt;li&gt;Solarsoft inlegzool voor hoogwaardig comfort&lt;/li&gt;&lt;li&gt;Gewatteerde rand voor bescherming rond de enkel&lt;/li&gt;&lt;li&gt;IU-buitenzool met wafelpatroon voor grip&lt;/li&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Kenmerkende details&lt;/b&gt;&lt;/p&gt;De Nike Roshe One is geïnspireerd op meditatie en zen, en belichaamt eenvoud. De schoen heeft geen opsmuk, alleen de basisvereisten die tot leven worden gebracht in elk detail. Bijna elk deel van de schoen vertegenwoordigt een aspect van een serene Zen-tuin: een buitenzool met wafelpatroon dat op stapstenen lijkt, een binnenzool die een spiegel is van een aangeharkte rotstuin en een middenzool waarvan de lengte van de zijkanten enigszins varieert - een mengeling van ernst en speelsheid.&lt;/div&gt;&lt;/div&gt;</longdescription>
+				<colordescription>Zwart/Sail/Anthracite</colordescription>
+				<swatchcolor>13161A</swatchcolor>
+				<productnameline1>Nike Roshe One</productnameline1>
+				<productnameline2>Herenschoen</productnameline2>
+				<productslug>roshe-one-herenschoen</productslug>
+			</style>
+			<style language="es">
+				<stylename>Nike Roshe One Zapatillas - Hombre</stylename>
+				<longdescription>&lt;div class=&quot;pi-tier3&quot;&gt;&lt;div class=&quot;pi-pdpmainbody&quot;&gt;&lt;p&gt;&lt;b&gt;VENTILACIÓN Y AMORTIGUACIÓN SUPERIORES&lt;/b&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;Con una parte superior de malla completa y una mediasuela de material inyectado, las zapatillas para hombre Nike Roshe One ofrecen transpirabilidad y una ligera protección contra impactos. El objetivo de estas zapatillas es ser versátiles, para llevarlas con o sin calcetines, elegir entre un look más deportivo o más formal, para caminar o simplemente para relajarse.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Ventajas&lt;/b&gt;&lt;/p&gt;&lt;li&gt;Parte superior de malla completa para una excelente transpirabilidad&lt;/li&gt;&lt;li&gt;Mediasuela de IU completa para una amortiguación suave&lt;/li&gt;&lt;li&gt;Plantilla Solarsoft para una comodidad premium&lt;/li&gt;&lt;li&gt;Zona del tobillo acolchada para mayor protección alrededor del tobillo&lt;/li&gt;&lt;li&gt;Suela exterior de IU con diseño tipo gofre para una mayor tracción&lt;/li&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Detalles exclusivos&lt;/b&gt;&lt;/p&gt;Inspiradas en la práctica de la meditación y el concepto del zen, las Nike Roshe One son la máxima expresión de la simplicidad. No tienen adornos, solo disponen de los elementos básicos de unas zapatillas, que cobran vida con todos los detalles. Casi todas las partes de las zapatillas reflejan un aspecto de un apacible jardín zen: una suela exterior con diseño tipo gofre modificado que parece un sendero de piedras, una plantilla que imita un jardín de rocas peinado por un rastrillo y una mediasuela con longitudes laterales ligeramente diferentes: una yuxtaposición de seriedad y diversión.&lt;/div&gt;&lt;/div&gt;</longdescription>
+				<colordescription>Negro/Vela/Antracita</colordescription>
+				<swatchcolor>13161A</swatchcolor>
+				<productnameline1>Nike Roshe One</productnameline1>
+				<productnameline2>Zapatillas - Hombre</productnameline2>
+				<productslug>roshe-one-zapatillas</productslug>
+			</style>
+			<style language="de">
+				<stylename>Nike Roshe One Herrenschuh</stylename>
+				<longdescription>&lt;div class=&quot;pi-tier3&quot;&gt;&lt;div class=&quot;pi-pdpmainbody&quot;&gt;&lt;p&gt;&lt;b&gt;ERSTKLASSIGE BELÜFTUNG UND DÄMPFUNG&lt;/b&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;Der Nike Roshe One Herrenschuh verfügt über ein durchgehendes Mesh-Obermaterial und eine eingespritzte Mittelsohle, die für Atmungsaktivität und federleichten Aufprallschutz sorgen. Der vielseitige Schuh kann mit oder ohne Socken getragen werden, für eleganten oder legeren Style beim Gehen oder Entspannen.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Vorteile&lt;/b&gt;&lt;/p&gt;&lt;li&gt;Mesh-Obermaterial für hervorragende Atmungsaktivität&lt;/li&gt;&lt;li&gt;Durchgehende IU-Mittelsohle für leichte Dämpfung&lt;/li&gt;&lt;li&gt;Solarsoft-Einlegesohle für erstklassigen Tragekomfort&lt;/li&gt;&lt;li&gt;Gepolsterter Schuhkragen für Knöchelschutz&lt;/li&gt;&lt;li&gt;IU-Außensohle mit Waffelprofil für Traktion&lt;/li&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Unverkennbare Details&lt;/b&gt;&lt;/p&gt;Der Nike Roshe One wurde durch die Praxis der Meditation und das Konzept des Zen inspiriert und verkörpert Schlichtheit. Kein unnötiger Schnickschnack, nur die grundlegenden Elemente eines Schuhs, die mit jedem Detail zum Ausdruck kommen. Fast jeder Teil des Schuhs symbolisiert einen Aspekt eines besinnlichen Zen-Gartens: die modifizierte Waffelaußensohle erinnert an Trittsteine, die Innensohle steht für einen geharkten Steingarten und die leicht abweichende Mittelsohlenlänge repräsentiert ein Wechselspiel zwischen Ernsthaftem und Verspieltem.&lt;/div&gt;&lt;/div&gt;</longdescription>
+				<colordescription>Schwarz/Sail/Anthrazit</colordescription>
+				<swatchcolor>13161A</swatchcolor>
+				<productnameline1>Nike Roshe One</productnameline1>
+				<productnameline2>Herrenschuh</productnameline2>
+				<productslug>roshe-one-herrenschuh</productslug>
+			</style>
+			<style language="fr">
+				<stylename>Chaussure Nike Roshe One pour Homme</stylename>
+				<longdescription>&lt;div class=&quot;pi-tier3&quot;&gt;&lt;div class=&quot;pi-pdpmainbody&quot;&gt;&lt;p&gt;&lt;b&gt;AÉRATION ET AMORTI DE GRANDE QUALITÉ&lt;/b&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;Avec une empeigne entièrement en mesh et une semelle intermédiaire injectée, la chaussure Nike Roshe One pour Homme offre une grande respirabilité et une protection légère contre les chocs. Cette chaussure ultra-polyvalente peut être portée avec ou sans chaussettes et associée à un style décontracté ou recherché, pour aller se balader ou pour se relaxer.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Avantages&lt;/b&gt;&lt;/p&gt;&lt;li&gt;Empeigne intégralement doublée en mesh pour une excellente respirabilité&lt;/li&gt;&lt;li&gt;Semelle intermédiaire en IU sur toute la longueur pour un amorti en toute légèreté&lt;/li&gt;&lt;li&gt;Semelle de propreté Solarsoft pour un confort optimal&lt;/li&gt;&lt;li&gt;Col rembourré pour plus de protection autour de la cheville&lt;/li&gt;&lt;li&gt;Semelle extérieure en IU avec motif à chevrons pour plus d&apos;adhérence&lt;/li&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Détails caractéristiques&lt;/b&gt;&lt;/p&gt;Inspirée par la pratique de la méditation et l&apos;esprit zen, la chaussure Nike Roshe One est synonyme de simplicité. Ce modèle sans fioritures réunit toutes les caractéristiques essentielles d&apos;une chaussure simple mais performante. Quasiment chaque partie de la chaussure évoque l&apos;un des éléments des jardins zen, véritables havres de paix : la semelle extérieure à motif gaufré modifié est conçue pour rappeler les pierres de gué, la semelle intérieure imite le sol d&apos;un jardin minutieusement ratissé, tandis que la semelle intermédiaire, aux dimensions innovantes, permet d&apos;atteindre un équilibre parfait entre concentration et détente.&lt;/div&gt;&lt;/div&gt;</longdescription>
+				<colordescription>Noir/Voile/Anthracite</colordescription>
+				<swatchcolor>13161A</swatchcolor>
+				<productnameline1>Nike Roshe One</productnameline1>
+				<productnameline2>Chaussure pour Homme</productnameline2>
+				<productslug>chaussure-roshe-one-pour</productslug>
+			</style>
+			<style language="en">
+				<stylename>Nike Roshe One Men&apos;s Shoe</stylename>
+				<longdescription>&lt;div class=&quot;pi-tier3&quot;&gt;&lt;div class=&quot;pi-pdpmainbody&quot;&gt;&lt;p&gt;&lt;b&gt;SUPERIOR VENTILATION AND CUSHIONING&lt;/b&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;With a full mesh upper and injected unit midsole, the Nike Roshe One Men&apos;s Shoe offers breathability and lightweight impact protection. The shoe is intended to be versatile, worn with or without socks, dressed up or down, for walking or just taking it easy.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Benefits&lt;/b&gt;&lt;/p&gt;&lt;li&gt;Full mesh upper for excellent breathability&lt;/li&gt;&lt;li&gt;Full-length IU midsole for lightweight cushioning&lt;/li&gt;&lt;li&gt;Solarsoft sockliner for premium comfort&lt;/li&gt;&lt;li&gt;Cushioned collar for protection around ankle&lt;/li&gt;&lt;li&gt;IU outsole with Waffle pattern for traction&lt;/li&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Signature Details&lt;/b&gt;&lt;/p&gt;Inspired by the practice of meditation and the concept of Zen, the Nike Roshe One epitomises simplicity. It has no embellishments, just basic shoe necessities brought to life with every detail. Almost every part of the shoe reflects an aspect of a tranquil Zen garden: a modified Waffle outsole made to look like stepping stones, an insole that mirrors a raked rock garden, and slightly different midsole side lengths—a juxtaposition of seriousness and playfulness.&lt;/div&gt;&lt;/div&gt;</longdescription>
+				<colordescription>Black/Sail/Anthracite</colordescription>
+				<swatchcolor>13161A</swatchcolor>
+				<productnameline1>Nike Roshe One</productnameline1>
+				<productnameline2>Men&apos;s Shoe</productnameline2>
+				<productslug>roshe-one-shoe</productslug>
+			</style>
+			<style language="el">
+				<stylename>Ανδρικό παπούτσι Nike Roshe One</stylename>
+				<longdescription>&lt;div class=&quot;pi-tier3&quot;&gt;&lt;div class=&quot;pi-pdpmainbody&quot;&gt;&lt;p&gt;&lt;b&gt;ΚΟΡΥΦΑΙΟΣ ΑΕΡΙΣΜΟΣ ΤΟΥ ΔΕΡΜΑΤΟΣ ΚΑΙ ΑΝΤΙΚΡΑΔΑΣΜΙΚΗ ΠΡΟΣΤΑΣΙΑ&lt;/b&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;Με επάνω μέρος από διχτυωτό υλικό και ενδιάμεση σόλα κατασκευασμένη με την τεχνική της έγχυσης, τα ανδρικά παπούτσια Nike Roshe One παρέχουν δροσερή αίσθηση και ανάλαφρη προστασία πρόσκρουσης. Επειδή πρωταρχικός στόχος των παπουτσιών είναι η ευελιξία, μπορούν να φορεθούν με ή χωρίς κάλτσες, σε επίσημες ή ανεπίσημες περιστάσεις, για περπάτημα ή απλώς για καθημερινή χρήση.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Πλεονεκτήματα&lt;/b&gt;&lt;/p&gt;&lt;li&gt;Διχτυωτό επάνω μέρος που επιτρέπει στο δέρμα να αναπνέει&lt;/li&gt;&lt;li&gt;Ενδιάμεση σόλα IU σε όλο το μήκος για ανάλαφρη αντικραδασμική προστασία&lt;/li&gt;&lt;li&gt;Πάτος Solarsoft για απόλυτα άνετη εφαρμογή&lt;/li&gt;&lt;li&gt;Κολάρο με αντικραδασμική προστασία για στήριξη στον αστράγαλο&lt;/li&gt;&lt;li&gt;Εξωτερική σόλα IU με μοτίβο waffle για πρόσφυση&lt;/li&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Χαρακτηριστικές λεπτομέρειες&lt;/b&gt;&lt;/p&gt;Εμπνευσμένο από την πρακτική του διαλογισμού και την αντίληψη του Ζεν, το Nike Roshe One είναι η επιτομή της απλότητας. Δεν έχει στολίδια, παρά μόνο τα απολύτως απαραίτητα στοιχεία του παπουτσιού που αναδεικνύονται σε κάθε λεπτομέρεια. Σχεδόν κάθε μέρος του παπουτσιού αντιπροσωπεύει ένα διαφορετικό τμήμα σε έναν ήρεμο κήπο Ζεν: η τροποποιημένη εξωτερική σόλα με μοτίβο waffle που παραπέμπει σε στρογγυλές πέτρες, η εσωτερική σόλα που παραπέμπει στο χώμα ενός κήπου με βράχους και τα ελαφρώς διαφορετικά πλαϊνά μήκη της ενδιάμεσης σόλας, αντανακλούν όλα την αντιπαράθεση μεταξύ σοβαρότητας και παιχνιδιάρικης διάθεσης.&lt;/div&gt;&lt;/div&gt;</longdescription>
+				<colordescription>Μαύρο/Sail/Ανθρακί</colordescription>
+				<swatchcolor>13161A</swatchcolor>
+				<productnameline1>Nike Roshe One</productnameline1>
+				<productnameline2>Ανδρικό παπούτσι</productnameline2>
+				<productslug>%CE%B1%CE%BD%CE%B4%CF%81%CE%B9%CE%BA%CE%BF-%CF%80%CE%B1%CF%80%CE%BF%CF%85%CF%84%CF%83%CE%B9-roshe-one</productslug>
+			</style>
+			<style language="ca">
+				<stylename>Nike Roshe One Sabatilles - Home</stylename>
+				<longdescription>&lt;div class=&quot;pi-tier3&quot;&gt;&lt;div class=&quot;pi-pdpmainbody&quot;&gt;&lt;p&gt;&lt;b&gt;VENTILACIÓ I AMORTIMENT SUPERIORS&lt;/b&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;Amb una part superior únicament de malla i una entresola injectada, les sabatilles Nike Roshe One per a home ofereixen transpirabilitat i una protecció lleugera contra els impactes. L&apos;objectiu d&apos;aquestes sabatilles és ser versàtils: es poden portar amb mitjons o sense, per a un look esportiu o més formal, per caminar o simplement per relaxar-se.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Avantatges&lt;/b&gt;&lt;/p&gt;&lt;li&gt;Part superior de malla per a una transpirabilitat excel·lent&lt;/li&gt;&lt;li&gt;Entresola completa d&apos;IU per a un amortiment lleuger&lt;/li&gt;&lt;li&gt;Plantilla Solarsoft per a una comoditat de primera&lt;/li&gt;&lt;li&gt;Coll encoixinat que protegeix el turmell&lt;/li&gt;&lt;li&gt;Sola exterior d&apos;IU amb patró de tipus gofra per aconseguir més tracció&lt;/li&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Detalls exclusius&lt;/b&gt;&lt;/p&gt;Inspirades en la pràctica de la meditació i el concepte del zen, les Nike Roshe One són la màxima expressió de la simplicitat. No duen cap adorn, només els elements bàsics d&apos;unes sabatilles, que cobren vida en cada detall. Gairebé totes i cadascuna de les seves parts representen algun aspecte d&apos;un jardí zen: la sola exterior modificada té un disseny de tipus gofra com si fos un corriol de pedretes, la seva plantilla imita un jardí de roques rasclat i l&apos;entresola amb laterals desiguals és tota una juxtaposició de serietat i diversió.&lt;/div&gt;&lt;/div&gt;</longdescription>
+				<colordescription>Negre/Nàutic/Antracita</colordescription>
+				<swatchcolor>13161A</swatchcolor>
+				<productnameline1>Nike Roshe One</productnameline1>
+				<productnameline2>Sabatilles - Home</productnameline2>
+				<productslug>roshe-one-sabatilles-home</productslug>
+			</style>
+		</styledetail>
+		<catalogs>
+			<catalog id="300">
+				<name>EU</name>
+			</catalog>
+		</catalogs>
+		<prices>
+			<price country="GB" currency="GBP">
+				<listprice>70.00</listprice>
+				<saleprice>70.00</saleprice>
+				<employeeprice>42.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+			<price country="SE" currency="SEK">
+				<listprice>900.00</listprice>
+				<saleprice>900.00</saleprice>
+				<employeeprice>540.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+			<price country="ES" currency="EUR">
+				<listprice>90.00</listprice>
+				<saleprice>90.00</saleprice>
+				<employeeprice>54.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+			<price country="SI" currency="EUR">
+				<listprice>90.00</listprice>
+				<saleprice>90.00</saleprice>
+				<employeeprice>54.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+			<price country="PT" currency="EUR">
+				<listprice>90.00</listprice>
+				<saleprice>90.00</saleprice>
+				<employeeprice>54.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+			<price country="PL" currency="PLN">
+				<listprice>349.00</listprice>
+				<saleprice>349.00</saleprice>
+				<employeeprice>209.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+			<price country="NL" currency="EUR">
+				<listprice>90.00</listprice>
+				<saleprice>90.00</saleprice>
+				<employeeprice>54.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+			<price country="LU" currency="EUR">
+				<listprice>90.00</listprice>
+				<saleprice>90.00</saleprice>
+				<employeeprice>54.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+			<price country="IT" currency="EUR">
+				<listprice>91.00</listprice>
+				<saleprice>91.00</saleprice>
+				<employeeprice>54.60</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+			<price country="IE" currency="EUR">
+				<listprice>85.00</listprice>
+				<saleprice>85.00</saleprice>
+				<employeeprice>51.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+			<price country="HU" currency="EUR">
+				<listprice>90.00</listprice>
+				<saleprice>90.00</saleprice>
+				<employeeprice>54.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+			<price country="GR" currency="EUR">
+				<listprice>90.00</listprice>
+				<saleprice>90.00</saleprice>
+				<employeeprice>54.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+			<price country="DE" currency="EUR">
+				<listprice>90.00</listprice>
+				<saleprice>90.00</saleprice>
+				<employeeprice>54.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+			<price country="FR" currency="EUR">
+				<listprice>90.00</listprice>
+				<saleprice>90.00</saleprice>
+				<employeeprice>54.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+			<price country="FI" currency="EUR">
+				<listprice>99.00</listprice>
+				<saleprice>99.00</saleprice>
+				<employeeprice>59.40</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+			<price country="DK" currency="DKK">
+				<listprice>730.00</listprice>
+				<saleprice>730.00</saleprice>
+				<employeeprice>438.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+			<price country="CZ" currency="EUR">
+				<listprice>90.00</listprice>
+				<saleprice>90.00</saleprice>
+				<employeeprice>54.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+			<price country="BE" currency="EUR">
+				<listprice>90.00</listprice>
+				<saleprice>90.00</saleprice>
+				<employeeprice>54.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+			<price country="AT" currency="EUR">
+				<listprice>90.00</listprice>
+				<saleprice>90.00</saleprice>
+				<employeeprice>54.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+		</prices>
+		<sizes>
+			<size id="10000255">
+				<size>6</size>
+				<sequence>11</sequence>
+				<upc>0675911191835</upc>
+				<stock>50</stock>
+				<allstock>50</allstock>
+			</size>
+			<size id="10000256">
+				<size>6.5</size>
+				<sequence>12</sequence>
+				<upc>0675911191842</upc>
+				<stock>50</stock>
+				<allstock>50</allstock>
+			</size>
+			<size id="10000257">
+				<size>7</size>
+				<sequence>13</sequence>
+				<upc>0675911191859</upc>
+				<stock>2147483647</stock>
+				<allstock>2147483647</allstock>
+			</size>
+			<size id="10000258">
+				<size>7.5</size>
+				<sequence>14</sequence>
+				<upc>0675911193099</upc>
+				<stock>50</stock>
+				<allstock>50</allstock>
+			</size>
+			<size id="10000259">
+				<size>8</size>
+				<sequence>15</sequence>
+				<upc>0675911193143</upc>
+				<stock>2147483647</stock>
+				<allstock>2147483647</allstock>
+			</size>
+			<size id="10000260">
+				<size>8.5</size>
+				<sequence>16</sequence>
+				<upc>0675911193150</upc>
+				<stock>70</stock>
+				<allstock>70</allstock>
+			</size>
+			<size id="10000261">
+				<size>9</size>
+				<sequence>17</sequence>
+				<upc>0675911193167</upc>
+				<stock>2147483647</stock>
+				<allstock>2147483647</allstock>
+			</size>
+			<size id="10000262">
+				<size>9.5</size>
+				<sequence>18</sequence>
+				<upc>0675911193174</upc>
+				<stock>50</stock>
+				<allstock>50</allstock>
+			</size>
+			<size id="10000263">
+				<size>10</size>
+				<sequence>19</sequence>
+				<upc>0675911193181</upc>
+				<stock>2147483647</stock>
+				<allstock>2147483647</allstock>
+			</size>
+			<size id="10000264">
+				<size>10.5</size>
+				<sequence>20</sequence>
+				<upc>0675911193198</upc>
+				<stock>0</stock>
+				<allstock>0</allstock>
+			</size>
+			<size id="10000265">
+				<size>11</size>
+				<sequence>21</sequence>
+				<upc>0675911193204</upc>
+				<stock>2147483647</stock>
+				<allstock>2147483647</allstock>
+			</size>
+			<size id="10000266">
+				<size>11.5</size>
+				<sequence>36</sequence>
+				<upc>0675911197059</upc>
+				<stock>0</stock>
+				<allstock>0</allstock>
+			</size>
+			<size id="10000267">
+				<size>12</size>
+				<sequence>38</sequence>
+				<upc>0675911197073</upc>
+				<stock>0</stock>
+				<allstock>0</allstock>
+			</size>
+			<size id="10000268">
+				<size>12.5</size>
+				<sequence>39</sequence>
+				<upc>0675911197080</upc>
+				<stock>0</stock>
+				<allstock>0</allstock>
+			</size>
+			<size id="10000269">
+				<size>13</size>
+				<sequence>41</sequence>
+				<upc>0675911198384</upc>
+				<stock>0</stock>
+				<allstock>0</allstock>
+			</size>
+			<size id="10661133">
+				<size>14</size>
+				<sequence>43</sequence>
+				<upc>0675911199978</upc>
+				<stock>0</stock>
+				<allstock>0</allstock>
+			</size>
+			<size id="10661134">
+				<size>15</size>
+				<sequence>45</sequence>
+				<upc>0675911200568</upc>
+				<stock>0</stock>
+				<allstock>0</allstock>
+			</size>
+			<size id="11472216">
+				<size>16</size>
+				<sequence>47</sequence>
+				<upc>0886549828684</upc>
+				<stock>0</stock>
+				<allstock>0</allstock>
+			</size>
+		</sizes>
+		<attributes>
+			<attribute type="digitalseason" language="en">
+				<code>HO15</code>
+				<name>HO15</name>
+			</attribute>
+			<attribute type="partnerprogram" language="en">
+				<code>zalando</code>
+				<name>zalando</name>
+			</attribute>
+			<attribute type="occasion" language="ca">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="occasion" language="de">
+				<code>Lifestyle</code>
+				<name>Freizeit</name>
+			</attribute>
+			<attribute type="occasion" language="el">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="occasion" language="en">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="occasion" language="es">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="occasion" language="fr">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="occasion" language="it">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="occasion" language="nl">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="occasion" language="pl">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="temporaryglobalnvcollections" language="ca">
+				<code>Gear Up</code>
+				<name>Equipa&apos;t</name>
+			</attribute>
+			<attribute type="temporaryglobalnvcollections" language="de">
+				<code>Gear Up</code>
+				<name>Rüste dich aus</name>
+			</attribute>
+			<attribute type="temporaryglobalnvcollections" language="el">
+				<code>Gear Up</code>
+				<name>Εξοπλίσου</name>
+			</attribute>
+			<attribute type="temporaryglobalnvcollections" language="en">
+				<code>Gear Up</code>
+				<name>Gear Up</name>
+			</attribute>
+			<attribute type="temporaryglobalnvcollections" language="es">
+				<code>Gear Up</code>
+				<name>Equípate</name>
+			</attribute>
+			<attribute type="temporaryglobalnvcollections" language="fr">
+				<code>Gear Up</code>
+				<name>Équipez-vous</name>
+			</attribute>
+			<attribute type="temporaryglobalnvcollections" language="it">
+				<code>Gear Up</code>
+				<name>Must-have</name>
+			</attribute>
+			<attribute type="temporaryglobalnvcollections" language="nl">
+				<code>Gear Up</code>
+				<name>Gear Up</name>
+			</attribute>
+			<attribute type="temporaryglobalnvcollections" language="pl">
+				<code>Gear Up</code>
+				<name>Wybierz odpowiednie produkty</name>
+			</attribute>
+			<attribute type="globalevergreennvcollections" language="ca">
+				<code>Roshe One</code>
+				<name>Roshe One</name>
+			</attribute>
+			<attribute type="globalevergreennvcollections" language="de">
+				<code>Roshe One</code>
+				<name>Roshe One</name>
+			</attribute>
+			<attribute type="globalevergreennvcollections" language="el">
+				<code>Roshe One</code>
+				<name>Roshe One</name>
+			</attribute>
+			<attribute type="globalevergreennvcollections" language="en">
+				<code>Roshe One</code>
+				<name>Roshe One</name>
+			</attribute>
+			<attribute type="globalevergreennvcollections" language="es">
+				<code>Roshe One</code>
+				<name>Roshe One</name>
+			</attribute>
+			<attribute type="globalevergreennvcollections" language="fr">
+				<code>Roshe One</code>
+				<name>Roshe One</name>
+			</attribute>
+			<attribute type="globalevergreennvcollections" language="it">
+				<code>Roshe One</code>
+				<name>Roshe One</name>
+			</attribute>
+			<attribute type="globalevergreennvcollections" language="nl">
+				<code>Roshe One</code>
+				<name>Roshe One</name>
+			</attribute>
+			<attribute type="globalevergreennvcollections" language="pl">
+				<code>Roshe One</code>
+				<name>Roshe One</name>
+			</attribute>
+			<attribute type="logocolor" language="ca">
+				<code>Anthracite</code>
+				<name>Antracita</name>
+			</attribute>
+			<attribute type="logocolor" language="de">
+				<code>Anthracite</code>
+				<name>Anthrazit</name>
+			</attribute>
+			<attribute type="logocolor" language="el">
+				<code>Anthracite</code>
+				<name>Ανθρακί</name>
+			</attribute>
+			<attribute type="logocolor" language="en">
+				<code>Anthracite</code>
+				<name>Anthracite</name>
+			</attribute>
+			<attribute type="logocolor" language="es">
+				<code>Anthracite</code>
+				<name>Antracita</name>
+			</attribute>
+			<attribute type="logocolor" language="fr">
+				<code>Anthracite</code>
+				<name>Anthracite</name>
+			</attribute>
+			<attribute type="logocolor" language="it">
+				<code>Anthracite</code>
+				<name>Anthracite</name>
+			</attribute>
+			<attribute type="logocolor" language="nl">
+				<code>Anthracite</code>
+				<name>Anthracite</name>
+			</attribute>
+			<attribute type="logocolor" language="pl">
+				<code>Anthracite</code>
+				<name>Połyskliwa czerń</name>
+			</attribute>
+			<attribute type="secondarycolor" language="ca">
+				<code>Sail</code>
+				<name>Nàutic</name>
+			</attribute>
+			<attribute type="secondarycolor" language="de">
+				<code>Sail</code>
+				<name>Sail</name>
+			</attribute>
+			<attribute type="secondarycolor" language="el">
+				<code>Sail</code>
+				<name>Sail</name>
+			</attribute>
+			<attribute type="secondarycolor" language="en">
+				<code>Sail</code>
+				<name>Sail</name>
+			</attribute>
+			<attribute type="secondarycolor" language="es">
+				<code>Sail</code>
+				<name>Vela</name>
+			</attribute>
+			<attribute type="secondarycolor" language="fr">
+				<code>Sail</code>
+				<name>Voile</name>
+			</attribute>
+			<attribute type="secondarycolor" language="it">
+				<code>Sail</code>
+				<name>Sail</name>
+			</attribute>
+			<attribute type="secondarycolor" language="nl">
+				<code>Sail</code>
+				<name>Sail</name>
+			</attribute>
+			<attribute type="secondarycolor" language="pl">
+				<code>Sail</code>
+				<name>Alabastrowy</name>
+			</attribute>
+			<attribute type="primarycolor" language="ca">
+				<code>Black</code>
+				<name>Negre</name>
+			</attribute>
+			<attribute type="primarycolor" language="de">
+				<code>Black</code>
+				<name>Schwarz</name>
+			</attribute>
+			<attribute type="primarycolor" language="el">
+				<code>Black</code>
+				<name>Μαύρο</name>
+			</attribute>
+			<attribute type="primarycolor" language="en">
+				<code>Black</code>
+				<name>Black</name>
+			</attribute>
+			<attribute type="primarycolor" language="es">
+				<code>Black</code>
+				<name>Negro</name>
+			</attribute>
+			<attribute type="primarycolor" language="fr">
+				<code>Black</code>
+				<name>Noir</name>
+			</attribute>
+			<attribute type="primarycolor" language="it">
+				<code>Black</code>
+				<name>Nero</name>
+			</attribute>
+			<attribute type="primarycolor" language="nl">
+				<code>Black</code>
+				<name>Zwart</name>
+			</attribute>
+			<attribute type="primarycolor" language="pl">
+				<code>Black</code>
+				<name>Czerń</name>
+			</attribute>
+			<attribute type="notes" language="en">
+				<code>franck confirms ok to approve</code>
+				<name>franck confirms ok to approve</name>
+			</attribute>
+			<attribute type="giftmessage" language="en">
+				<code>true</code>
+				<name>true</name>
+			</attribute>
+			<attribute type="onenikesizefit" language="en">
+				<code>mens-shoe-sizing-chart</code>
+				<name>Men&apos;s Shoes</name>
+			</attribute>
+			<attribute type="startDate" language="en">
+				<code>2014-05-29 07:00:00</code>
+				<name>2014-05-29 07:00:00</name>
+			</attribute>
+			<attribute type="publishdate" language="en">
+				<code>2012-03-01 00:00:00</code>
+				<name>2012-03-01 00:00:00</name>
+			</attribute>
+			<attribute type="nikeidmatchstyle" language="en">
+				<code>855901</code>
+				<name>855901</name>
+			</attribute>
+			<attribute type="nikeidmatchproductid" language="en">
+				<code>1139080</code>
+				<name>1139080</name>
+			</attribute>
+			<attribute type="nikeidmatch" language="en">
+				<code>true</code>
+				<name>true</name>
+			</attribute>
+			<attribute type="neverexpire" language="en">
+				<code>false</code>
+				<name>false</name>
+			</attribute>
+			<attribute type="divisioncode" language="en">
+				<code>20</code>
+				<name>20</name>
+			</attribute>
+			<attribute type="classid" language="en">
+				<code>2067</code>
+				<name>2067</name>
+			</attribute>
+			<attribute type="productdisplayorder" language="en">
+				<code>0</code>
+				<name>0</name>
+			</attribute>
+			<attribute type="simplecolor2" language="ca">
+				<code>Grey</code>
+				<name>Gris</name>
+			</attribute>
+			<attribute type="simplecolor2" language="de">
+				<code>Grey</code>
+				<name>Grau</name>
+			</attribute>
+			<attribute type="simplecolor2" language="el">
+				<code>Grey</code>
+				<name>Γκρι</name>
+			</attribute>
+			<attribute type="simplecolor2" language="en">
+				<code>Grey</code>
+				<name>Grey</name>
+			</attribute>
+			<attribute type="simplecolor2" language="es">
+				<code>Grey</code>
+				<name>Gris</name>
+			</attribute>
+			<attribute type="simplecolor2" language="fr">
+				<code>Grey</code>
+				<name>Gris</name>
+			</attribute>
+			<attribute type="simplecolor2" language="it">
+				<code>Grey</code>
+				<name>Grigio</name>
+			</attribute>
+			<attribute type="simplecolor2" language="nl">
+				<code>Grey</code>
+				<name>Grijs</name>
+			</attribute>
+			<attribute type="simplecolor2" language="pl">
+				<code>Grey</code>
+				<name>Szary</name>
+			</attribute>
+			<attribute type="sizeconversion" language="de">
+				<code>Men&apos;s Footwear</code>
+				<name>Men&apos;s Footwear</name>
+			</attribute>
+			<attribute type="sizeconversion" language="en">
+				<code>Men&apos;s Footwear</code>
+				<name>Men&apos;s Footwear</name>
+			</attribute>
+			<attribute type="sizeconversion" language="es">
+				<code>Men&apos;s Footwear</code>
+				<name>Men&apos;s Footwear</name>
+			</attribute>
+			<attribute type="sizeconversion" language="fr">
+				<code>Men&apos;s Footwear</code>
+				<name>Men&apos;s Footwear</name>
+			</attribute>
+			<attribute type="sizeconversion" language="it">
+				<code>Men&apos;s Footwear</code>
+				<name>Men&apos;s Footwear</name>
+			</attribute>
+			<attribute type="hexvalue" language="ca">
+				<code>13161A</code>
+				<name>Negre</name>
+			</attribute>
+			<attribute type="hexvalue" language="de">
+				<code>13161A</code>
+				<name>Schwarz</name>
+			</attribute>
+			<attribute type="hexvalue" language="el">
+				<code>13161A</code>
+				<name>Μαύρο</name>
+			</attribute>
+			<attribute type="hexvalue" language="en">
+				<code>13161A</code>
+				<name>Black</name>
+			</attribute>
+			<attribute type="hexvalue" language="es">
+				<code>13161A</code>
+				<name>Negro</name>
+			</attribute>
+			<attribute type="hexvalue" language="fr">
+				<code>13161A</code>
+				<name>Noir</name>
+			</attribute>
+			<attribute type="hexvalue" language="it">
+				<code>13161A</code>
+				<name>Nero</name>
+			</attribute>
+			<attribute type="hexvalue" language="nl">
+				<code>13161A</code>
+				<name>Zwart</name>
+			</attribute>
+			<attribute type="hexvalue" language="pl">
+				<code>13161A</code>
+				<name>Czerń</name>
+			</attribute>
+			<attribute type="shoes-style" language="ca">
+				<code>Roshe</code>
+				<name>Roshe</name>
+			</attribute>
+			<attribute type="shoes-style" language="de">
+				<code>Roshe</code>
+				<name>Roshe</name>
+			</attribute>
+			<attribute type="shoes-style" language="el">
+				<code>Roshe</code>
+				<name>Roshe</name>
+			</attribute>
+			<attribute type="shoes-style" language="en">
+				<code>Roshe</code>
+				<name>Roshe</name>
+			</attribute>
+			<attribute type="shoes-style" language="es">
+				<code>Roshe</code>
+				<name>Roshe</name>
+			</attribute>
+			<attribute type="shoes-style" language="fr">
+				<code>Roshe</code>
+				<name>Roshe</name>
+			</attribute>
+			<attribute type="shoes-style" language="it">
+				<code>Roshe</code>
+				<name>Roshe</name>
+			</attribute>
+			<attribute type="shoes-style" language="nl">
+				<code>Roshe</code>
+				<name>Roshe</name>
+			</attribute>
+			<attribute type="shoes-style" language="pl">
+				<code>Roshe</code>
+				<name>Roshe</name>
+			</attribute>
+			<attribute type="primarysport" language="ca">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="primarysport" language="de">
+				<code>Lifestyle</code>
+				<name>Freizeit</name>
+			</attribute>
+			<attribute type="primarysport" language="el">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="primarysport" language="en">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="primarysport" language="es">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="primarysport" language="fr">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="primarysport" language="it">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="primarysport" language="nl">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="primarysport" language="pl">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="simplecolor" language="ca">
+				<code>Black</code>
+				<name>Negre</name>
+			</attribute>
+			<attribute type="simplecolor" language="de">
+				<code>Black</code>
+				<name>Schwarz</name>
+			</attribute>
+			<attribute type="simplecolor" language="el">
+				<code>Black</code>
+				<name>Μαύρο</name>
+			</attribute>
+			<attribute type="simplecolor" language="en">
+				<code>Black</code>
+				<name>Black</name>
+			</attribute>
+			<attribute type="simplecolor" language="es">
+				<code>Black</code>
+				<name>Negro</name>
+			</attribute>
+			<attribute type="simplecolor" language="fr">
+				<code>Black</code>
+				<name>Noir</name>
+			</attribute>
+			<attribute type="simplecolor" language="it">
+				<code>Black</code>
+				<name>Nero</name>
+			</attribute>
+			<attribute type="simplecolor" language="nl">
+				<code>Black</code>
+				<name>Zwart</name>
+			</attribute>
+			<attribute type="simplecolor" language="pl">
+				<code>Black</code>
+				<name>Czerń</name>
+			</attribute>
+			<attribute type="shoeheight" language="ca">
+				<code>Low Top</code>
+				<name>Sabatilles baixes</name>
+			</attribute>
+			<attribute type="shoeheight" language="de">
+				<code>Low Top</code>
+				<name>Low Top</name>
+			</attribute>
+			<attribute type="shoeheight" language="el">
+				<code>Low Top</code>
+				<name>Χαμηλά</name>
+			</attribute>
+			<attribute type="shoeheight" language="en">
+				<code>Low Top</code>
+				<name>Low Top</name>
+			</attribute>
+			<attribute type="shoeheight" language="es">
+				<code>Low Top</code>
+				<name>Bajo Top</name>
+			</attribute>
+			<attribute type="shoeheight" language="fr">
+				<code>Low Top</code>
+				<name>Basse</name>
+			</attribute>
+			<attribute type="shoeheight" language="it">
+				<code>Low Top</code>
+				<name>Low Top</name>
+			</attribute>
+			<attribute type="shoeheight" language="nl">
+				<code>Low Top</code>
+				<name>Low Top</name>
+			</attribute>
+			<attribute type="shoeheight" language="pl">
+				<code>Low Top</code>
+				<name>Niskie buty</name>
+			</attribute>
+			<attribute type="nowviewing" language="ca">
+				<code>Track and Field</code>
+				<name>Track and Field</name>
+			</attribute>
+			<attribute type="nowviewing" language="de">
+				<code>Track and Field</code>
+				<name>Track and Field</name>
+			</attribute>
+			<attribute type="nowviewing" language="el">
+				<code>Track and Field</code>
+				<name>Track and Field</name>
+			</attribute>
+			<attribute type="nowviewing" language="en">
+				<code>Track and Field</code>
+				<name>Track and Field</name>
+			</attribute>
+			<attribute type="nowviewing" language="es">
+				<code>Track and Field</code>
+				<name>Track and Field</name>
+			</attribute>
+			<attribute type="nowviewing" language="fr">
+				<code>Track and Field</code>
+				<name>Track and Field</name>
+			</attribute>
+			<attribute type="nowviewing" language="it">
+				<code>Track and Field</code>
+				<name>Track and Field</name>
+			</attribute>
+			<attribute type="nowviewing" language="nl">
+				<code>Track and Field</code>
+				<name>Track and Field</name>
+			</attribute>
+			<attribute type="nowviewing" language="pl">
+				<code>Track and Field</code>
+				<name>Track and Field</name>
+			</attribute>
+			<attribute type="nowviewing" language="ca">
+				<code>Nike Roshe Run</code>
+				<name>Nike Roshe Run</name>
+			</attribute>
+			<attribute type="nowviewing" language="de">
+				<code>Nike Roshe Run</code>
+				<name>Nike Roshe Run</name>
+			</attribute>
+			<attribute type="nowviewing" language="el">
+				<code>Nike Roshe Run</code>
+				<name>Nike Roshe Run</name>
+			</attribute>
+			<attribute type="nowviewing" language="en">
+				<code>Nike Roshe Run</code>
+				<name>Nike Roshe Run</name>
+			</attribute>
+			<attribute type="nowviewing" language="es">
+				<code>Nike Roshe Run</code>
+				<name>Nike Roshe Run</name>
+			</attribute>
+			<attribute type="nowviewing" language="fr">
+				<code>Nike Roshe Run</code>
+				<name>Nike Roshe Run</name>
+			</attribute>
+			<attribute type="nowviewing" language="it">
+				<code>Nike Roshe Run</code>
+				<name>Nike Roshe Run</name>
+			</attribute>
+			<attribute type="nowviewing" language="nl">
+				<code>Nike Roshe Run</code>
+				<name>Nike Roshe Run</name>
+			</attribute>
+			<attribute type="nowviewing" language="pl">
+				<code>Nike Roshe Run</code>
+				<name>Nike Roshe Run</name>
+			</attribute>
+			<attribute type="hiddencollections" language="ca">
+				<code>Track and Field Collection</code>
+				<name>Col•lecció Track and Field</name>
+			</attribute>
+			<attribute type="hiddencollections" language="de">
+				<code>Track and Field Collection</code>
+				<name>Track and Field Kollektion</name>
+			</attribute>
+			<attribute type="hiddencollections" language="el">
+				<code>Track and Field Collection</code>
+				<name>Συλλογή Track and Field</name>
+			</attribute>
+			<attribute type="hiddencollections" language="en">
+				<code>Track and Field Collection</code>
+				<name>Track and Field Collection</name>
+			</attribute>
+			<attribute type="hiddencollections" language="es">
+				<code>Track and Field Collection</code>
+				<name>Track and Field Colección</name>
+			</attribute>
+			<attribute type="hiddencollections" language="fr">
+				<code>Track and Field Collection</code>
+				<name>Collection Track and Field</name>
+			</attribute>
+			<attribute type="hiddencollections" language="it">
+				<code>Track and Field Collection</code>
+				<name>Track and Field Collection</name>
+			</attribute>
+			<attribute type="hiddencollections" language="nl">
+				<code>Track and Field Collection</code>
+				<name>Track and Field Collectie</name>
+			</attribute>
+			<attribute type="hiddencollections" language="pl">
+				<code>Track and Field Collection</code>
+				<name>Kolekcja Track and Field</name>
+			</attribute>
+			<attribute type="category" language="de">
+				<code>Shoes</code>
+				<name>Shoes</name>
+			</attribute>
+			<attribute type="category" language="en">
+				<code>Shoes</code>
+				<name>Shoes</name>
+			</attribute>
+			<attribute type="category" language="es">
+				<code>Shoes</code>
+				<name>Shoes</name>
+			</attribute>
+			<attribute type="category" language="fr">
+				<code>Shoes</code>
+				<name>Shoes</name>
+			</attribute>
+			<attribute type="category" language="it">
+				<code>Shoes</code>
+				<name>Shoes</name>
+			</attribute>
+			<attribute type="brand" language="ca">
+				<code>Nike Sportswear</code>
+				<name>Nike Sportswear</name>
+			</attribute>
+			<attribute type="brand" language="de">
+				<code>Nike Sportswear</code>
+				<name>Nike Sportswear</name>
+			</attribute>
+			<attribute type="brand" language="el">
+				<code>Nike Sportswear</code>
+				<name>Nike Sportswear</name>
+			</attribute>
+			<attribute type="brand" language="en">
+				<code>Nike Sportswear</code>
+				<name>Nike Sportswear</name>
+			</attribute>
+			<attribute type="brand" language="es">
+				<code>Nike Sportswear</code>
+				<name>Nike Sportswear</name>
+			</attribute>
+			<attribute type="brand" language="fr">
+				<code>Nike Sportswear</code>
+				<name>Nike Sportswear</name>
+			</attribute>
+			<attribute type="brand" language="it">
+				<code>Nike Sportswear</code>
+				<name>Nike Sportswear</name>
+			</attribute>
+			<attribute type="brand" language="nl">
+				<code>Nike Sportswear</code>
+				<name>Nike Sportswear</name>
+			</attribute>
+			<attribute type="brand" language="pl">
+				<code>Nike Sportswear</code>
+				<name>Nike Sportswear</name>
+			</attribute>
+			<attribute type="width" language="ca">
+				<code>REGULAR</code>
+				<name>Normal</name>
+			</attribute>
+			<attribute type="width" language="de">
+				<code>REGULAR</code>
+				<name>Normal</name>
+			</attribute>
+			<attribute type="width" language="el">
+				<code>REGULAR</code>
+				<name>Κανονικο</name>
+			</attribute>
+			<attribute type="width" language="en">
+				<code>REGULAR</code>
+				<name>Regular</name>
+			</attribute>
+			<attribute type="width" language="es">
+				<code>REGULAR</code>
+				<name>Normal</name>
+			</attribute>
+			<attribute type="width" language="fr">
+				<code>REGULAR</code>
+				<name>Classique</name>
+			</attribute>
+			<attribute type="width" language="it">
+				<code>REGULAR</code>
+				<name>Normale</name>
+			</attribute>
+			<attribute type="width" language="nl">
+				<code>REGULAR</code>
+				<name>Normaal</name>
+			</attribute>
+			<attribute type="width" language="pl">
+				<code>REGULAR</code>
+				<name>Normalny</name>
+			</attribute>
+			<attribute type="gender" language="ca">
+				<code>Men</code>
+				<name>Home</name>
+			</attribute>
+			<attribute type="gender" language="de">
+				<code>Men</code>
+				<name>Herren</name>
+			</attribute>
+			<attribute type="gender" language="el">
+				<code>Men</code>
+				<name>&apos;Ανδρες</name>
+			</attribute>
+			<attribute type="gender" language="en">
+				<code>Men</code>
+				<name>Men</name>
+			</attribute>
+			<attribute type="gender" language="es">
+				<code>Men</code>
+				<name>Hombre</name>
+			</attribute>
+			<attribute type="gender" language="fr">
+				<code>Men</code>
+				<name>Hommes</name>
+			</attribute>
+			<attribute type="gender" language="it">
+				<code>Men</code>
+				<name>Uomo</name>
+			</attribute>
+			<attribute type="gender" language="nl">
+				<code>Men</code>
+				<name>Heren</name>
+			</attribute>
+			<attribute type="gender" language="pl">
+				<code>Men</code>
+				<name>Mężczyźni</name>
+			</attribute>
+			<attribute type="modeltype" language="pl">
+				<code>Footwear</code>
+				<name>Buty</name>
+			</attribute>
+			<attribute type="modeltype" language="nl">
+				<code>Footwear</code>
+				<name>Schoenen</name>
+			</attribute>
+			<attribute type="modeltype" language="it">
+				<code>Footwear</code>
+				<name>Scarpe</name>
+			</attribute>
+			<attribute type="modeltype" language="fr">
+				<code>Footwear</code>
+				<name>Chaussures</name>
+			</attribute>
+			<attribute type="modeltype" language="es">
+				<code>Footwear</code>
+				<name>Calzado</name>
+			</attribute>
+			<attribute type="modeltype" language="en">
+				<code>Footwear</code>
+				<name>Shoes</name>
+			</attribute>
+			<attribute type="modeltype" language="el">
+				<code>Footwear</code>
+				<name>Παπούτσια</name>
+			</attribute>
+			<attribute type="modeltype" language="de">
+				<code>Footwear</code>
+				<name>Schuhe</name>
+			</attribute>
+			<attribute type="modeltype" language="ca">
+				<code>Footwear</code>
+				<name>Calçat</name>
+			</attribute>
+		</attributes>
+	</PRODUCT>
+	<PRODUCT productid="10192752">
+		<stylenumber>511881</stylenumber>
+		<recommend>true</recommend>
+		<productgroupid>11168408</productgroupid>
+		<niketype>FOOTWEAR</niketype>
+		<partnumber>511881-023</partnumber>
+		<status>ACTIVE</status>
+		<colornumber>023</colornumber>
+		<imageurl>http://images.nike.com/is/image/DotCom/511881_023_A?$AFI$</imageurl>
+		<pdpurl>http://store.nike.com/gb/en_gb/pd/roshe-one-shoe/pid-10192752/pgid-11168408</pdpurl>
+		<startdate>23-JUN-15</startdate>
+		<producttype>1</producttype>
+		<maincolorway>True</maincolorway>
+		<taxcode> </taxcode>
+		<styledetail>
+			<style language="nl">
+				<stylename>Nike Roshe One Herenschoen</stylename>
+				<longdescription>&lt;div class=&quot;pi-tier3&quot;&gt;&lt;div class=&quot;pi-pdpmainbody&quot;&gt;&lt;p&gt;&lt;b&gt;SUPERIEURE VENTILATIE EN DEMPING&lt;/b&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;De lichte Nike Roshe One herenschoen heeft een bovenwerk van mesh en een ingespoten middenzool voor ventilatie en schokbescherming. De schoen is veelzijdig, kan met of zonder sokken worden gedragen, past bij een chique of casual outfit, maar is ook heel geschikt voor wandelen of gewoon relaxen.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Pluspunten&lt;/b&gt;&lt;/p&gt;&lt;li&gt;Bovenwerk van mesh voor uitstekende ventilatie&lt;/li&gt;&lt;li&gt;Lichte IU-middenzool over de gehele lengte voor demping&lt;/li&gt;&lt;li&gt;Solarsoft inlegzool voor hoogwaardig comfort&lt;/li&gt;&lt;li&gt;Gewatteerde rand voor bescherming rond de enkel&lt;/li&gt;&lt;li&gt;IU-buitenzool met wafelpatroon voor grip&lt;/li&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Kenmerkende details&lt;/b&gt;&lt;/p&gt;De Nike Roshe One is geïnspireerd op meditatie en zen, en belichaamt eenvoud. De schoen heeft geen opsmuk, alleen de basisvereisten die tot leven worden gebracht in elk detail. Bijna elk deel van de schoen vertegenwoordigt een aspect van een serene Zen-tuin: een buitenzool met wafelpatroon dat op stapstenen lijkt, een binnenzool die een spiegel is van een aangeharkte rotstuin en een middenzool waarvan de lengte van de zijkanten enigszins varieert - een mengeling van ernst en speelsheid.&lt;/div&gt;&lt;/div&gt;</longdescription>
+				<colordescription>Wolf Grey/Wit</colordescription>
+				<swatchcolor>808080</swatchcolor>
+				<productnameline1>Nike Roshe One</productnameline1>
+				<productnameline2>Herenschoen</productnameline2>
+				<productslug>roshe-one-herenschoen</productslug>
+			</style>
+			<style language="es">
+				<stylename>Nike Roshe One Zapatillas - Hombre</stylename>
+				<longdescription>&lt;div class=&quot;pi-tier3&quot;&gt;&lt;div class=&quot;pi-pdpmainbody&quot;&gt;&lt;p&gt;&lt;b&gt;VENTILACIÓN Y AMORTIGUACIÓN SUPERIORES&lt;/b&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;Con una parte superior de malla completa y una mediasuela de material inyectado, las zapatillas para hombre Nike Roshe One ofrecen transpirabilidad y una ligera protección contra impactos. El objetivo de estas zapatillas es ser versátiles, para llevarlas con o sin calcetines, elegir entre un look más deportivo o más formal, para caminar o simplemente para relajarse.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Ventajas&lt;/b&gt;&lt;/p&gt;&lt;li&gt;Parte superior de malla completa para una excelente transpirabilidad&lt;/li&gt;&lt;li&gt;Mediasuela de IU completa para una amortiguación suave&lt;/li&gt;&lt;li&gt;Plantilla Solarsoft para una comodidad premium&lt;/li&gt;&lt;li&gt;Zona del tobillo acolchada para mayor protección alrededor del tobillo&lt;/li&gt;&lt;li&gt;Suela exterior de IU con diseño tipo gofre para una mayor tracción&lt;/li&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Detalles exclusivos&lt;/b&gt;&lt;/p&gt;Inspiradas en la práctica de la meditación y el concepto del zen, las Nike Roshe One son la máxima expresión de la simplicidad. No tienen adornos, solo disponen de los elementos básicos de unas zapatillas, que cobran vida con todos los detalles. Casi todas las partes de las zapatillas reflejan un aspecto de un apacible jardín zen: una suela exterior con diseño tipo gofre modificado que parece un sendero de piedras, una plantilla que imita un jardín de rocas peinado por un rastrillo y una mediasuela con longitudes laterales ligeramente diferentes: una yuxtaposición de seriedad y diversión.&lt;/div&gt;&lt;/div&gt;</longdescription>
+				<colordescription>Gris lobo/Blanco</colordescription>
+				<swatchcolor>808080</swatchcolor>
+				<productnameline1>Nike Roshe One</productnameline1>
+				<productnameline2>Zapatillas - Hombre</productnameline2>
+				<productslug>roshe-one-zapatillas</productslug>
+			</style>
+			<style language="de">
+				<stylename>Nike Roshe One Herrenschuh</stylename>
+				<longdescription>&lt;div class=&quot;pi-tier3&quot;&gt;&lt;div class=&quot;pi-pdpmainbody&quot;&gt;&lt;p&gt;&lt;b&gt;ERSTKLASSIGE BELÜFTUNG UND DÄMPFUNG&lt;/b&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;Der Nike Roshe One Herrenschuh verfügt über ein durchgehendes Mesh-Obermaterial und eine eingespritzte Mittelsohle, die für Atmungsaktivität und federleichten Aufprallschutz sorgen. Der vielseitige Schuh kann mit oder ohne Socken getragen werden, für eleganten oder legeren Style beim Gehen oder Entspannen.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Vorteile&lt;/b&gt;&lt;/p&gt;&lt;li&gt;Mesh-Obermaterial für hervorragende Atmungsaktivität&lt;/li&gt;&lt;li&gt;Durchgehende IU-Mittelsohle für leichte Dämpfung&lt;/li&gt;&lt;li&gt;Solarsoft-Einlegesohle für erstklassigen Tragekomfort&lt;/li&gt;&lt;li&gt;Gepolsterter Schuhkragen für Knöchelschutz&lt;/li&gt;&lt;li&gt;IU-Außensohle mit Waffelprofil für Traktion&lt;/li&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Unverkennbare Details&lt;/b&gt;&lt;/p&gt;Der Nike Roshe One wurde durch die Praxis der Meditation und das Konzept des Zen inspiriert und verkörpert Schlichtheit. Kein unnötiger Schnickschnack, nur die grundlegenden Elemente eines Schuhs, die mit jedem Detail zum Ausdruck kommen. Fast jeder Teil des Schuhs symbolisiert einen Aspekt eines besinnlichen Zen-Gartens: die modifizierte Waffelaußensohle erinnert an Trittsteine, die Innensohle steht für einen geharkten Steingarten und die leicht abweichende Mittelsohlenlänge repräsentiert ein Wechselspiel zwischen Ernsthaftem und Verspieltem.&lt;/div&gt;&lt;/div&gt;</longdescription>
+				<colordescription>Wolf Grey/Weiß</colordescription>
+				<swatchcolor>808080</swatchcolor>
+				<productnameline1>Nike Roshe One</productnameline1>
+				<productnameline2>Herrenschuh</productnameline2>
+				<productslug>roshe-one-herrenschuh</productslug>
+			</style>
+			<style language="fr">
+				<stylename>Chaussure Nike Roshe One pour Homme</stylename>
+				<longdescription>&lt;div class=&quot;pi-tier3&quot;&gt;&lt;div class=&quot;pi-pdpmainbody&quot;&gt;&lt;p&gt;&lt;b&gt;AÉRATION ET AMORTI DE GRANDE QUALITÉ&lt;/b&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;Avec une empeigne entièrement en mesh et une semelle intermédiaire injectée, la chaussure Nike Roshe One pour Homme offre une grande respirabilité et une protection légère contre les chocs. Cette chaussure ultra-polyvalente peut être portée avec ou sans chaussettes et associée à un style décontracté ou recherché, pour aller se balader ou pour se relaxer.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Avantages&lt;/b&gt;&lt;/p&gt;&lt;li&gt;Empeigne intégralement doublée en mesh pour une excellente respirabilité&lt;/li&gt;&lt;li&gt;Semelle intermédiaire en IU sur toute la longueur pour un amorti en toute légèreté&lt;/li&gt;&lt;li&gt;Semelle de propreté Solarsoft pour un confort optimal&lt;/li&gt;&lt;li&gt;Col rembourré pour plus de protection autour de la cheville&lt;/li&gt;&lt;li&gt;Semelle extérieure en IU avec motif à chevrons pour plus d&apos;adhérence&lt;/li&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Détails caractéristiques&lt;/b&gt;&lt;/p&gt;Inspirée par la pratique de la méditation et l&apos;esprit zen, la chaussure Nike Roshe One est synonyme de simplicité. Ce modèle sans fioritures réunit toutes les caractéristiques essentielles d&apos;une chaussure simple mais performante. Quasiment chaque partie de la chaussure évoque l&apos;un des éléments des jardins zen, véritables havres de paix : la semelle extérieure à motif gaufré modifié est conçue pour rappeler les pierres de gué, la semelle intérieure imite le sol d&apos;un jardin minutieusement ratissé, tandis que la semelle intermédiaire, aux dimensions innovantes, permet d&apos;atteindre un équilibre parfait entre concentration et détente.&lt;/div&gt;&lt;/div&gt;</longdescription>
+				<colordescription>Gris loup/Blanc</colordescription>
+				<swatchcolor>808080</swatchcolor>
+				<productnameline1>Nike Roshe One</productnameline1>
+				<productnameline2>Chaussure pour Homme</productnameline2>
+				<productslug>chaussure-roshe-one-pour</productslug>
+			</style>
+			<style language="en">
+				<stylename>Nike Roshe One Men&apos;s Shoe</stylename>
+				<longdescription>&lt;div class=&quot;pi-tier3&quot;&gt;&lt;div class=&quot;pi-pdpmainbody&quot;&gt;&lt;p&gt;&lt;b&gt;SUPERIOR VENTILATION AND CUSHIONING&lt;/b&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;With a full mesh upper and injected unit midsole, the Nike Roshe One Men&apos;s Shoe offers breathability and lightweight impact protection. The shoe is intended to be versatile, worn with or without socks, dressed up or down, for walking or just taking it easy.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Benefits&lt;/b&gt;&lt;/p&gt;&lt;li&gt;Full mesh upper for excellent breathability&lt;/li&gt;&lt;li&gt;Full-length IU midsole for lightweight cushioning&lt;/li&gt;&lt;li&gt;Solarsoft sockliner for premium comfort&lt;/li&gt;&lt;li&gt;Cushioned collar for protection around ankle&lt;/li&gt;&lt;li&gt;IU outsole with Waffle pattern for traction&lt;/li&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Signature Details&lt;/b&gt;&lt;/p&gt;Inspired by the practice of meditation and the concept of Zen, the Nike Roshe One epitomises simplicity. It has no embellishments, just basic shoe necessities brought to life with every detail. Almost every part of the shoe reflects an aspect of a tranquil Zen garden: a modified Waffle outsole made to look like stepping stones, an insole that mirrors a raked rock garden, and slightly different midsole side lengths—a juxtaposition of seriousness and playfulness.&lt;/div&gt;&lt;/div&gt;</longdescription>
+				<colordescription>Wolf Grey/White</colordescription>
+				<swatchcolor>808080</swatchcolor>
+				<productnameline1>Nike Roshe One</productnameline1>
+				<productnameline2>Men&apos;s Shoe</productnameline2>
+				<productslug>roshe-one-shoe</productslug>
+			</style>
+			<style language="el">
+				<stylename>Ανδρικό παπούτσι Nike Roshe One</stylename>
+				<longdescription>&lt;div class=&quot;pi-tier3&quot;&gt;&lt;div class=&quot;pi-pdpmainbody&quot;&gt;&lt;p&gt;&lt;b&gt;ΚΟΡΥΦΑΙΟΣ ΑΕΡΙΣΜΟΣ ΤΟΥ ΔΕΡΜΑΤΟΣ ΚΑΙ ΑΝΤΙΚΡΑΔΑΣΜΙΚΗ ΠΡΟΣΤΑΣΙΑ&lt;/b&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;Με επάνω μέρος από διχτυωτό υλικό και ενδιάμεση σόλα κατασκευασμένη με την τεχνική της έγχυσης, τα ανδρικά παπούτσια Nike Roshe One παρέχουν δροσερή αίσθηση και ανάλαφρη προστασία πρόσκρουσης. Επειδή πρωταρχικός στόχος των παπουτσιών είναι η ευελιξία, μπορούν να φορεθούν με ή χωρίς κάλτσες, σε επίσημες ή ανεπίσημες περιστάσεις, για περπάτημα ή απλώς για καθημερινή χρήση.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Πλεονεκτήματα&lt;/b&gt;&lt;/p&gt;&lt;li&gt;Διχτυωτό επάνω μέρος που επιτρέπει στο δέρμα να αναπνέει&lt;/li&gt;&lt;li&gt;Ενδιάμεση σόλα IU σε όλο το μήκος για ανάλαφρη αντικραδασμική προστασία&lt;/li&gt;&lt;li&gt;Πάτος Solarsoft για απόλυτα άνετη εφαρμογή&lt;/li&gt;&lt;li&gt;Κολάρο με αντικραδασμική προστασία για στήριξη στον αστράγαλο&lt;/li&gt;&lt;li&gt;Εξωτερική σόλα IU με μοτίβο waffle για πρόσφυση&lt;/li&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Χαρακτηριστικές λεπτομέρειες&lt;/b&gt;&lt;/p&gt;Εμπνευσμένο από την πρακτική του διαλογισμού και την αντίληψη του Ζεν, το Nike Roshe One είναι η επιτομή της απλότητας. Δεν έχει στολίδια, παρά μόνο τα απολύτως απαραίτητα στοιχεία του παπουτσιού που αναδεικνύονται σε κάθε λεπτομέρεια. Σχεδόν κάθε μέρος του παπουτσιού αντιπροσωπεύει ένα διαφορετικό τμήμα σε έναν ήρεμο κήπο Ζεν: η τροποποιημένη εξωτερική σόλα με μοτίβο waffle που παραπέμπει σε στρογγυλές πέτρες, η εσωτερική σόλα που παραπέμπει στο χώμα ενός κήπου με βράχους και τα ελαφρώς διαφορετικά πλαϊνά μήκη της ενδιάμεσης σόλας, αντανακλούν όλα την αντιπαράθεση μεταξύ σοβαρότητας και παιχνιδιάρικης διάθεσης.&lt;/div&gt;&lt;/div&gt;</longdescription>
+				<colordescription>Wolf Grey/Λευκό</colordescription>
+				<swatchcolor>808080</swatchcolor>
+				<productnameline1>Nike Roshe One</productnameline1>
+				<productnameline2>Ανδρικό παπούτσι</productnameline2>
+				<productslug>%CE%B1%CE%BD%CE%B4%CF%81%CE%B9%CE%BA%CE%BF-%CF%80%CE%B1%CF%80%CE%BF%CF%85%CF%84%CF%83%CE%B9-roshe-one</productslug>
+			</style>
+			<style language="ca">
+				<stylename>Nike Roshe One Sabatilles - Home</stylename>
+				<longdescription>&lt;div class=&quot;pi-tier3&quot;&gt;&lt;div class=&quot;pi-pdpmainbody&quot;&gt;&lt;p&gt;&lt;b&gt;VENTILACIÓ I AMORTIMENT SUPERIORS&lt;/b&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;Amb una part superior únicament de malla i una entresola injectada, les sabatilles Nike Roshe One per a home ofereixen transpirabilitat i una protecció lleugera contra els impactes. L&apos;objectiu d&apos;aquestes sabatilles és ser versàtils: es poden portar amb mitjons o sense, per a un look esportiu o més formal, per caminar o simplement per relaxar-se.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Avantatges&lt;/b&gt;&lt;/p&gt;&lt;li&gt;Part superior de malla per a una transpirabilitat excel·lent&lt;/li&gt;&lt;li&gt;Entresola completa d&apos;IU per a un amortiment lleuger&lt;/li&gt;&lt;li&gt;Plantilla Solarsoft per a una comoditat de primera&lt;/li&gt;&lt;li&gt;Coll encoixinat que protegeix el turmell&lt;/li&gt;&lt;li&gt;Sola exterior d&apos;IU amb patró de tipus gofra per aconseguir més tracció&lt;/li&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Detalls exclusius&lt;/b&gt;&lt;/p&gt;Inspirades en la pràctica de la meditació i el concepte del zen, les Nike Roshe One són la màxima expressió de la simplicitat. No duen cap adorn, només els elements bàsics d&apos;unes sabatilles, que cobren vida en cada detall. Gairebé totes i cadascuna de les seves parts representen algun aspecte d&apos;un jardí zen: la sola exterior modificada té un disseny de tipus gofra com si fos un corriol de pedretes, la seva plantilla imita un jardí de roques rasclat i l&apos;entresola amb laterals desiguals és tota una juxtaposició de serietat i diversió.&lt;/div&gt;&lt;/div&gt;</longdescription>
+				<colordescription>Gris llop/Blanc</colordescription>
+				<swatchcolor>808080</swatchcolor>
+				<productnameline1>Nike Roshe One</productnameline1>
+				<productnameline2>Sabatilles - Home</productnameline2>
+				<productslug>roshe-one-sabatilles-home</productslug>
+			</style>
+			<style language="pl">
+				<stylename>Buty męskie Nike Roshe One</stylename>
+				<longdescription>&lt;div class=&quot;pi-tier3&quot;&gt;&lt;div class=&quot;pi-pdpmainbody&quot;&gt;&lt;p&gt;&lt;b&gt;DOSKONAŁA WENTYLACJA I AMORTYZACJA&lt;/b&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;Buty męskie Nike Roshe One mają cholewkę wykonaną w całości z siateczki oraz wtryskiwaną środkową podeszwę, dzięki czemu zapewniają doskonałą wentylację, lekkość i ochronę przed wstrząsami. Te uniwersalne buty mogą być noszone ze skarpetkami lub bez, do długich lub krótkich spodni i używane zarówno do chodzenia, jak i dla relaksu.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Zalety&lt;/b&gt;&lt;/p&gt;&lt;li&gt;Cholewka z siateczki gwarantuje doskonałą przewiewność&lt;/li&gt;&lt;li&gt;Pełnowymiarowa, wtryskiwana podeszwa środkowa zapewnia lekkość i amortyzację&lt;/li&gt;&lt;li&gt;Wkładka Solarsoft gwarantuje niezrównaną wygodę&lt;/li&gt;&lt;li&gt;Amortyzujący kołnierz buta chroni obszar wokół kostki&lt;/li&gt;&lt;li&gt;Wtryskiwana podeszwa zewnętrzna z waflowym bieżnikiem zapewnia przyczepność&lt;/li&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Wyjątkowe detale&lt;/b&gt;&lt;/p&gt;Buty Nike Roshe One, zainspirowane medytacją i filozofią Zen, są kwintesencją prostoty. Nie mają żadnych ozdób – tylko niezbędne elementy, dopracowane w każdym szczególe. Niemal każdy element buta odzwierciedla inny aspekt spokojnego ogrodu Zen: zmodyfikowany waflowy bieżnik podeszwy zewnętrznej przypomina kamienne stopnie, wewnętrzna wkładka przywodzi na myśl skalny ogród, a nieco różniące się długości boków podeszwy środkowej – przeciwstawienie powagi i radości.&lt;/div&gt;&lt;/div&gt;</longdescription>
+				<colordescription>Szary/Biel</colordescription>
+				<swatchcolor>808080</swatchcolor>
+				<productnameline1>Nike Roshe One</productnameline1>
+				<productnameline2>Buty męskie</productnameline2>
+				<productslug>buty-meskie-roshe-one</productslug>
+			</style>
+			<style language="it">
+				<stylename>Scarpa Nike Roshe One - Uomo</stylename>
+				<longdescription>&lt;div class=&quot;pi-tier3&quot;&gt;&lt;div class=&quot;pi-pdpmainbody&quot;&gt;&lt;p&gt;&lt;b&gt;TRASPIRABILITÀ E AMMORTIZZAZIONE AI MASSIMI LIVELLI&lt;/b&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;Con la tomaia interamente in mesh e l&apos;intersuola iniettata, la scarpa Nike Roshe One - Uomo garantisce massima traspirabilità e protezione leggera dagli impatti. Estremamente versatile, può essere indossata con o senza calzini, con un abbigliamento elegante o informale, per una passeggiata o semplicemente per rilassarsi.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Vantaggi del prodotto&lt;/b&gt;&lt;/p&gt;&lt;li&gt;La tomaia in mesh garantisce massima traspirabilità&lt;/li&gt;&lt;li&gt;L&apos;intersuola iniettata a tutta lunghezza offre un&apos;ammortizzazione leggera&lt;/li&gt;&lt;li&gt;Sottopiede Solarsoft per una calzata comoda&lt;/li&gt;&lt;li&gt;Collare imbottito per una protezione superiore nell&apos;area intorno alla caviglia&lt;/li&gt;&lt;li&gt;Suola iniettata con struttura waffle per una trazione senza pari&lt;/li&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Dettagli unici&lt;/b&gt;&lt;/p&gt;Ispirata alla pratica della meditazione e alla filosofia Zen, la scarpa Nike Roshe One è il simbolo della semplicità. Priva di particolari decorazioni, questa calzatura essenziale è studiata nel dettaglio per la massima funzionalità. Quasi ogni elemento della scarpa richiama un aspetto dei tranquilli giardini Zen: la suola Waffle modificata ricorda le pietre su cui si cammina, il motivo della suola interna trae spunto dalle aree rastrellate intorno alle rocce e i lati dell&apos;intersuola di lunghezza leggermente diversa simboleggiano la giustapposizione tra serietà e giocosità.&lt;/div&gt;&lt;/div&gt;</longdescription>
+				<colordescription>Wolf Grey/Bianco</colordescription>
+				<swatchcolor>808080</swatchcolor>
+				<productnameline1>Nike Roshe One</productnameline1>
+				<productnameline2>Scarpa - Uomo</productnameline2>
+				<productslug>scarpa-roshe-one</productslug>
+			</style>
+		</styledetail>
+		<catalogs>
+			<catalog id="300">
+				<name>EU</name>
+			</catalog>
+		</catalogs>
+		<prices>
+			<price country="GB" currency="GBP">
+				<listprice>70.00</listprice>
+				<saleprice>70.00</saleprice>
+				<employeeprice>42.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+			<price country="SE" currency="SEK">
+				<listprice>900.00</listprice>
+				<saleprice>900.00</saleprice>
+				<employeeprice>540.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+			<price country="ES" currency="EUR">
+				<listprice>90.00</listprice>
+				<saleprice>90.00</saleprice>
+				<employeeprice>54.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+			<price country="SI" currency="EUR">
+				<listprice>90.00</listprice>
+				<saleprice>90.00</saleprice>
+				<employeeprice>54.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+			<price country="PT" currency="EUR">
+				<listprice>90.00</listprice>
+				<saleprice>90.00</saleprice>
+				<employeeprice>54.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+			<price country="PL" currency="PLN">
+				<listprice>349.00</listprice>
+				<saleprice>349.00</saleprice>
+				<employeeprice>209.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+			<price country="NL" currency="EUR">
+				<listprice>90.00</listprice>
+				<saleprice>90.00</saleprice>
+				<employeeprice>54.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+			<price country="LU" currency="EUR">
+				<listprice>90.00</listprice>
+				<saleprice>90.00</saleprice>
+				<employeeprice>54.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+			<price country="IT" currency="EUR">
+				<listprice>91.00</listprice>
+				<saleprice>91.00</saleprice>
+				<employeeprice>54.60</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+			<price country="IE" currency="EUR">
+				<listprice>85.00</listprice>
+				<saleprice>85.00</saleprice>
+				<employeeprice>51.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+			<price country="HU" currency="EUR">
+				<listprice>90.00</listprice>
+				<saleprice>90.00</saleprice>
+				<employeeprice>54.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+			<price country="GR" currency="EUR">
+				<listprice>90.00</listprice>
+				<saleprice>90.00</saleprice>
+				<employeeprice>54.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+			<price country="DE" currency="EUR">
+				<listprice>90.00</listprice>
+				<saleprice>90.00</saleprice>
+				<employeeprice>54.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+			<price country="FR" currency="EUR">
+				<listprice>90.00</listprice>
+				<saleprice>90.00</saleprice>
+				<employeeprice>54.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+			<price country="FI" currency="EUR">
+				<listprice>99.00</listprice>
+				<saleprice>99.00</saleprice>
+				<employeeprice>59.40</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+			<price country="DK" currency="DKK">
+				<listprice>730.00</listprice>
+				<saleprice>730.00</saleprice>
+				<employeeprice>438.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+			<price country="CZ" currency="EUR">
+				<listprice>90.00</listprice>
+				<saleprice>90.00</saleprice>
+				<employeeprice>54.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+			<price country="BE" currency="EUR">
+				<listprice>90.00</listprice>
+				<saleprice>90.00</saleprice>
+				<employeeprice>54.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+			<price country="AT" currency="EUR">
+				<listprice>90.00</listprice>
+				<saleprice>90.00</saleprice>
+				<employeeprice>54.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+		</prices>
+		<sizes>
+			<size id="11404903">
+				<size>6</size>
+				<sequence>8</sequence>
+				<upc>0888408081933</upc>
+				<stock>0</stock>
+				<allstock>0</allstock>
+			</size>
+			<size id="11404904">
+				<size>6.5</size>
+				<sequence>9</sequence>
+				<upc>0888408081940</upc>
+				<stock>0</stock>
+				<allstock>0</allstock>
+			</size>
+			<size id="11404905">
+				<size>7</size>
+				<sequence>18</sequence>
+				<upc>0888408081957</upc>
+				<stock>0</stock>
+				<allstock>0</allstock>
+			</size>
+			<size id="11404906">
+				<size>7.5</size>
+				<sequence>26</sequence>
+				<upc>0888408081964</upc>
+				<stock>0</stock>
+				<allstock>0</allstock>
+			</size>
+			<size id="11404907">
+				<size>8</size>
+				<sequence>27</sequence>
+				<upc>0888408081971</upc>
+				<stock>0</stock>
+				<allstock>0</allstock>
+			</size>
+			<size id="11404908">
+				<size>8.5</size>
+				<sequence>29</sequence>
+				<upc>0888408081988</upc>
+				<stock>0</stock>
+				<allstock>0</allstock>
+			</size>
+			<size id="11404909">
+				<size>9</size>
+				<sequence>30</sequence>
+				<upc>0888408081995</upc>
+				<stock>0</stock>
+				<allstock>0</allstock>
+			</size>
+			<size id="11404910">
+				<size>9.5</size>
+				<sequence>31</sequence>
+				<upc>0888408082008</upc>
+				<stock>0</stock>
+				<allstock>0</allstock>
+			</size>
+			<size id="11404911">
+				<size>10</size>
+				<sequence>32</sequence>
+				<upc>0888408082015</upc>
+				<stock>0</stock>
+				<allstock>0</allstock>
+			</size>
+			<size id="11404912">
+				<size>10.5</size>
+				<sequence>33</sequence>
+				<upc>0888408082022</upc>
+				<stock>0</stock>
+				<allstock>0</allstock>
+			</size>
+			<size id="11404913">
+				<size>11</size>
+				<sequence>34</sequence>
+				<upc>0888408082039</upc>
+				<stock>0</stock>
+				<allstock>0</allstock>
+			</size>
+			<size id="11404914">
+				<size>11.5</size>
+				<sequence>36</sequence>
+				<upc>0888408082046</upc>
+				<stock>0</stock>
+				<allstock>0</allstock>
+			</size>
+			<size id="11404915">
+				<size>12</size>
+				<sequence>38</sequence>
+				<upc>0888408082053</upc>
+				<stock>0</stock>
+				<allstock>0</allstock>
+			</size>
+			<size id="11404916">
+				<size>12.5</size>
+				<sequence>39</sequence>
+				<upc>0888408082060</upc>
+				<stock>0</stock>
+				<allstock>0</allstock>
+			</size>
+			<size id="11404917">
+				<size>13</size>
+				<sequence>41</sequence>
+				<upc>0888408082077</upc>
+				<stock>0</stock>
+				<allstock>0</allstock>
+			</size>
+			<size id="11404918">
+				<size>14</size>
+				<sequence>43</sequence>
+				<upc>0888408082084</upc>
+				<stock>0</stock>
+				<allstock>0</allstock>
+			</size>
+			<size id="11404919">
+				<size>15</size>
+				<sequence>45</sequence>
+				<upc>0888408082091</upc>
+				<stock>0</stock>
+				<allstock>0</allstock>
+			</size>
+			<size id="11404920">
+				<size>16</size>
+				<sequence>47</sequence>
+				<upc>0888408888303</upc>
+				<stock>0</stock>
+				<allstock>0</allstock>
+			</size>
+			<size id="11404921">
+				<size>17</size>
+				<sequence>49</sequence>
+				<upc>0888408888310</upc>
+				<stock>0</stock>
+				<allstock>0</allstock>
+			</size>
+		</sizes>
+		<attributes>
+			<attribute type="digitalseason" language="en">
+				<code>HO15</code>
+				<name>HO15</name>
+			</attribute>
+			<attribute type="occasion" language="ca">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="occasion" language="de">
+				<code>Lifestyle</code>
+				<name>Freizeit</name>
+			</attribute>
+			<attribute type="occasion" language="el">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="occasion" language="en">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="occasion" language="es">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="occasion" language="fr">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="occasion" language="it">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="occasion" language="nl">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="occasion" language="pl">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="temporaryglobalnvcollections" language="ca">
+				<code>Gear Up</code>
+				<name>Equipa&apos;t</name>
+			</attribute>
+			<attribute type="temporaryglobalnvcollections" language="de">
+				<code>Gear Up</code>
+				<name>Rüste dich aus</name>
+			</attribute>
+			<attribute type="temporaryglobalnvcollections" language="el">
+				<code>Gear Up</code>
+				<name>Εξοπλίσου</name>
+			</attribute>
+			<attribute type="temporaryglobalnvcollections" language="en">
+				<code>Gear Up</code>
+				<name>Gear Up</name>
+			</attribute>
+			<attribute type="temporaryglobalnvcollections" language="es">
+				<code>Gear Up</code>
+				<name>Equípate</name>
+			</attribute>
+			<attribute type="temporaryglobalnvcollections" language="fr">
+				<code>Gear Up</code>
+				<name>Équipez-vous</name>
+			</attribute>
+			<attribute type="temporaryglobalnvcollections" language="it">
+				<code>Gear Up</code>
+				<name>Must-have</name>
+			</attribute>
+			<attribute type="temporaryglobalnvcollections" language="nl">
+				<code>Gear Up</code>
+				<name>Gear Up</name>
+			</attribute>
+			<attribute type="temporaryglobalnvcollections" language="pl">
+				<code>Gear Up</code>
+				<name>Wybierz odpowiednie produkty</name>
+			</attribute>
+			<attribute type="globalevergreennvcollections" language="ca">
+				<code>Roshe One</code>
+				<name>Roshe One</name>
+			</attribute>
+			<attribute type="globalevergreennvcollections" language="de">
+				<code>Roshe One</code>
+				<name>Roshe One</name>
+			</attribute>
+			<attribute type="globalevergreennvcollections" language="el">
+				<code>Roshe One</code>
+				<name>Roshe One</name>
+			</attribute>
+			<attribute type="globalevergreennvcollections" language="en">
+				<code>Roshe One</code>
+				<name>Roshe One</name>
+			</attribute>
+			<attribute type="globalevergreennvcollections" language="es">
+				<code>Roshe One</code>
+				<name>Roshe One</name>
+			</attribute>
+			<attribute type="globalevergreennvcollections" language="fr">
+				<code>Roshe One</code>
+				<name>Roshe One</name>
+			</attribute>
+			<attribute type="globalevergreennvcollections" language="it">
+				<code>Roshe One</code>
+				<name>Roshe One</name>
+			</attribute>
+			<attribute type="globalevergreennvcollections" language="nl">
+				<code>Roshe One</code>
+				<name>Roshe One</name>
+			</attribute>
+			<attribute type="globalevergreennvcollections" language="pl">
+				<code>Roshe One</code>
+				<name>Roshe One</name>
+			</attribute>
+			<attribute type="logocolor" language="ca">
+				<code>White</code>
+				<name>Blanc</name>
+			</attribute>
+			<attribute type="logocolor" language="de">
+				<code>White</code>
+				<name>Weiß</name>
+			</attribute>
+			<attribute type="logocolor" language="el">
+				<code>White</code>
+				<name>Λευκό</name>
+			</attribute>
+			<attribute type="logocolor" language="en">
+				<code>White</code>
+				<name>White</name>
+			</attribute>
+			<attribute type="logocolor" language="es">
+				<code>White</code>
+				<name>Blanco</name>
+			</attribute>
+			<attribute type="logocolor" language="fr">
+				<code>White</code>
+				<name>Blanc</name>
+			</attribute>
+			<attribute type="logocolor" language="it">
+				<code>White</code>
+				<name>Bianco</name>
+			</attribute>
+			<attribute type="logocolor" language="nl">
+				<code>White</code>
+				<name>Wit</name>
+			</attribute>
+			<attribute type="logocolor" language="pl">
+				<code>White</code>
+				<name>Biel</name>
+			</attribute>
+			<attribute type="primarycolor" language="ca">
+				<code>Wolf Grey</code>
+				<name>Gris llop</name>
+			</attribute>
+			<attribute type="primarycolor" language="de">
+				<code>Wolf Grey</code>
+				<name>Wolf Grey</name>
+			</attribute>
+			<attribute type="primarycolor" language="el">
+				<code>Wolf Grey</code>
+				<name>Wolf Grey</name>
+			</attribute>
+			<attribute type="primarycolor" language="en">
+				<code>Wolf Grey</code>
+				<name>Wolf Grey</name>
+			</attribute>
+			<attribute type="primarycolor" language="es">
+				<code>Wolf Grey</code>
+				<name>Gris lobo</name>
+			</attribute>
+			<attribute type="primarycolor" language="fr">
+				<code>Wolf Grey</code>
+				<name>Gris loup</name>
+			</attribute>
+			<attribute type="primarycolor" language="it">
+				<code>Wolf Grey</code>
+				<name>Wolf Grey</name>
+			</attribute>
+			<attribute type="primarycolor" language="nl">
+				<code>Wolf Grey</code>
+				<name>Wolf Grey</name>
+			</attribute>
+			<attribute type="primarycolor" language="pl">
+				<code>Wolf Grey</code>
+				<name>Szary</name>
+			</attribute>
+			<attribute type="onenikesizefit" language="en">
+				<code>mens-shoe-sizing-chart</code>
+				<name>Men&apos;s Shoes</name>
+			</attribute>
+			<attribute type="startDate" language="en">
+				<code>2015-06-23 07:00:00</code>
+				<name>2015-06-23 07:00:00</name>
+			</attribute>
+			<attribute type="publishdate" language="en">
+				<code>2015-06-23 00:00:00</code>
+				<name>2015-06-23 00:00:00</name>
+			</attribute>
+			<attribute type="nikeidmatchstyle" language="en">
+				<code>855901</code>
+				<name>855901</name>
+			</attribute>
+			<attribute type="nikeidmatch" language="en">
+				<code>true</code>
+				<name>true</name>
+			</attribute>
+			<attribute type="hardlaunch" language="en">
+				<code>true</code>
+				<name>true</name>
+			</attribute>
+			<attribute type="divisioncode" language="en">
+				<code>20</code>
+				<name>20</name>
+			</attribute>
+			<attribute type="classid" language="en">
+				<code>2067</code>
+				<name>2067</name>
+			</attribute>
+			<attribute type="sizeconversion" language="de">
+				<code>Men&apos;s Footwear</code>
+				<name>Men&apos;s Footwear</name>
+			</attribute>
+			<attribute type="sizeconversion" language="en">
+				<code>Men&apos;s Footwear</code>
+				<name>Men&apos;s Footwear</name>
+			</attribute>
+			<attribute type="sizeconversion" language="es">
+				<code>Men&apos;s Footwear</code>
+				<name>Men&apos;s Footwear</name>
+			</attribute>
+			<attribute type="sizeconversion" language="fr">
+				<code>Men&apos;s Footwear</code>
+				<name>Men&apos;s Footwear</name>
+			</attribute>
+			<attribute type="sizeconversion" language="it">
+				<code>Men&apos;s Footwear</code>
+				<name>Men&apos;s Footwear</name>
+			</attribute>
+			<attribute type="hexvalue" language="ca">
+				<code>808080</code>
+				<name>Gris</name>
+			</attribute>
+			<attribute type="hexvalue" language="de">
+				<code>808080</code>
+				<name>Grau</name>
+			</attribute>
+			<attribute type="hexvalue" language="el">
+				<code>808080</code>
+				<name>Γκρι</name>
+			</attribute>
+			<attribute type="hexvalue" language="en">
+				<code>808080</code>
+				<name>Grey</name>
+			</attribute>
+			<attribute type="hexvalue" language="es">
+				<code>808080</code>
+				<name>Gris</name>
+			</attribute>
+			<attribute type="hexvalue" language="fr">
+				<code>808080</code>
+				<name>Gris</name>
+			</attribute>
+			<attribute type="hexvalue" language="it">
+				<code>808080</code>
+				<name>Grigio</name>
+			</attribute>
+			<attribute type="hexvalue" language="nl">
+				<code>808080</code>
+				<name>Grijs</name>
+			</attribute>
+			<attribute type="hexvalue" language="pl">
+				<code>808080</code>
+				<name>Szary</name>
+			</attribute>
+			<attribute type="shoes-style" language="ca">
+				<code>Roshe</code>
+				<name>Roshe</name>
+			</attribute>
+			<attribute type="shoes-style" language="de">
+				<code>Roshe</code>
+				<name>Roshe</name>
+			</attribute>
+			<attribute type="shoes-style" language="el">
+				<code>Roshe</code>
+				<name>Roshe</name>
+			</attribute>
+			<attribute type="shoes-style" language="en">
+				<code>Roshe</code>
+				<name>Roshe</name>
+			</attribute>
+			<attribute type="shoes-style" language="es">
+				<code>Roshe</code>
+				<name>Roshe</name>
+			</attribute>
+			<attribute type="shoes-style" language="fr">
+				<code>Roshe</code>
+				<name>Roshe</name>
+			</attribute>
+			<attribute type="shoes-style" language="it">
+				<code>Roshe</code>
+				<name>Roshe</name>
+			</attribute>
+			<attribute type="shoes-style" language="nl">
+				<code>Roshe</code>
+				<name>Roshe</name>
+			</attribute>
+			<attribute type="shoes-style" language="pl">
+				<code>Roshe</code>
+				<name>Roshe</name>
+			</attribute>
+			<attribute type="primarysport" language="ca">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="primarysport" language="de">
+				<code>Lifestyle</code>
+				<name>Freizeit</name>
+			</attribute>
+			<attribute type="primarysport" language="el">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="primarysport" language="en">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="primarysport" language="es">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="primarysport" language="fr">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="primarysport" language="it">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="primarysport" language="nl">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="primarysport" language="pl">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="simplecolor" language="ca">
+				<code>Grey</code>
+				<name>Gris</name>
+			</attribute>
+			<attribute type="simplecolor" language="de">
+				<code>Grey</code>
+				<name>Grau</name>
+			</attribute>
+			<attribute type="simplecolor" language="el">
+				<code>Grey</code>
+				<name>Γκρι</name>
+			</attribute>
+			<attribute type="simplecolor" language="en">
+				<code>Grey</code>
+				<name>Grey</name>
+			</attribute>
+			<attribute type="simplecolor" language="es">
+				<code>Grey</code>
+				<name>Gris</name>
+			</attribute>
+			<attribute type="simplecolor" language="fr">
+				<code>Grey</code>
+				<name>Gris</name>
+			</attribute>
+			<attribute type="simplecolor" language="it">
+				<code>Grey</code>
+				<name>Grigio</name>
+			</attribute>
+			<attribute type="simplecolor" language="nl">
+				<code>Grey</code>
+				<name>Grijs</name>
+			</attribute>
+			<attribute type="simplecolor" language="pl">
+				<code>Grey</code>
+				<name>Szary</name>
+			</attribute>
+			<attribute type="shoeheight" language="ca">
+				<code>Low Top</code>
+				<name>Sabatilles baixes</name>
+			</attribute>
+			<attribute type="shoeheight" language="de">
+				<code>Low Top</code>
+				<name>Low Top</name>
+			</attribute>
+			<attribute type="shoeheight" language="el">
+				<code>Low Top</code>
+				<name>Χαμηλά</name>
+			</attribute>
+			<attribute type="shoeheight" language="en">
+				<code>Low Top</code>
+				<name>Low Top</name>
+			</attribute>
+			<attribute type="shoeheight" language="es">
+				<code>Low Top</code>
+				<name>Bajo Top</name>
+			</attribute>
+			<attribute type="shoeheight" language="fr">
+				<code>Low Top</code>
+				<name>Basse</name>
+			</attribute>
+			<attribute type="shoeheight" language="it">
+				<code>Low Top</code>
+				<name>Low Top</name>
+			</attribute>
+			<attribute type="shoeheight" language="nl">
+				<code>Low Top</code>
+				<name>Low Top</name>
+			</attribute>
+			<attribute type="shoeheight" language="pl">
+				<code>Low Top</code>
+				<name>Niskie buty</name>
+			</attribute>
+			<attribute type="nowviewing" language="ca">
+				<code>Track and Field</code>
+				<name>Track and Field</name>
+			</attribute>
+			<attribute type="nowviewing" language="de">
+				<code>Track and Field</code>
+				<name>Track and Field</name>
+			</attribute>
+			<attribute type="nowviewing" language="el">
+				<code>Track and Field</code>
+				<name>Track and Field</name>
+			</attribute>
+			<attribute type="nowviewing" language="en">
+				<code>Track and Field</code>
+				<name>Track and Field</name>
+			</attribute>
+			<attribute type="nowviewing" language="es">
+				<code>Track and Field</code>
+				<name>Track and Field</name>
+			</attribute>
+			<attribute type="nowviewing" language="fr">
+				<code>Track and Field</code>
+				<name>Track and Field</name>
+			</attribute>
+			<attribute type="nowviewing" language="it">
+				<code>Track and Field</code>
+				<name>Track and Field</name>
+			</attribute>
+			<attribute type="nowviewing" language="nl">
+				<code>Track and Field</code>
+				<name>Track and Field</name>
+			</attribute>
+			<attribute type="nowviewing" language="pl">
+				<code>Track and Field</code>
+				<name>Track and Field</name>
+			</attribute>
+			<attribute type="nowviewing" language="ca">
+				<code>Nike Roshe Run</code>
+				<name>Nike Roshe Run</name>
+			</attribute>
+			<attribute type="nowviewing" language="de">
+				<code>Nike Roshe Run</code>
+				<name>Nike Roshe Run</name>
+			</attribute>
+			<attribute type="nowviewing" language="el">
+				<code>Nike Roshe Run</code>
+				<name>Nike Roshe Run</name>
+			</attribute>
+			<attribute type="nowviewing" language="en">
+				<code>Nike Roshe Run</code>
+				<name>Nike Roshe Run</name>
+			</attribute>
+			<attribute type="nowviewing" language="es">
+				<code>Nike Roshe Run</code>
+				<name>Nike Roshe Run</name>
+			</attribute>
+			<attribute type="nowviewing" language="fr">
+				<code>Nike Roshe Run</code>
+				<name>Nike Roshe Run</name>
+			</attribute>
+			<attribute type="nowviewing" language="it">
+				<code>Nike Roshe Run</code>
+				<name>Nike Roshe Run</name>
+			</attribute>
+			<attribute type="nowviewing" language="nl">
+				<code>Nike Roshe Run</code>
+				<name>Nike Roshe Run</name>
+			</attribute>
+			<attribute type="nowviewing" language="pl">
+				<code>Nike Roshe Run</code>
+				<name>Nike Roshe Run</name>
+			</attribute>
+			<attribute type="category" language="de">
+				<code>Shoes</code>
+				<name>Shoes</name>
+			</attribute>
+			<attribute type="category" language="en">
+				<code>Shoes</code>
+				<name>Shoes</name>
+			</attribute>
+			<attribute type="category" language="es">
+				<code>Shoes</code>
+				<name>Shoes</name>
+			</attribute>
+			<attribute type="category" language="fr">
+				<code>Shoes</code>
+				<name>Shoes</name>
+			</attribute>
+			<attribute type="category" language="it">
+				<code>Shoes</code>
+				<name>Shoes</name>
+			</attribute>
+			<attribute type="brand" language="ca">
+				<code>Nike Sportswear</code>
+				<name>Nike Sportswear</name>
+			</attribute>
+			<attribute type="brand" language="de">
+				<code>Nike Sportswear</code>
+				<name>Nike Sportswear</name>
+			</attribute>
+			<attribute type="brand" language="el">
+				<code>Nike Sportswear</code>
+				<name>Nike Sportswear</name>
+			</attribute>
+			<attribute type="brand" language="en">
+				<code>Nike Sportswear</code>
+				<name>Nike Sportswear</name>
+			</attribute>
+			<attribute type="brand" language="es">
+				<code>Nike Sportswear</code>
+				<name>Nike Sportswear</name>
+			</attribute>
+			<attribute type="brand" language="fr">
+				<code>Nike Sportswear</code>
+				<name>Nike Sportswear</name>
+			</attribute>
+			<attribute type="brand" language="it">
+				<code>Nike Sportswear</code>
+				<name>Nike Sportswear</name>
+			</attribute>
+			<attribute type="brand" language="nl">
+				<code>Nike Sportswear</code>
+				<name>Nike Sportswear</name>
+			</attribute>
+			<attribute type="brand" language="pl">
+				<code>Nike Sportswear</code>
+				<name>Nike Sportswear</name>
+			</attribute>
+			<attribute type="width" language="ca">
+				<code>REGULAR</code>
+				<name>Normal</name>
+			</attribute>
+			<attribute type="width" language="de">
+				<code>REGULAR</code>
+				<name>Normal</name>
+			</attribute>
+			<attribute type="width" language="el">
+				<code>REGULAR</code>
+				<name>Κανονικο</name>
+			</attribute>
+			<attribute type="width" language="en">
+				<code>REGULAR</code>
+				<name>Regular</name>
+			</attribute>
+			<attribute type="width" language="es">
+				<code>REGULAR</code>
+				<name>Normal</name>
+			</attribute>
+			<attribute type="width" language="fr">
+				<code>REGULAR</code>
+				<name>Classique</name>
+			</attribute>
+			<attribute type="width" language="it">
+				<code>REGULAR</code>
+				<name>Normale</name>
+			</attribute>
+			<attribute type="width" language="nl">
+				<code>REGULAR</code>
+				<name>Normaal</name>
+			</attribute>
+			<attribute type="width" language="pl">
+				<code>REGULAR</code>
+				<name>Normalny</name>
+			</attribute>
+			<attribute type="gender" language="ca">
+				<code>Men</code>
+				<name>Home</name>
+			</attribute>
+			<attribute type="gender" language="de">
+				<code>Men</code>
+				<name>Herren</name>
+			</attribute>
+			<attribute type="gender" language="el">
+				<code>Men</code>
+				<name>&apos;Ανδρες</name>
+			</attribute>
+			<attribute type="gender" language="en">
+				<code>Men</code>
+				<name>Men</name>
+			</attribute>
+			<attribute type="gender" language="es">
+				<code>Men</code>
+				<name>Hombre</name>
+			</attribute>
+			<attribute type="gender" language="fr">
+				<code>Men</code>
+				<name>Hommes</name>
+			</attribute>
+			<attribute type="gender" language="it">
+				<code>Men</code>
+				<name>Uomo</name>
+			</attribute>
+			<attribute type="gender" language="nl">
+				<code>Men</code>
+				<name>Heren</name>
+			</attribute>
+			<attribute type="gender" language="pl">
+				<code>Men</code>
+				<name>Mężczyźni</name>
+			</attribute>
+			<attribute type="modeltype" language="pl">
+				<code>Footwear</code>
+				<name>Buty</name>
+			</attribute>
+			<attribute type="modeltype" language="nl">
+				<code>Footwear</code>
+				<name>Schoenen</name>
+			</attribute>
+			<attribute type="modeltype" language="it">
+				<code>Footwear</code>
+				<name>Scarpe</name>
+			</attribute>
+			<attribute type="modeltype" language="fr">
+				<code>Footwear</code>
+				<name>Chaussures</name>
+			</attribute>
+			<attribute type="modeltype" language="es">
+				<code>Footwear</code>
+				<name>Calzado</name>
+			</attribute>
+			<attribute type="modeltype" language="en">
+				<code>Footwear</code>
+				<name>Shoes</name>
+			</attribute>
+			<attribute type="modeltype" language="el">
+				<code>Footwear</code>
+				<name>Παπούτσια</name>
+			</attribute>
+			<attribute type="modeltype" language="de">
+				<code>Footwear</code>
+				<name>Schuhe</name>
+			</attribute>
+			<attribute type="modeltype" language="ca">
+				<code>Footwear</code>
+				<name>Calçat</name>
+			</attribute>
+		</attributes>
+	</PRODUCT>
+	<PRODUCT productid="10192757">
+		<stylenumber>511881</stylenumber>
+		<recommend>true</recommend>
+		<productgroupid>11168408</productgroupid>
+		<niketype>FOOTWEAR</niketype>
+		<partnumber>511881-405</partnumber>
+		<status>ACTIVE</status>
+		<colornumber>405</colornumber>
+		<imageurl>http://images.nike.com/is/image/DotCom/511881_405_A?$AFI$</imageurl>
+		<pdpurl>http://store.nike.com/gb/en_gb/pd/roshe-one-shoe/pid-10192757/pgid-11168408</pdpurl>
+		<startdate>24-DEC-14</startdate>
+		<producttype>1</producttype>
+		<taxcode> </taxcode>
+		<styledetail>
+			<style language="it">
+				<stylename>Scarpa Nike Roshe One - Uomo</stylename>
+				<longdescription>&lt;div class=&quot;pi-tier3&quot;&gt;&lt;div class=&quot;pi-pdpmainbody&quot;&gt;&lt;p&gt;&lt;b&gt;TRASPIRABILITÀ E AMMORTIZZAZIONE AI MASSIMI LIVELLI&lt;/b&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;Con la tomaia interamente in mesh e l&apos;intersuola iniettata, la scarpa Nike Roshe One - Uomo garantisce massima traspirabilità e protezione leggera dagli impatti. Estremamente versatile, può essere indossata con o senza calzini, con un abbigliamento elegante o informale, per una passeggiata o semplicemente per rilassarsi.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Vantaggi del prodotto&lt;/b&gt;&lt;/p&gt;&lt;li&gt;La tomaia in mesh garantisce massima traspirabilità&lt;/li&gt;&lt;li&gt;L&apos;intersuola iniettata a tutta lunghezza offre un&apos;ammortizzazione leggera&lt;/li&gt;&lt;li&gt;Sottopiede Solarsoft per una calzata comoda&lt;/li&gt;&lt;li&gt;Collare imbottito per una protezione superiore nell&apos;area intorno alla caviglia&lt;/li&gt;&lt;li&gt;Suola iniettata con struttura waffle per una trazione senza pari&lt;/li&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Dettagli unici&lt;/b&gt;&lt;/p&gt;Ispirata alla pratica della meditazione e alla filosofia Zen, la scarpa Nike Roshe One è il simbolo della semplicità. Priva di particolari decorazioni, questa calzatura essenziale è studiata nel dettaglio per la massima funzionalità. Quasi ogni elemento della scarpa richiama un aspetto dei tranquilli giardini Zen: la suola Waffle modificata ricorda le pietre su cui si cammina, il motivo della suola interna trae spunto dalle aree rastrellate intorno alle rocce e i lati dell&apos;intersuola di lunghezza leggermente diversa simboleggiano la giustapposizione tra serietà e giocosità.&lt;/div&gt;&lt;/div&gt;</longdescription>
+				<colordescription>Midnight Navy/Bianco/Nero</colordescription>
+				<swatchcolor>1F4090</swatchcolor>
+				<productnameline1>Nike Roshe One</productnameline1>
+				<productnameline2>Scarpa - Uomo</productnameline2>
+				<productslug>scarpa-roshe-one</productslug>
+			</style>
+			<style language="nl">
+				<stylename>Nike Roshe One Herenschoen</stylename>
+				<longdescription>&lt;div class=&quot;pi-tier3&quot;&gt;&lt;div class=&quot;pi-pdpmainbody&quot;&gt;&lt;p&gt;&lt;b&gt;SUPERIEURE VENTILATIE EN DEMPING&lt;/b&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;De lichte Nike Roshe One herenschoen heeft een bovenwerk van mesh en een ingespoten middenzool voor ventilatie en schokbescherming. De schoen is veelzijdig, kan met of zonder sokken worden gedragen, past bij een chique of casual outfit, maar is ook heel geschikt voor wandelen of gewoon relaxen.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Pluspunten&lt;/b&gt;&lt;/p&gt;&lt;li&gt;Bovenwerk van mesh voor uitstekende ventilatie&lt;/li&gt;&lt;li&gt;Lichte IU-middenzool over de gehele lengte voor demping&lt;/li&gt;&lt;li&gt;Solarsoft inlegzool voor hoogwaardig comfort&lt;/li&gt;&lt;li&gt;Gewatteerde rand voor bescherming rond de enkel&lt;/li&gt;&lt;li&gt;IU-buitenzool met wafelpatroon voor grip&lt;/li&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Kenmerkende details&lt;/b&gt;&lt;/p&gt;De Nike Roshe One is geïnspireerd op meditatie en zen, en belichaamt eenvoud. De schoen heeft geen opsmuk, alleen de basisvereisten die tot leven worden gebracht in elk detail. Bijna elk deel van de schoen vertegenwoordigt een aspect van een serene Zen-tuin: een buitenzool met wafelpatroon dat op stapstenen lijkt, een binnenzool die een spiegel is van een aangeharkte rotstuin en een middenzool waarvan de lengte van de zijkanten enigszins varieert - een mengeling van ernst en speelsheid.&lt;/div&gt;&lt;/div&gt;</longdescription>
+				<colordescription>Midnight Navy/Wit/Zwart</colordescription>
+				<swatchcolor>1F4090</swatchcolor>
+				<productnameline1>Nike Roshe One</productnameline1>
+				<productnameline2>Herenschoen</productnameline2>
+				<productslug>roshe-one-herenschoen</productslug>
+			</style>
+			<style language="es">
+				<stylename>Nike Roshe One Zapatillas - Hombre</stylename>
+				<longdescription>&lt;div class=&quot;pi-tier3&quot;&gt;&lt;div class=&quot;pi-pdpmainbody&quot;&gt;&lt;p&gt;&lt;b&gt;VENTILACIÓN Y AMORTIGUACIÓN SUPERIORES&lt;/b&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;Con una parte superior de malla completa y una mediasuela de material inyectado, las zapatillas para hombre Nike Roshe One ofrecen transpirabilidad y una ligera protección contra impactos. El objetivo de estas zapatillas es ser versátiles, para llevarlas con o sin calcetines, elegir entre un look más deportivo o más formal, para caminar o simplemente para relajarse.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Ventajas&lt;/b&gt;&lt;/p&gt;&lt;li&gt;Parte superior de malla completa para una excelente transpirabilidad&lt;/li&gt;&lt;li&gt;Mediasuela de IU completa para una amortiguación suave&lt;/li&gt;&lt;li&gt;Plantilla Solarsoft para una comodidad premium&lt;/li&gt;&lt;li&gt;Zona del tobillo acolchada para mayor protección alrededor del tobillo&lt;/li&gt;&lt;li&gt;Suela exterior de IU con diseño tipo gofre para una mayor tracción&lt;/li&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Detalles exclusivos&lt;/b&gt;&lt;/p&gt;Inspiradas en la práctica de la meditación y el concepto del zen, las Nike Roshe One son la máxima expresión de la simplicidad. No tienen adornos, solo disponen de los elementos básicos de unas zapatillas, que cobran vida con todos los detalles. Casi todas las partes de las zapatillas reflejan un aspecto de un apacible jardín zen: una suela exterior con diseño tipo gofre modificado que parece un sendero de piedras, una plantilla que imita un jardín de rocas peinado por un rastrillo y una mediasuela con longitudes laterales ligeramente diferentes: una yuxtaposición de seriedad y diversión.&lt;/div&gt;&lt;/div&gt;</longdescription>
+				<colordescription>Azul marino medianoche/Blanco/Negro</colordescription>
+				<swatchcolor>1F4090</swatchcolor>
+				<productnameline1>Nike Roshe One</productnameline1>
+				<productnameline2>Zapatillas - Hombre</productnameline2>
+				<productslug>roshe-one-zapatillas</productslug>
+			</style>
+			<style language="de">
+				<stylename>Nike Roshe One Herrenschuh</stylename>
+				<longdescription>&lt;div class=&quot;pi-tier3&quot;&gt;&lt;div class=&quot;pi-pdpmainbody&quot;&gt;&lt;p&gt;&lt;b&gt;ERSTKLASSIGE BELÜFTUNG UND DÄMPFUNG&lt;/b&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;Der Nike Roshe One Herrenschuh verfügt über ein durchgehendes Mesh-Obermaterial und eine eingespritzte Mittelsohle, die für Atmungsaktivität und federleichten Aufprallschutz sorgen. Der vielseitige Schuh kann mit oder ohne Socken getragen werden, für eleganten oder legeren Style beim Gehen oder Entspannen.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Vorteile&lt;/b&gt;&lt;/p&gt;&lt;li&gt;Mesh-Obermaterial für hervorragende Atmungsaktivität&lt;/li&gt;&lt;li&gt;Durchgehende IU-Mittelsohle für leichte Dämpfung&lt;/li&gt;&lt;li&gt;Solarsoft-Einlegesohle für erstklassigen Tragekomfort&lt;/li&gt;&lt;li&gt;Gepolsterter Schuhkragen für Knöchelschutz&lt;/li&gt;&lt;li&gt;IU-Außensohle mit Waffelprofil für Traktion&lt;/li&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Unverkennbare Details&lt;/b&gt;&lt;/p&gt;Der Nike Roshe One wurde durch die Praxis der Meditation und das Konzept des Zen inspiriert und verkörpert Schlichtheit. Kein unnötiger Schnickschnack, nur die grundlegenden Elemente eines Schuhs, die mit jedem Detail zum Ausdruck kommen. Fast jeder Teil des Schuhs symbolisiert einen Aspekt eines besinnlichen Zen-Gartens: die modifizierte Waffelaußensohle erinnert an Trittsteine, die Innensohle steht für einen geharkten Steingarten und die leicht abweichende Mittelsohlenlänge repräsentiert ein Wechselspiel zwischen Ernsthaftem und Verspieltem.&lt;/div&gt;&lt;/div&gt;</longdescription>
+				<colordescription>Midnight Navy/Weiß/Schwarz</colordescription>
+				<swatchcolor>1F4090</swatchcolor>
+				<productnameline1>Nike Roshe One</productnameline1>
+				<productnameline2>Herrenschuh</productnameline2>
+				<productslug>roshe-one-herrenschuh</productslug>
+			</style>
+			<style language="fr">
+				<stylename>Chaussure Nike Roshe One pour Homme</stylename>
+				<longdescription>&lt;div class=&quot;pi-tier3&quot;&gt;&lt;div class=&quot;pi-pdpmainbody&quot;&gt;&lt;p&gt;&lt;b&gt;AÉRATION ET AMORTI DE GRANDE QUALITÉ&lt;/b&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;Avec une empeigne entièrement en mesh et une semelle intermédiaire injectée, la chaussure Nike Roshe One pour Homme offre une grande respirabilité et une protection légère contre les chocs. Cette chaussure ultra-polyvalente peut être portée avec ou sans chaussettes et associée à un style décontracté ou recherché, pour aller se balader ou pour se relaxer.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Avantages&lt;/b&gt;&lt;/p&gt;&lt;li&gt;Empeigne intégralement doublée en mesh pour une excellente respirabilité&lt;/li&gt;&lt;li&gt;Semelle intermédiaire en IU sur toute la longueur pour un amorti en toute légèreté&lt;/li&gt;&lt;li&gt;Semelle de propreté Solarsoft pour un confort optimal&lt;/li&gt;&lt;li&gt;Col rembourré pour plus de protection autour de la cheville&lt;/li&gt;&lt;li&gt;Semelle extérieure en IU avec motif à chevrons pour plus d&apos;adhérence&lt;/li&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Détails caractéristiques&lt;/b&gt;&lt;/p&gt;Inspirée par la pratique de la méditation et l&apos;esprit zen, la chaussure Nike Roshe One est synonyme de simplicité. Ce modèle sans fioritures réunit toutes les caractéristiques essentielles d&apos;une chaussure simple mais performante. Quasiment chaque partie de la chaussure évoque l&apos;un des éléments des jardins zen, véritables havres de paix : la semelle extérieure à motif gaufré modifié est conçue pour rappeler les pierres de gué, la semelle intérieure imite le sol d&apos;un jardin minutieusement ratissé, tandis que la semelle intermédiaire, aux dimensions innovantes, permet d&apos;atteindre un équilibre parfait entre concentration et détente.&lt;/div&gt;&lt;/div&gt;</longdescription>
+				<colordescription>Bleu nuit marine/Blanc/Noir</colordescription>
+				<swatchcolor>1F4090</swatchcolor>
+				<productnameline1>Nike Roshe One</productnameline1>
+				<productnameline2>Chaussure pour Homme</productnameline2>
+				<productslug>chaussure-roshe-one-pour</productslug>
+			</style>
+			<style language="en">
+				<stylename>Nike Roshe One Men&apos;s Shoe</stylename>
+				<longdescription>&lt;div class=&quot;pi-tier3&quot;&gt;&lt;div class=&quot;pi-pdpmainbody&quot;&gt;&lt;p&gt;&lt;b&gt;SUPERIOR VENTILATION AND CUSHIONING&lt;/b&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;With a full mesh upper and injected unit midsole, the Nike Roshe One Men&apos;s Shoe offers breathability and lightweight impact protection. The shoe is intended to be versatile, worn with or without socks, dressed up or down, for walking or just taking it easy.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Benefits&lt;/b&gt;&lt;/p&gt;&lt;li&gt;Full mesh upper for excellent breathability&lt;/li&gt;&lt;li&gt;Full-length IU midsole for lightweight cushioning&lt;/li&gt;&lt;li&gt;Solarsoft sockliner for premium comfort&lt;/li&gt;&lt;li&gt;Cushioned collar for protection around ankle&lt;/li&gt;&lt;li&gt;IU outsole with Waffle pattern for traction&lt;/li&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Signature Details&lt;/b&gt;&lt;/p&gt;Inspired by the practice of meditation and the concept of Zen, the Nike Roshe One epitomises simplicity. It has no embellishments, just basic shoe necessities brought to life with every detail. Almost every part of the shoe reflects an aspect of a tranquil Zen garden: a modified Waffle outsole made to look like stepping stones, an insole that mirrors a raked rock garden, and slightly different midsole side lengths—a juxtaposition of seriousness and playfulness.&lt;/div&gt;&lt;/div&gt;</longdescription>
+				<colordescription>Midnight Navy/White/Black</colordescription>
+				<swatchcolor>1F4090</swatchcolor>
+				<productnameline1>Nike Roshe One</productnameline1>
+				<productnameline2>Men&apos;s Shoe</productnameline2>
+				<productslug>roshe-one-shoe</productslug>
+			</style>
+			<style language="el">
+				<stylename>Ανδρικό παπούτσι Nike Roshe One</stylename>
+				<longdescription>&lt;div class=&quot;pi-tier3&quot;&gt;&lt;div class=&quot;pi-pdpmainbody&quot;&gt;&lt;p&gt;&lt;b&gt;ΚΟΡΥΦΑΙΟΣ ΑΕΡΙΣΜΟΣ ΤΟΥ ΔΕΡΜΑΤΟΣ ΚΑΙ ΑΝΤΙΚΡΑΔΑΣΜΙΚΗ ΠΡΟΣΤΑΣΙΑ&lt;/b&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;Με επάνω μέρος από διχτυωτό υλικό και ενδιάμεση σόλα κατασκευασμένη με την τεχνική της έγχυσης, τα ανδρικά παπούτσια Nike Roshe One παρέχουν δροσερή αίσθηση και ανάλαφρη προστασία πρόσκρουσης. Επειδή πρωταρχικός στόχος των παπουτσιών είναι η ευελιξία, μπορούν να φορεθούν με ή χωρίς κάλτσες, σε επίσημες ή ανεπίσημες περιστάσεις, για περπάτημα ή απλώς για καθημερινή χρήση.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Πλεονεκτήματα&lt;/b&gt;&lt;/p&gt;&lt;li&gt;Διχτυωτό επάνω μέρος που επιτρέπει στο δέρμα να αναπνέει&lt;/li&gt;&lt;li&gt;Ενδιάμεση σόλα IU σε όλο το μήκος για ανάλαφρη αντικραδασμική προστασία&lt;/li&gt;&lt;li&gt;Πάτος Solarsoft για απόλυτα άνετη εφαρμογή&lt;/li&gt;&lt;li&gt;Κολάρο με αντικραδασμική προστασία για στήριξη στον αστράγαλο&lt;/li&gt;&lt;li&gt;Εξωτερική σόλα IU με μοτίβο waffle για πρόσφυση&lt;/li&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Χαρακτηριστικές λεπτομέρειες&lt;/b&gt;&lt;/p&gt;Εμπνευσμένο από την πρακτική του διαλογισμού και την αντίληψη του Ζεν, το Nike Roshe One είναι η επιτομή της απλότητας. Δεν έχει στολίδια, παρά μόνο τα απολύτως απαραίτητα στοιχεία του παπουτσιού που αναδεικνύονται σε κάθε λεπτομέρεια. Σχεδόν κάθε μέρος του παπουτσιού αντιπροσωπεύει ένα διαφορετικό τμήμα σε έναν ήρεμο κήπο Ζεν: η τροποποιημένη εξωτερική σόλα με μοτίβο waffle που παραπέμπει σε στρογγυλές πέτρες, η εσωτερική σόλα που παραπέμπει στο χώμα ενός κήπου με βράχους και τα ελαφρώς διαφορετικά πλαϊνά μήκη της ενδιάμεσης σόλας, αντανακλούν όλα την αντιπαράθεση μεταξύ σοβαρότητας και παιχνιδιάρικης διάθεσης.&lt;/div&gt;&lt;/div&gt;</longdescription>
+				<colordescription>Midnight Navy/Λευκό/Μαύρο</colordescription>
+				<swatchcolor>1F4090</swatchcolor>
+				<productnameline1>Nike Roshe One</productnameline1>
+				<productnameline2>Ανδρικό παπούτσι</productnameline2>
+				<productslug>%CE%B1%CE%BD%CE%B4%CF%81%CE%B9%CE%BA%CE%BF-%CF%80%CE%B1%CF%80%CE%BF%CF%85%CF%84%CF%83%CE%B9-roshe-one</productslug>
+			</style>
+			<style language="ca">
+				<stylename>Nike Roshe One Sabatilles - Home</stylename>
+				<longdescription>&lt;div class=&quot;pi-tier3&quot;&gt;&lt;div class=&quot;pi-pdpmainbody&quot;&gt;&lt;p&gt;&lt;b&gt;VENTILACIÓ I AMORTIMENT SUPERIORS&lt;/b&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;Amb una part superior únicament de malla i una entresola injectada, les sabatilles Nike Roshe One per a home ofereixen transpirabilitat i una protecció lleugera contra els impactes. L&apos;objectiu d&apos;aquestes sabatilles és ser versàtils: es poden portar amb mitjons o sense, per a un look esportiu o més formal, per caminar o simplement per relaxar-se.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Avantatges&lt;/b&gt;&lt;/p&gt;&lt;li&gt;Part superior de malla per a una transpirabilitat excel·lent&lt;/li&gt;&lt;li&gt;Entresola completa d&apos;IU per a un amortiment lleuger&lt;/li&gt;&lt;li&gt;Plantilla Solarsoft per a una comoditat de primera&lt;/li&gt;&lt;li&gt;Coll encoixinat que protegeix el turmell&lt;/li&gt;&lt;li&gt;Sola exterior d&apos;IU amb patró de tipus gofra per aconseguir més tracció&lt;/li&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Detalls exclusius&lt;/b&gt;&lt;/p&gt;Inspirades en la pràctica de la meditació i el concepte del zen, les Nike Roshe One són la màxima expressió de la simplicitat. No duen cap adorn, només els elements bàsics d&apos;unes sabatilles, que cobren vida en cada detall. Gairebé totes i cadascuna de les seves parts representen algun aspecte d&apos;un jardí zen: la sola exterior modificada té un disseny de tipus gofra com si fos un corriol de pedretes, la seva plantilla imita un jardí de roques rasclat i l&apos;entresola amb laterals desiguals és tota una juxtaposició de serietat i diversió.&lt;/div&gt;&lt;/div&gt;</longdescription>
+				<colordescription>Blau marí de mitjanit/Blanc/Negre</colordescription>
+				<swatchcolor>1F4090</swatchcolor>
+				<productnameline1>Nike Roshe One</productnameline1>
+				<productnameline2>Sabatilles - Home</productnameline2>
+				<productslug>roshe-one-sabatilles-home</productslug>
+			</style>
+			<style language="pl">
+				<stylename>Buty męskie Nike Roshe One</stylename>
+				<longdescription>&lt;div class=&quot;pi-tier3&quot;&gt;&lt;div class=&quot;pi-pdpmainbody&quot;&gt;&lt;p&gt;&lt;b&gt;DOSKONAŁA WENTYLACJA I AMORTYZACJA&lt;/b&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;Buty męskie Nike Roshe One mają cholewkę wykonaną w całości z siateczki oraz wtryskiwaną środkową podeszwę, dzięki czemu zapewniają doskonałą wentylację, lekkość i ochronę przed wstrząsami. Te uniwersalne buty mogą być noszone ze skarpetkami lub bez, do długich lub krótkich spodni i używane zarówno do chodzenia, jak i dla relaksu.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Zalety&lt;/b&gt;&lt;/p&gt;&lt;li&gt;Cholewka z siateczki gwarantuje doskonałą przewiewność&lt;/li&gt;&lt;li&gt;Pełnowymiarowa, wtryskiwana podeszwa środkowa zapewnia lekkość i amortyzację&lt;/li&gt;&lt;li&gt;Wkładka Solarsoft gwarantuje niezrównaną wygodę&lt;/li&gt;&lt;li&gt;Amortyzujący kołnierz buta chroni obszar wokół kostki&lt;/li&gt;&lt;li&gt;Wtryskiwana podeszwa zewnętrzna z waflowym bieżnikiem zapewnia przyczepność&lt;/li&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;Wyjątkowe detale&lt;/b&gt;&lt;/p&gt;Buty Nike Roshe One, zainspirowane medytacją i filozofią Zen, są kwintesencją prostoty. Nie mają żadnych ozdób – tylko niezbędne elementy, dopracowane w każdym szczególe. Niemal każdy element buta odzwierciedla inny aspekt spokojnego ogrodu Zen: zmodyfikowany waflowy bieżnik podeszwy zewnętrznej przypomina kamienne stopnie, wewnętrzna wkładka przywodzi na myśl skalny ogród, a nieco różniące się długości boków podeszwy środkowej – przeciwstawienie powagi i radości.&lt;/div&gt;&lt;/div&gt;</longdescription>
+				<colordescription>Ciemny granat/Biel/Czerń</colordescription>
+				<swatchcolor>1F4090</swatchcolor>
+				<productnameline1>Nike Roshe One</productnameline1>
+				<productnameline2>Buty męskie</productnameline2>
+				<productslug>buty-meskie-roshe-one</productslug>
+			</style>
+		</styledetail>
+		<catalogs>
+			<catalog id="300">
+				<name>EU</name>
+			</catalog>
+		</catalogs>
+		<prices>
+			<price country="GB" currency="GBP">
+				<listprice>70.00</listprice>
+				<saleprice>70.00</saleprice>
+				<employeeprice>42.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>1</onsale>
+			</price>
+			<price country="SE" currency="SEK">
+				<listprice>900.00</listprice>
+				<saleprice>900.00</saleprice>
+				<employeeprice>540.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>1</onsale>
+			</price>
+			<price country="ES" currency="EUR">
+				<listprice>90.00</listprice>
+				<saleprice>90.00</saleprice>
+				<employeeprice>54.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>1</onsale>
+			</price>
+			<price country="SI" currency="EUR">
+				<listprice>90.00</listprice>
+				<saleprice>90.00</saleprice>
+				<employeeprice>54.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>1</onsale>
+			</price>
+			<price country="PT" currency="EUR">
+				<listprice>90.00</listprice>
+				<saleprice>90.00</saleprice>
+				<employeeprice>54.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>1</onsale>
+			</price>
+			<price country="PL" currency="PLN">
+				<listprice>349.00</listprice>
+				<saleprice>349.00</saleprice>
+				<employeeprice>209.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>1</onsale>
+			</price>
+			<price country="NL" currency="EUR">
+				<listprice>90.00</listprice>
+				<saleprice>90.00</saleprice>
+				<employeeprice>54.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>1</onsale>
+			</price>
+			<price country="LU" currency="EUR">
+				<listprice>90.00</listprice>
+				<saleprice>90.00</saleprice>
+				<employeeprice>54.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>1</onsale>
+			</price>
+			<price country="IT" currency="EUR">
+				<listprice>91.00</listprice>
+				<saleprice>91.00</saleprice>
+				<employeeprice>54.60</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>1</onsale>
+			</price>
+			<price country="IE" currency="EUR">
+				<listprice>85.00</listprice>
+				<saleprice>85.00</saleprice>
+				<employeeprice>51.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>1</onsale>
+			</price>
+			<price country="HU" currency="EUR">
+				<listprice>90.00</listprice>
+				<saleprice>90.00</saleprice>
+				<employeeprice>54.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>1</onsale>
+			</price>
+			<price country="GR" currency="EUR">
+				<listprice>90.00</listprice>
+				<saleprice>90.00</saleprice>
+				<employeeprice>54.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+			<price country="DE" currency="EUR">
+				<listprice>90.00</listprice>
+				<saleprice>90.00</saleprice>
+				<employeeprice>54.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>1</onsale>
+			</price>
+			<price country="FR" currency="EUR">
+				<listprice>90.00</listprice>
+				<saleprice>90.00</saleprice>
+				<employeeprice>54.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+			<price country="FI" currency="EUR">
+				<listprice>99.00</listprice>
+				<saleprice>99.00</saleprice>
+				<employeeprice>59.40</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+			<price country="DK" currency="DKK">
+				<listprice>730.00</listprice>
+				<saleprice>730.00</saleprice>
+				<employeeprice>438.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+			<price country="CZ" currency="EUR">
+				<listprice>90.00</listprice>
+				<saleprice>90.00</saleprice>
+				<employeeprice>54.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+			<price country="BE" currency="EUR">
+				<listprice>90.00</listprice>
+				<saleprice>90.00</saleprice>
+				<employeeprice>54.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+			<price country="AT" currency="EUR">
+				<listprice>90.00</listprice>
+				<saleprice>90.00</saleprice>
+				<employeeprice>54.00</employeeprice>
+				<employeediscount>1</employeediscount>
+				<onsale>0</onsale>
+			</price>
+		</prices>
+		<sizes>
+			<size id="11405003">
+				<size>6</size>
+				<sequence>8</sequence>
+				<upc>0888408082954</upc>
+				<stock>50</stock>
+				<allstock>50</allstock>
+			</size>
+			<size id="11405004">
+				<size>6.5</size>
+				<sequence>9</sequence>
+				<upc>0888408082961</upc>
+				<stock>2147483647</stock>
+				<allstock>2147483647</allstock>
+			</size>
+			<size id="11405005">
+				<size>7</size>
+				<sequence>18</sequence>
+				<upc>0888408082978</upc>
+				<stock>2147483647</stock>
+				<allstock>2147483647</allstock>
+			</size>
+			<size id="11405006">
+				<size>7.5</size>
+				<sequence>26</sequence>
+				<upc>0888408082985</upc>
+				<stock>50</stock>
+				<allstock>50</allstock>
+			</size>
+			<size id="11405007">
+				<size>8</size>
+				<sequence>27</sequence>
+				<upc>0888408082992</upc>
+				<stock>2147483647</stock>
+				<allstock>2147483647</allstock>
+			</size>
+			<size id="11405008">
+				<size>8.5</size>
+				<sequence>29</sequence>
+				<upc>0888408083005</upc>
+				<stock>50</stock>
+				<allstock>50</allstock>
+			</size>
+			<size id="11405009">
+				<size>9</size>
+				<sequence>30</sequence>
+				<upc>0888408083012</upc>
+				<stock>2147483647</stock>
+				<allstock>2147483647</allstock>
+			</size>
+			<size id="11405010">
+				<size>9.5</size>
+				<sequence>31</sequence>
+				<upc>0888408083029</upc>
+				<stock>0</stock>
+				<allstock>0</allstock>
+			</size>
+			<size id="11405011">
+				<size>10</size>
+				<sequence>32</sequence>
+				<upc>0888408083036</upc>
+				<stock>2147483647</stock>
+				<allstock>2147483647</allstock>
+			</size>
+			<size id="11405012">
+				<size>10.5</size>
+				<sequence>33</sequence>
+				<upc>0888408083043</upc>
+				<stock>0</stock>
+				<allstock>0</allstock>
+			</size>
+			<size id="11405013">
+				<size>11</size>
+				<sequence>34</sequence>
+				<upc>0888408083050</upc>
+				<stock>2147483647</stock>
+				<allstock>2147483647</allstock>
+			</size>
+			<size id="11405014">
+				<size>11.5</size>
+				<sequence>36</sequence>
+				<upc>0888408083067</upc>
+				<stock>0</stock>
+				<allstock>0</allstock>
+			</size>
+			<size id="11405015">
+				<size>12</size>
+				<sequence>38</sequence>
+				<upc>0888408083074</upc>
+				<stock>2147483647</stock>
+				<allstock>2147483647</allstock>
+			</size>
+			<size id="11405016">
+				<size>12.5</size>
+				<sequence>39</sequence>
+				<upc>0888408083081</upc>
+				<stock>0</stock>
+				<allstock>0</allstock>
+			</size>
+			<size id="11405017">
+				<size>13</size>
+				<sequence>41</sequence>
+				<upc>0888408083098</upc>
+				<stock>50</stock>
+				<allstock>50</allstock>
+			</size>
+			<size id="11405018">
+				<size>14</size>
+				<sequence>43</sequence>
+				<upc>0888408083104</upc>
+				<stock>0</stock>
+				<allstock>0</allstock>
+			</size>
+			<size id="11405019">
+				<size>15</size>
+				<sequence>45</sequence>
+				<upc>0888408083111</upc>
+				<stock>0</stock>
+				<allstock>0</allstock>
+			</size>
+			<size id="11405020">
+				<size>16</size>
+				<sequence>47</sequence>
+				<upc>0888408888488</upc>
+				<stock>0</stock>
+				<allstock>0</allstock>
+			</size>
+			<size id="11405021">
+				<size>17</size>
+				<sequence>49</sequence>
+				<upc>0888408888495</upc>
+				<stock>0</stock>
+				<allstock>0</allstock>
+			</size>
+		</sizes>
+		<attributes>
+			<attribute type="digitalseason" language="en">
+				<code>HO15</code>
+				<name>HO15</name>
+			</attribute>
+			<attribute type="occasion" language="ca">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="occasion" language="de">
+				<code>Lifestyle</code>
+				<name>Freizeit</name>
+			</attribute>
+			<attribute type="occasion" language="el">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="occasion" language="en">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="occasion" language="es">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="occasion" language="fr">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="occasion" language="it">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="occasion" language="nl">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="occasion" language="pl">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="temporaryglobalnvcollections" language="ca">
+				<code>Gear Up</code>
+				<name>Equipa&apos;t</name>
+			</attribute>
+			<attribute type="temporaryglobalnvcollections" language="de">
+				<code>Gear Up</code>
+				<name>Rüste dich aus</name>
+			</attribute>
+			<attribute type="temporaryglobalnvcollections" language="el">
+				<code>Gear Up</code>
+				<name>Εξοπλίσου</name>
+			</attribute>
+			<attribute type="temporaryglobalnvcollections" language="en">
+				<code>Gear Up</code>
+				<name>Gear Up</name>
+			</attribute>
+			<attribute type="temporaryglobalnvcollections" language="es">
+				<code>Gear Up</code>
+				<name>Equípate</name>
+			</attribute>
+			<attribute type="temporaryglobalnvcollections" language="fr">
+				<code>Gear Up</code>
+				<name>Équipez-vous</name>
+			</attribute>
+			<attribute type="temporaryglobalnvcollections" language="it">
+				<code>Gear Up</code>
+				<name>Must-have</name>
+			</attribute>
+			<attribute type="temporaryglobalnvcollections" language="nl">
+				<code>Gear Up</code>
+				<name>Gear Up</name>
+			</attribute>
+			<attribute type="temporaryglobalnvcollections" language="pl">
+				<code>Gear Up</code>
+				<name>Wybierz odpowiednie produkty</name>
+			</attribute>
+			<attribute type="globalevergreennvcollections" language="ca">
+				<code>Roshe One</code>
+				<name>Roshe One</name>
+			</attribute>
+			<attribute type="globalevergreennvcollections" language="de">
+				<code>Roshe One</code>
+				<name>Roshe One</name>
+			</attribute>
+			<attribute type="globalevergreennvcollections" language="el">
+				<code>Roshe One</code>
+				<name>Roshe One</name>
+			</attribute>
+			<attribute type="globalevergreennvcollections" language="en">
+				<code>Roshe One</code>
+				<name>Roshe One</name>
+			</attribute>
+			<attribute type="globalevergreennvcollections" language="es">
+				<code>Roshe One</code>
+				<name>Roshe One</name>
+			</attribute>
+			<attribute type="globalevergreennvcollections" language="fr">
+				<code>Roshe One</code>
+				<name>Roshe One</name>
+			</attribute>
+			<attribute type="globalevergreennvcollections" language="it">
+				<code>Roshe One</code>
+				<name>Roshe One</name>
+			</attribute>
+			<attribute type="globalevergreennvcollections" language="nl">
+				<code>Roshe One</code>
+				<name>Roshe One</name>
+			</attribute>
+			<attribute type="globalevergreennvcollections" language="pl">
+				<code>Roshe One</code>
+				<name>Roshe One</name>
+			</attribute>
+			<attribute type="logocolor" language="ca">
+				<code>Black</code>
+				<name>Negre</name>
+			</attribute>
+			<attribute type="logocolor" language="de">
+				<code>Black</code>
+				<name>Schwarz</name>
+			</attribute>
+			<attribute type="logocolor" language="el">
+				<code>Black</code>
+				<name>Μαύρο</name>
+			</attribute>
+			<attribute type="logocolor" language="en">
+				<code>Black</code>
+				<name>Black</name>
+			</attribute>
+			<attribute type="logocolor" language="es">
+				<code>Black</code>
+				<name>Negro</name>
+			</attribute>
+			<attribute type="logocolor" language="fr">
+				<code>Black</code>
+				<name>Noir</name>
+			</attribute>
+			<attribute type="logocolor" language="it">
+				<code>Black</code>
+				<name>Nero</name>
+			</attribute>
+			<attribute type="logocolor" language="nl">
+				<code>Black</code>
+				<name>Zwart</name>
+			</attribute>
+			<attribute type="logocolor" language="pl">
+				<code>Black</code>
+				<name>Czerń</name>
+			</attribute>
+			<attribute type="secondarycolor" language="ca">
+				<code>White</code>
+				<name>Blanc</name>
+			</attribute>
+			<attribute type="secondarycolor" language="de">
+				<code>White</code>
+				<name>Weiß</name>
+			</attribute>
+			<attribute type="secondarycolor" language="el">
+				<code>White</code>
+				<name>Λευκό</name>
+			</attribute>
+			<attribute type="secondarycolor" language="en">
+				<code>White</code>
+				<name>White</name>
+			</attribute>
+			<attribute type="secondarycolor" language="es">
+				<code>White</code>
+				<name>Blanco</name>
+			</attribute>
+			<attribute type="secondarycolor" language="fr">
+				<code>White</code>
+				<name>Blanc</name>
+			</attribute>
+			<attribute type="secondarycolor" language="it">
+				<code>White</code>
+				<name>Bianco</name>
+			</attribute>
+			<attribute type="secondarycolor" language="nl">
+				<code>White</code>
+				<name>Wit</name>
+			</attribute>
+			<attribute type="secondarycolor" language="pl">
+				<code>White</code>
+				<name>Biel</name>
+			</attribute>
+			<attribute type="primarycolor" language="ca">
+				<code>Midnight Navy</code>
+				<name>Blau marí de mitjanit</name>
+			</attribute>
+			<attribute type="primarycolor" language="de">
+				<code>Midnight Navy</code>
+				<name>Midnight Navy</name>
+			</attribute>
+			<attribute type="primarycolor" language="el">
+				<code>Midnight Navy</code>
+				<name>Midnight Navy</name>
+			</attribute>
+			<attribute type="primarycolor" language="en">
+				<code>Midnight Navy</code>
+				<name>Midnight Navy</name>
+			</attribute>
+			<attribute type="primarycolor" language="es">
+				<code>Midnight Navy</code>
+				<name>Azul marino medianoche</name>
+			</attribute>
+			<attribute type="primarycolor" language="fr">
+				<code>Midnight Navy</code>
+				<name>Bleu nuit marine</name>
+			</attribute>
+			<attribute type="primarycolor" language="it">
+				<code>Midnight Navy</code>
+				<name>Midnight Navy</name>
+			</attribute>
+			<attribute type="primarycolor" language="nl">
+				<code>Midnight Navy</code>
+				<name>Midnight Navy</name>
+			</attribute>
+			<attribute type="primarycolor" language="pl">
+				<code>Midnight Navy</code>
+				<name>Ciemny granat</name>
+			</attribute>
+			<attribute type="onenikesizefit" language="en">
+				<code>mens-shoe-sizing-chart</code>
+				<name>Men&apos;s Shoes</name>
+			</attribute>
+			<attribute type="startDate" language="en">
+				<code>2014-12-24 08:02:00</code>
+				<name>2014-12-24 08:02:00</name>
+			</attribute>
+			<attribute type="publishdate" language="en">
+				<code>2014-12-24 00:00:00</code>
+				<name>2014-12-24 00:00:00</name>
+			</attribute>
+			<attribute type="nikeidmatchstyle" language="en">
+				<code>855901</code>
+				<name>855901</name>
+			</attribute>
+			<attribute type="nikeidmatch" language="en">
+				<code>true</code>
+				<name>true</name>
+			</attribute>
+			<attribute type="neverexpire" language="en">
+				<code>true</code>
+				<name>true</name>
+			</attribute>
+			<attribute type="divisioncode" language="en">
+				<code>20</code>
+				<name>20</name>
+			</attribute>
+			<attribute type="classid" language="en">
+				<code>2067</code>
+				<name>2067</name>
+			</attribute>
+			<attribute type="sizeconversion" language="de">
+				<code>Men&apos;s Footwear</code>
+				<name>Men&apos;s Footwear</name>
+			</attribute>
+			<attribute type="sizeconversion" language="en">
+				<code>Men&apos;s Footwear</code>
+				<name>Men&apos;s Footwear</name>
+			</attribute>
+			<attribute type="sizeconversion" language="es">
+				<code>Men&apos;s Footwear</code>
+				<name>Men&apos;s Footwear</name>
+			</attribute>
+			<attribute type="sizeconversion" language="fr">
+				<code>Men&apos;s Footwear</code>
+				<name>Men&apos;s Footwear</name>
+			</attribute>
+			<attribute type="sizeconversion" language="it">
+				<code>Men&apos;s Footwear</code>
+				<name>Men&apos;s Footwear</name>
+			</attribute>
+			<attribute type="hexvalue" language="ca">
+				<code>1F4090</code>
+				<name>Blau</name>
+			</attribute>
+			<attribute type="hexvalue" language="de">
+				<code>1F4090</code>
+				<name>Blau</name>
+			</attribute>
+			<attribute type="hexvalue" language="el">
+				<code>1F4090</code>
+				<name>Μπλε</name>
+			</attribute>
+			<attribute type="hexvalue" language="en">
+				<code>1F4090</code>
+				<name>Blue</name>
+			</attribute>
+			<attribute type="hexvalue" language="es">
+				<code>1F4090</code>
+				<name>Azul</name>
+			</attribute>
+			<attribute type="hexvalue" language="fr">
+				<code>1F4090</code>
+				<name>Bleu</name>
+			</attribute>
+			<attribute type="hexvalue" language="it">
+				<code>1F4090</code>
+				<name>Blu</name>
+			</attribute>
+			<attribute type="hexvalue" language="nl">
+				<code>1F4090</code>
+				<name>Blauw</name>
+			</attribute>
+			<attribute type="hexvalue" language="pl">
+				<code>1F4090</code>
+				<name>Niebieski</name>
+			</attribute>
+			<attribute type="shoes-style" language="ca">
+				<code>Roshe</code>
+				<name>Roshe</name>
+			</attribute>
+			<attribute type="shoes-style" language="de">
+				<code>Roshe</code>
+				<name>Roshe</name>
+			</attribute>
+			<attribute type="shoes-style" language="el">
+				<code>Roshe</code>
+				<name>Roshe</name>
+			</attribute>
+			<attribute type="shoes-style" language="en">
+				<code>Roshe</code>
+				<name>Roshe</name>
+			</attribute>
+			<attribute type="shoes-style" language="es">
+				<code>Roshe</code>
+				<name>Roshe</name>
+			</attribute>
+			<attribute type="shoes-style" language="fr">
+				<code>Roshe</code>
+				<name>Roshe</name>
+			</attribute>
+			<attribute type="shoes-style" language="it">
+				<code>Roshe</code>
+				<name>Roshe</name>
+			</attribute>
+			<attribute type="shoes-style" language="nl">
+				<code>Roshe</code>
+				<name>Roshe</name>
+			</attribute>
+			<attribute type="shoes-style" language="pl">
+				<code>Roshe</code>
+				<name>Roshe</name>
+			</attribute>
+			<attribute type="primarysport" language="ca">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="primarysport" language="de">
+				<code>Lifestyle</code>
+				<name>Freizeit</name>
+			</attribute>
+			<attribute type="primarysport" language="el">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="primarysport" language="en">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="primarysport" language="es">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="primarysport" language="fr">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="primarysport" language="it">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="primarysport" language="nl">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="primarysport" language="pl">
+				<code>Lifestyle</code>
+				<name>Lifestyle</name>
+			</attribute>
+			<attribute type="simplecolor" language="ca">
+				<code>Blue</code>
+				<name>Blau</name>
+			</attribute>
+			<attribute type="simplecolor" language="de">
+				<code>Blue</code>
+				<name>Blau</name>
+			</attribute>
+			<attribute type="simplecolor" language="el">
+				<code>Blue</code>
+				<name>Μπλε</name>
+			</attribute>
+			<attribute type="simplecolor" language="en">
+				<code>Blue</code>
+				<name>Blue</name>
+			</attribute>
+			<attribute type="simplecolor" language="es">
+				<code>Blue</code>
+				<name>Azul</name>
+			</attribute>
+			<attribute type="simplecolor" language="fr">
+				<code>Blue</code>
+				<name>Bleu</name>
+			</attribute>
+			<attribute type="simplecolor" language="it">
+				<code>Blue</code>
+				<name>Blu</name>
+			</attribute>
+			<attribute type="simplecolor" language="nl">
+				<code>Blue</code>
+				<name>Blauw</name>
+			</attribute>
+			<attribute type="simplecolor" language="pl">
+				<code>Blue</code>
+				<name>Niebieski</name>
+			</attribute>
+			<attribute type="shoeheight" language="ca">
+				<code>Low Top</code>
+				<name>Sabatilles baixes</name>
+			</attribute>
+			<attribute type="shoeheight" language="de">
+				<code>Low Top</code>
+				<name>Low Top</name>
+			</attribute>
+			<attribute type="shoeheight" language="el">
+				<code>Low Top</code>
+				<name>Χαμηλά</name>
+			</attribute>
+			<attribute type="shoeheight" language="en">
+				<code>Low Top</code>
+				<name>Low Top</name>
+			</attribute>
+			<attribute type="shoeheight" language="es">
+				<code>Low Top</code>
+				<name>Bajo Top</name>
+			</attribute>
+			<attribute type="shoeheight" language="fr">
+				<code>Low Top</code>
+				<name>Basse</name>
+			</attribute>
+			<attribute type="shoeheight" language="it">
+				<code>Low Top</code>
+				<name>Low Top</name>
+			</attribute>
+			<attribute type="shoeheight" language="nl">
+				<code>Low Top</code>
+				<name>Low Top</name>
+			</attribute>
+			<attribute type="shoeheight" language="pl">
+				<code>Low Top</code>
+				<name>Niskie buty</name>
+			</attribute>
+			<attribute type="nowviewing" language="ca">
+				<code>Track and Field</code>
+				<name>Track and Field</name>
+			</attribute>
+			<attribute type="nowviewing" language="de">
+				<code>Track and Field</code>
+				<name>Track and Field</name>
+			</attribute>
+			<attribute type="nowviewing" language="el">
+				<code>Track and Field</code>
+				<name>Track and Field</name>
+			</attribute>
+			<attribute type="nowviewing" language="en">
+				<code>Track and Field</code>
+				<name>Track and Field</name>
+			</attribute>
+			<attribute type="nowviewing" language="es">
+				<code>Track and Field</code>
+				<name>Track and Field</name>
+			</attribute>
+			<attribute type="nowviewing" language="fr">
+				<code>Track and Field</code>
+				<name>Track and Field</name>
+			</attribute>
+			<attribute type="nowviewing" language="it">
+				<code>Track and Field</code>
+				<name>Track and Field</name>
+			</attribute>
+			<attribute type="nowviewing" language="nl">
+				<code>Track and Field</code>
+				<name>Track and Field</name>
+			</attribute>
+			<attribute type="nowviewing" language="pl">
+				<code>Track and Field</code>
+				<name>Track and Field</name>
+			</attribute>
+			<attribute type="nowviewing" language="ca">
+				<code>Nike Roshe Run</code>
+				<name>Nike Roshe Run</name>
+			</attribute>
+			<attribute type="nowviewing" language="de">
+				<code>Nike Roshe Run</code>
+				<name>Nike Roshe Run</name>
+			</attribute>
+			<attribute type="nowviewing" language="el">
+				<code>Nike Roshe Run</code>
+				<name>Nike Roshe Run</name>
+			</attribute>
+			<attribute type="nowviewing" language="en">
+				<code>Nike Roshe Run</code>
+				<name>Nike Roshe Run</name>
+			</attribute>
+			<attribute type="nowviewing" language="es">
+				<code>Nike Roshe Run</code>
+				<name>Nike Roshe Run</name>
+			</attribute>
+			<attribute type="nowviewing" language="fr">
+				<code>Nike Roshe Run</code>
+				<name>Nike Roshe Run</name>
+			</attribute>
+			<attribute type="nowviewing" language="it">
+				<code>Nike Roshe Run</code>
+				<name>Nike Roshe Run</name>
+			</attribute>
+			<attribute type="nowviewing" language="nl">
+				<code>Nike Roshe Run</code>
+				<name>Nike Roshe Run</name>
+			</attribute>
+			<attribute type="nowviewing" language="pl">
+				<code>Nike Roshe Run</code>
+				<name>Nike Roshe Run</name>
+			</attribute>
+			<attribute type="category" language="de">
+				<code>Shoes</code>
+				<name>Shoes</name>
+			</attribute>
+			<attribute type="category" language="en">
+				<code>Shoes</code>
+				<name>Shoes</name>
+			</attribute>
+			<attribute type="category" language="es">
+				<code>Shoes</code>
+				<name>Shoes</name>
+			</attribute>
+			<attribute type="category" language="fr">
+				<code>Shoes</code>
+				<name>Shoes</name>
+			</attribute>
+			<attribute type="category" language="it">
+				<code>Shoes</code>
+				<name>Shoes</name>
+			</attribute>
+			<attribute type="brand" language="ca">
+				<code>Nike Sportswear</code>
+				<name>Nike Sportswear</name>
+			</attribute>
+			<attribute type="brand" language="de">
+				<code>Nike Sportswear</code>
+				<name>Nike Sportswear</name>
+			</attribute>
+			<attribute type="brand" language="el">
+				<code>Nike Sportswear</code>
+				<name>Nike Sportswear</name>
+			</attribute>
+			<attribute type="brand" language="en">
+				<code>Nike Sportswear</code>
+				<name>Nike Sportswear</name>
+			</attribute>
+			<attribute type="brand" language="es">
+				<code>Nike Sportswear</code>
+				<name>Nike Sportswear</name>
+			</attribute>
+			<attribute type="brand" language="fr">
+				<code>Nike Sportswear</code>
+				<name>Nike Sportswear</name>
+			</attribute>
+			<attribute type="brand" language="it">
+				<code>Nike Sportswear</code>
+				<name>Nike Sportswear</name>
+			</attribute>
+			<attribute type="brand" language="nl">
+				<code>Nike Sportswear</code>
+				<name>Nike Sportswear</name>
+			</attribute>
+			<attribute type="brand" language="pl">
+				<code>Nike Sportswear</code>
+				<name>Nike Sportswear</name>
+			</attribute>
+			<attribute type="width" language="ca">
+				<code>REGULAR</code>
+				<name>Normal</name>
+			</attribute>
+			<attribute type="width" language="de">
+				<code>REGULAR</code>
+				<name>Normal</name>
+			</attribute>
+			<attribute type="width" language="el">
+				<code>REGULAR</code>
+				<name>Κανονικο</name>
+			</attribute>
+			<attribute type="width" language="en">
+				<code>REGULAR</code>
+				<name>Regular</name>
+			</attribute>
+			<attribute type="width" language="es">
+				<code>REGULAR</code>
+				<name>Normal</name>
+			</attribute>
+			<attribute type="width" language="fr">
+				<code>REGULAR</code>
+				<name>Classique</name>
+			</attribute>
+			<attribute type="width" language="it">
+				<code>REGULAR</code>
+				<name>Normale</name>
+			</attribute>
+			<attribute type="width" language="nl">
+				<code>REGULAR</code>
+				<name>Normaal</name>
+			</attribute>
+			<attribute type="width" language="pl">
+				<code>REGULAR</code>
+				<name>Normalny</name>
+			</attribute>
+			<attribute type="gender" language="ca">
+				<code>Men</code>
+				<name>Home</name>
+			</attribute>
+			<attribute type="gender" language="de">
+				<code>Men</code>
+				<name>Herren</name>
+			</attribute>
+			<attribute type="gender" language="el">
+				<code>Men</code>
+				<name>&apos;Ανδρες</name>
+			</attribute>
+			<attribute type="gender" language="en">
+				<code>Men</code>
+				<name>Men</name>
+			</attribute>
+			<attribute type="gender" language="es">
+				<code>Men</code>
+				<name>Hombre</name>
+			</attribute>
+			<attribute type="gender" language="fr">
+				<code>Men</code>
+				<name>Hommes</name>
+			</attribute>
+			<attribute type="gender" language="it">
+				<code>Men</code>
+				<name>Uomo</name>
+			</attribute>
+			<attribute type="gender" language="nl">
+				<code>Men</code>
+				<name>Heren</name>
+			</attribute>
+			<attribute type="gender" language="pl">
+				<code>Men</code>
+				<name>Mężczyźni</name>
+			</attribute>
+			<attribute type="modeltype" language="pl">
+				<code>Footwear</code>
+				<name>Buty</name>
+			</attribute>
+			<attribute type="modeltype" language="nl">
+				<code>Footwear</code>
+				<name>Schoenen</name>
+			</attribute>
+			<attribute type="modeltype" language="it">
+				<code>Footwear</code>
+				<name>Scarpe</name>
+			</attribute>
+			<attribute type="modeltype" language="fr">
+				<code>Footwear</code>
+				<name>Chaussures</name>
+			</attribute>
+			<attribute type="modeltype" language="es">
+				<code>Footwear</code>
+				<name>Calzado</name>
+			</attribute>
+			<attribute type="modeltype" language="en">
+				<code>Footwear</code>
+				<name>Shoes</name>
+			</attribute>
+			<attribute type="modeltype" language="el">
+				<code>Footwear</code>
+				<name>Παπούτσια</name>
+			</attribute>
+			<attribute type="modeltype" language="de">
+				<code>Footwear</code>
+				<name>Schuhe</name>
+			</attribute>
+			<attribute type="modeltype" language="ca">
+				<code>Footwear</code>
+				<name>Calçat</name>
+			</attribute>
+		</attributes>
+	</PRODUCT>
+</products>

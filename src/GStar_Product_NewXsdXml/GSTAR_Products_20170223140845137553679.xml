@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Products>
+  <currentSeason>171</currentSeason>
+  <Product>
+    <Category code="JNS" desc="Jeans"/>
+    <Style code="51025" desc="5620 3D Slim"/>
+    <Fabric code="7899" desc="Hadron Stretch Denim"/>
+    <Color code="4442" desc="Vintage Dk Aged" nrf="610" group="OTHERS"/>
+    <Gender code="2" desc="Men"/>
+    <CoO code="CHN"/>
+    <Closure desc="Button closure"/>
+    <Fit code="SLM" desc="Slim"/>
+    <Padded desc="Non-padded"/>
+    <CommercialDescription desc="5620 3D Slim"/>
+    <CareLabels list="1-10-23-32-12-15-50-53-70-76"/>
+    <EcommerceUse code="1" desc="Online Ecom"/>
+    <Volume liters="4.750"/>
+    <Weight gram="603"/>
+    <Compositions>
+      <Composition code="CO" desc="Cotton" percentage="98"/>
+      <Composition code="EAL" desc="Elastane (Lycra®)" percentage="2"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718598531586" width="24" length="26" fit=""/>
+      <Size ean="8718598531593" width="24" length="28" fit=""/>
+      <Size ean="8718598531609" width="24" length="30" fit=""/>
+      <Size ean="8718598531616" width="24" length="32" fit=""/>
+      <Size ean="8718598531623" width="24" length="34" fit=""/>
+      <Size ean="8718598531630" width="25" length="26" fit=""/>
+      <Size ean="8718598531647" width="25" length="28" fit=""/>
+      <Size ean="8718598531654" width="25" length="30" fit=""/>
+      <Size ean="8718598531661" width="25" length="32" fit=""/>
+      <Size ean="8718598531678" width="25" length="34" fit=""/>
+      <Size ean="8718598531685" width="26" length="26" fit=""/>
+      <Size ean="8718598531692" width="26" length="28" fit=""/>
+      <Size ean="8718598531708" width="26" length="30" fit=""/>
+      <Size ean="8718598531715" width="26" length="32" fit=""/>
+      <Size ean="8718598531722" width="26" length="34" fit=""/>
+      <Size ean="8718598531739" width="27" length="26" fit=""/>
+      <Size ean="8718598531746" width="27" length="28" fit=""/>
+      <Size ean="8718598531753" width="27" length="30" fit=""/>
+      <Size ean="8718598531760" width="27" length="32" fit=""/>
+      <Size ean="8718598531777" width="27" length="34" fit=""/>
+      <Size ean="8718598531784" width="28" length="26" fit=""/>
+      <Size ean="8718598531791" width="28" length="28" fit=""/>
+      <Size ean="8718598531807" width="28" length="30" fit=""/>
+      <Size ean="8718598531814" width="28" length="32" fit=""/>
+      <Size ean="8718598531821" width="28" length="34" fit=""/>
+      <Size ean="8718598531838" width="29" length="26" fit=""/>
+      <Size ean="8718598531845" width="29" length="28" fit=""/>
+      <Size ean="8718598531852" width="29" length="30" fit=""/>
+      <Size ean="8718598531869" width="29" length="32" fit=""/>
+      <Size ean="8718598531876" width="29" length="34" fit=""/>
+      <Size ean="8718598531883" width="30" length="26" fit=""/>
+      <Size ean="8718598531890" width="30" length="28" fit=""/>
+      <Size ean="8718598531906" width="30" length="30" fit=""/>
+      <Size ean="8718598531913" width="30" length="32" fit=""/>
+      <Size ean="8718598531920" width="30" length="34" fit=""/>
+      <Size ean="8718598531937" width="30" length="36" fit=""/>
+      <Size ean="8718598531944" width="31" length="26" fit=""/>
+      <Size ean="8718598531951" width="31" length="28" fit=""/>
+      <Size ean="8718598531968" width="31" length="30" fit=""/>
+      <Size ean="8718598531975" width="31" length="32" fit=""/>
+      <Size ean="8718598531982" width="31" length="34" fit=""/>
+      <Size ean="8718598531999" width="31" length="36" fit=""/>
+      <Size ean="8718598532002" width="31" length="38" fit=""/>
+      <Size ean="8718598532019" width="32" length="26" fit=""/>
+      <Size ean="8718598532026" width="32" length="28" fit=""/>
+      <Size ean="8718598532033" width="32" length="30" fit=""/>
+      <Size ean="8718598532040" width="32" length="32" fit=""/>
+      <Size ean="8718598532057" width="32" length="34" fit=""/>
+      <Size ean="8718598532064" width="32" length="36" fit=""/>
+      <Size ean="8718598532071" width="32" length="38" fit=""/>
+      <Size ean="8718598532088" width="33" length="26" fit=""/>
+      <Size ean="8718598532095" width="33" length="28" fit=""/>
+      <Size ean="8718598532101" width="33" length="30" fit=""/>
+      <Size ean="8718598532118" width="33" length="32" fit=""/>
+      <Size ean="8718598532125" width="33" length="34" fit=""/>
+      <Size ean="8718598532132" width="33" length="36" fit=""/>
+      <Size ean="8718598532149" width="33" length="38" fit=""/>
+      <Size ean="8718598532156" width="34" length="26" fit=""/>
+      <Size ean="8718598532163" width="34" length="28" fit=""/>
+      <Size ean="8718598532170" width="34" length="30" fit=""/>
+      <Size ean="8718598532187" width="34" length="32" fit=""/>
+      <Size ean="8718598532194" width="34" length="34" fit=""/>
+      <Size ean="8718598532200" width="34" length="36" fit=""/>
+      <Size ean="8718598532217" width="34" length="38" fit=""/>
+      <Size ean="8718598532224" width="35" length="28" fit=""/>
+      <Size ean="8718598532231" width="35" length="30" fit=""/>
+      <Size ean="8718598532248" width="35" length="32" fit=""/>
+      <Size ean="8718598532255" width="35" length="34" fit=""/>
+      <Size ean="8718598532262" width="35" length="36" fit=""/>
+      <Size ean="8718598532279" width="35" length="38" fit=""/>
+      <Size ean="8718598532286" width="36" length="28" fit=""/>
+      <Size ean="8718598532293" width="36" length="30" fit=""/>
+      <Size ean="8718598532309" width="36" length="32" fit=""/>
+      <Size ean="8718598532316" width="36" length="34" fit=""/>
+      <Size ean="8718598532323" width="36" length="36" fit=""/>
+      <Size ean="8718598532330" width="36" length="38" fit=""/>
+      <Size ean="8718598532347" width="38" length="30" fit=""/>
+      <Size ean="8718598532354" width="38" length="32" fit=""/>
+      <Size ean="8718598532361" width="38" length="34" fit=""/>
+      <Size ean="8718598532378" width="38" length="36" fit=""/>
+      <Size ean="8718598532385" width="38" length="38" fit=""/>
+      <Size ean="8718598532392" width="40" length="32" fit=""/>
+      <Size ean="8718598532408" width="40" length="34" fit=""/>
+      <Size ean="8718598532415" width="40" length="36" fit=""/>
+      <Size ean="8718598532422" width="40" length="38" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="119.95" currency="EUR"/>
+      <Price country="NL" type="RRP" value="119.95" currency="EUR"/>
+    </Prices>
+  </Product>
+</Products>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<orderFile>
+    <orders>
+        <order>
+            <orderHeader>
+                <orderDate>2017-01-05T12:19:06.430Z</orderDate>
+                <retailerChannelCode>zadede</retailerChannelCode>
+                <anatwineOrderId>1082925</anatwineOrderId>
+                <retailerOrderId>1010309028243</retailerOrderId>
+                <orderPayment>completed</orderPayment>
+                <extensions>
+                    <extension>
+                        <extensionName>EDD</extensionName>
+                        <extensionValue>2017-01-28T10:39:18Z</extensionValue>
+                    </extension>
+                    <extension>
+                        <extensionName>Language</extensionName>
+                        <extensionValue>DE</extensionValue>
+                    </extension>
+                </extensions>
+            </orderHeader>
+            <billingAddress>
+                <retailerCustomerNumber>3010725980</retailerCustomerNumber>
+                <title>Herr</title>
+                <firstName>Junke</firstName>
+                <lastName>Janssen</lastName>
+                <address1>GelnStr 93</address1>
+                <zip>66321</zip>
+                <city>Völklingen</city>
+                <country>DE</country>
+                <addressString>Herr|Junke|Janssen|GelnStr 93|66321|Völklingen|DE</addressString>
+                <email>Junke_Janssen@email.de</email>
+            </billingAddress>
+            <shippingAddress>
+                <retailerCustomerNumber>0</retailerCustomerNumber>
+                <title>Herr</title>
+                <firstName>Junke</firstName>
+                <lastName>Janssen</lastName>
+                <address1>GelnStr 93</address1>
+                <zip>66321</zip>
+                <city>Völklingen</city>
+                <country>DE</country>
+                <addressString>Herr|Junke|Janssen|GelnStr 93|66321|Völklingen|DE</addressString>
+                <email>Junke_Janssen@email.de</email>
+            </shippingAddress>
+            <orderLines>
+                <orderLine>
+                    <orderLineId>1</orderLineId>
+                    <brandArticleSku>11404906</brandArticleSku>
+                    <ean>00888408081964</ean>
+                    <retailerArticleSku>RE011S02P-Q1100668475</retailerArticleSku>
+                    <orderLinePrice currency="EUR">
+                        <basePrice>199.00</basePrice>
+                        <grossPrice>597.00</grossPrice>
+                        <netPrice>501.68</netPrice>
+                        <tax>95.32</tax>
+                        <taxRate>0.19</taxRate>
+                    </orderLinePrice>
+                    <quantity>3</quantity>
+                    <articleDescription>Nike Roshe One Men</articleDescription>
+                </orderLine>
+                <orderLine>
+                    <orderLineId>2</orderLineId>
+                    <brandArticleSku>11404909</brandArticleSku>
+                    <ean>00888408081995</ean>
+                    <retailerArticleSku>RE011S02P-Q110008843</retailerArticleSku>
+                    <orderLinePrice currency="EUR">
+                        <basePrice>280.00</basePrice>
+                        <grossPrice>1120.00</grossPrice>
+                        <netPrice>941.18</netPrice>
+                        <tax>178.82</tax>
+                        <taxRate>0.19</taxRate>
+                    </orderLinePrice>
+                    <quantity>4</quantity>
+                    <articleDescription>Nike Roshe One Men</articleDescription>
+                </orderLine>
+                <orderLine>
+                    <orderLineId>3</orderLineId>
+                    <brandArticleSku>11404912</brandArticleSku>
+                    <ean>00888408082022</ean>
+                    <retailerArticleSku>RE011S02P-Q1100668475</retailerArticleSku>
+                    <orderLinePrice currency="EUR">
+                        <basePrice>199.00</basePrice>
+                        <grossPrice>398.00</grossPrice>
+                        <netPrice>334.45</netPrice>
+                        <tax>63.55</tax>
+                        <taxRate>0.19</taxRate>
+                    </orderLinePrice>
+                    <quantity>2</quantity>
+                    <articleDescription>Nike Roshe One Men</articleDescription>
+                </orderLine>
+            </orderLines>
+        </order>
+    </orders>
+</orderFile>

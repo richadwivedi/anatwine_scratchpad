@@ -1,0 +1,2028 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Products>
+  <currentSeason>161</currentSeason>
+  <Product>
+    <Category code="SHT" desc="Shirts"/>
+    <Style />
+    <Fabric code="7063" desc="Latter twill"/>
+    <Color code="5619" desc="Rustic Green" group="green" nrf="400"/>
+    <Gender code="1" desc="Women"/>
+    <CoO code="CHN"/>
+    <Collar desc="Stand up collar"/>
+    <SleeveLength code="SLS" desc="Sleeveless"/>
+    <Fit code="LOO" desc="Loose"/>
+    <CommercialDescription desc="Core zip BF shirt wmn s/less"/>
+    <CareLabels list="4-10-23-32-13-15-50-52-70"/>
+    <Volume liters="0.001"/>
+    <Weight gram="400"/>
+    <Compositions>
+      <Composition code="CV" desc="Viscose" percentage="88"/>
+      <Composition code="PA" desc="Nylon" percentage="12"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599443079" width="L" fit=""/>
+      <Size ean="8718599443086" width="M" fit=""/>
+      <Size ean="8718599443093" width="S" fit=""/>
+      <Size ean="8718599443109" width="XL" fit=""/>
+      <Size ean="8718599443116" width="XS" fit=""/>
+      <Size ean="8718599443123" width="XXL" fit=""/>
+      <Size ean="8718599443130" width="XXS" fit=""/>
+      <Size ean="8718599443147" width="XXXS" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="89.95" currency="EUR"/>
+      <Price country="NL" type="RRP" value="89.95" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="JMP" desc="Jumpsuit"/>
+    <SubCategory code="SAL" desc="Salopette"/>
+    <Style code="D00670" desc="Arc 3D BF Overall Wmn"/>
+    <Fabric code="6746" desc="Neya Denim"/>
+    <Color code="89" desc="Dk Aged"/>
+    <Gender code="1" desc="Women"/>
+    <CoO code="CHN"/>
+    <Collar desc="No collar"/>
+    <SleeveLength code="SLS" desc="Sleeveless"/>
+    <Fit code="LOO" desc="Loose"/>
+    <CommercialDescription desc="Arc 3D BF Overall Wmn"/>
+    <CareLabels list="1-10-23-12-32-15-54-70"/>
+    <Volume liters="4.079"/>
+    <Weight gram="674"/>
+    <Compositions>
+      <Composition code="CO" desc="Cotton" percentage="100"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599443314" width="L" fit=""/>
+      <Size ean="8718599443321" width="M" fit=""/>
+      <Size ean="8718599443338" width="S" fit=""/>
+      <Size ean="8718599443345" width="XL" fit=""/>
+      <Size ean="8718599443352" width="XS" fit=""/>
+      <Size ean="8718599443369" width="XXL" fit=""/>
+      <Size ean="8718599443376" width="XXS" fit=""/>
+      <Size ean="8718599443383" width="XXXS" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="139.95" currency="EUR"/>
+      <Price country="NL" type="RRP" value="139.95" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="JMP" desc="Jumpsuit"/>
+    <SubCategory code="JMP" desc="Jumpsuit"/>
+    <Style code="D00682" desc="Chopper BF Boiler Suit Wmn"/>
+    <Fabric code="D017" desc="Halton Denim"/>
+    <Color code="071" desc="Medium Aged" group="green" nrf="400"/>
+    <Gender code="1" desc="Women"/>
+    <CoO code="VNM"/>
+    <Collar desc="Stand up collar"/>
+    <NeckLine desc="R-neck"/>
+    <SleeveLength code="LS" desc="Long sleeve"/>
+    <Fit code="LOO" desc="Loose"/>
+    <CommercialDescription desc="Chopper BF Boiler Suit Wmn"/>
+    <CareLabels list="1-10-19-32-12-15-54-76"/>
+    <Volume liters="3.778"/>
+    <Weight gram="806"/>
+    <Compositions>
+      <Composition code="CO" desc="Cotton" percentage="100"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599445172" width="L" fit=""/>
+      <Size ean="8718599445189" width="M" fit=""/>
+      <Size ean="8718599445196" width="S" fit=""/>
+      <Size ean="8718599445202" width="XL" fit=""/>
+      <Size ean="8718599445219" width="XS" fit=""/>
+      <Size ean="8718599445226" width="XXL" fit=""/>
+      <Size ean="8718599445233" width="XXS" fit=""/>
+      <Size ean="8718599445240" width="XXXS" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="199.95" currency="EUR"/>
+      <Price country="NL" type="RRP" value="199.95" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="SHO" desc="Shorts"/>
+    <SubCategory code="ARM" desc="Army pant"/>
+    <Style code="D00689" desc="Rovic bermuda"/>
+    <Fabric code="4893" desc="Micro stretch twill OD"/>
+    <Color code="995" desc="Asfalt" group="green" nrf="400"/>
+    <Gender code="2" desc="Men"/>
+    <CoO code="CHN"/>
+    <Fit code="LOO" desc="Loose"/>
+    <CommercialDescription desc="Rovic bermuda"/>
+    <CareLabels list="1-10-19-12-15-54-70"/>
+    <Volume liters="4.749"/>
+    <Weight gram="551"/>
+    <Compositions>
+      <Composition code="CO" desc="Cotton" percentage="97"/>
+      <Composition code="EA" desc="Elastane" percentage="3"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599446179" width="24" fit=""/>
+      <Size ean="8718599446186" width="25" fit=""/>
+      <Size ean="8718599446193" width="26" fit=""/>
+      <Size ean="8718599446209" width="27" fit=""/>
+      <Size ean="8718599446216" width="28" fit=""/>
+      <Size ean="8718599446223" width="29" fit=""/>
+      <Size ean="8718599446230" width="30" fit=""/>
+      <Size ean="8718599446247" width="31" fit=""/>
+      <Size ean="8718599446254" width="32" fit=""/>
+      <Size ean="8718599446261" width="33" fit=""/>
+      <Size ean="8718599446278" width="34" fit=""/>
+      <Size ean="8718599446285" width="35" fit=""/>
+      <Size ean="8718599446292" width="36" fit=""/>
+      <Size ean="8718599446308" width="38" fit=""/>
+      <Size ean="8718599446315" width="40" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="109.95" currency="EUR"/>
+      <Price country="NL" type="RRP" value="99.95" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="LJK" desc="(P)leather jackets"/>
+    <SubCategory code="JKT" desc="Jacket"/>
+    <Style code="D00693" desc="Revend leather jkt"/>
+    <Fabric code="7370" desc="Highway Leather"/>
+    <Color code="990" desc="black" group="green" nrf="400"/>
+    <Gender code="2" desc="Men"/>
+    <CoO code="IND"/>
+    <Collar desc="Stand up collar"/>
+    <SleeveLength code="LS" desc="Long sleeve"/>
+    <Fit code="STR" desc="Straight"/>
+    <CommercialDescription desc="Revend leather jkt"/>
+    <CareLabels list="7-10-23-34-36-74"/>
+    <Volume liters="7.420"/>
+    <Weight gram="2258"/>
+    <Compositions>
+      <Composition code="LE" desc="Leather" percentage="100"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599446704" width="L" fit=""/>
+      <Size ean="8718599446711" width="M" fit=""/>
+      <Size ean="8718599446728" width="S" fit=""/>
+      <Size ean="8718599446735" width="XL" fit=""/>
+      <Size ean="8718599446742" width="XS" fit=""/>
+      <Size ean="8718599446759" width="XXL" fit=""/>
+      <Size ean="8718599446766" width="XXS" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="599.95" currency="EUR"/>
+      <Price country="NL" type="RRP" value="599.95" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="SKT" desc="Skirts"/>
+    <SubCategory code="5PO" desc="5Pocket"/>
+    <Style code="D00704" desc="Arc Mid Straight Skirt"/>
+    <Fabric code="D01" desc="Wardour Stretch Denim"/>
+    <Color code="5815" desc="Lt Aged Restored 53" group="green" nrf="400"/>
+    <Gender code="1" desc="Women"/>
+    <CoO code="IND"/>
+    <Fit code="STR" desc="Straight"/>
+    <CommercialDescription desc="Arc Mid Straight Skirt"/>
+    <CareLabels list="1-10-19-12-15-32-54"/>
+    <Volume liters="1.285"/>
+    <Weight gram="294"/>
+    <Compositions>
+      <Composition code="CO" desc="Cotton" percentage="98"/>
+      <Composition code="EA" desc="Elastane" percentage="2"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599448111" width="22" fit=""/>
+      <Size ean="8718599448128" width="23" fit=""/>
+      <Size ean="8718599448135" width="24" fit=""/>
+      <Size ean="8718599448142" width="25" fit=""/>
+      <Size ean="8718599448159" width="26" fit=""/>
+      <Size ean="8718599448166" width="27" fit=""/>
+      <Size ean="8718599448173" width="28" fit=""/>
+      <Size ean="8718599448180" width="29" fit=""/>
+      <Size ean="8718599448197" width="30" fit=""/>
+      <Size ean="8718599448203" width="31" fit=""/>
+      <Size ean="8718599448210" width="32" fit=""/>
+      <Size ean="8718599448227" width="33" fit=""/>
+      <Size ean="8718599448234" width="34" fit=""/>
+      <Size ean="8718599448241" width="35" fit=""/>
+      <Size ean="8718599448258" width="36" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="139.95" currency="EUR"/>
+      <Price country="NL" type="RRP" value="119.95" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="SHO" desc="Shorts"/>
+    <SubCategory code="5PO" desc="5Pocket"/>
+    <Style code="D00711" desc="3301 Low BF Short Wmn"/>
+    <Fabric code="6729" desc="Inza White Stretch Denim"/>
+    <Color code="1367" desc="3d Aged"/>
+    <Gender code="1" desc="Women"/>
+    <CoO code="CHN"/>
+    <Fit code="BYF" desc="Boyfriend"/>
+    <CommercialDescription desc="3301 Low BF Short Wmn"/>
+    <CareLabels list="1-10-19-12-15-32-54-60"/>
+    <Volume liters="1.776"/>
+    <Weight gram="265"/>
+    <Compositions>
+      <Composition code="CO" desc="Cotton" percentage="98"/>
+      <Composition code="EA" desc="Elastane" percentage="2"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599448821" width="22" fit=""/>
+      <Size ean="8718599448838" width="23" fit=""/>
+      <Size ean="8718599448845" width="24" fit=""/>
+      <Size ean="8718599448852" width="25" fit=""/>
+      <Size ean="8718599448869" width="26" fit=""/>
+      <Size ean="8718599448876" width="27" fit=""/>
+      <Size ean="8718599448883" width="28" fit=""/>
+      <Size ean="8718599448890" width="29" fit=""/>
+      <Size ean="8718599448906" width="30" fit=""/>
+      <Size ean="8718599448913" width="31" fit=""/>
+      <Size ean="8718599448920" width="32" fit=""/>
+      <Size ean="8718599448937" width="33" fit=""/>
+      <Size ean="8718599448944" width="34" fit=""/>
+      <Size ean="8718599448951" width="35" fit=""/>
+      <Size ean="8718599448968" width="36" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="89.95" currency="EUR"/>
+      <Price country="NL" type="RRP" value="79.95" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="SHT" desc="Shirts"/>
+    <Style code="D00720" desc="Remi BF Shirt Wmn s"/>
+    <Fabric code="D031" desc="Lt Wt Boll Denim Guardian Aop"/>
+    <Color code="5956" desc="Stone Wash Ao"/>
+    <Gender code="1" desc="Women"/>
+    <CoO code="BGD"/>
+    <Collar desc="Shirt collar"/>
+    <SleeveLength code="SS" desc="Short sleeve"/>
+    <Fit code="LOO" desc="Loose"/>
+    <CommercialDescription desc="Remi BF Shirt Wmn s/s"/>
+    <CareLabels list="1-10-19-32-12-15-54"/>
+    <Volume liters="1.275"/>
+    <Weight gram="263"/>
+    <Compositions>
+      <Composition code="CO" desc="Cotton" percentage="100"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599449439" width="L" fit=""/>
+      <Size ean="8718599449446" width="M" fit=""/>
+      <Size ean="8718599449453" width="S" fit=""/>
+      <Size ean="8718599449460" width="XL" fit=""/>
+      <Size ean="8718599449477" width="XS" fit=""/>
+      <Size ean="8718599449484" width="XXL" fit=""/>
+      <Size ean="8718599449491" width="XXS" fit=""/>
+      <Size ean="8718599449507" width="XXXS" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="109.95" currency="EUR"/>
+      <Price country="NL" type="RRP" value="99.95" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="KNT" desc="Knits"/>
+    <SubCategory code="CAR" desc="Cardigan"/>
+    <Style code="D00740" desc="Aeronotic long vest knit wmn l"/>
+    <Fabric code="K009" desc="Hulsy Wool Knit"/>
+    <Color code="3038" desc="Brittany Blue"/>
+    <Gender code="1" desc="Women"/>
+    <NeckLine desc="Turtle neck"/>
+    <SleeveLength code="LS" desc="Long sleeve"/>
+    <Fit code="STR" desc="Straight"/>
+    <CommercialDescription desc="Aeronotic long vest knit wmn l/s"/>
+    <CareLabels list="7-10-23-13-15-80-60-70"/>
+    <Volume liters="0.001"/>
+    <Weight gram="650"/>
+    <Compositions>
+      <Composition code="PAN" desc="Acryl" percentage="39"/>
+      <Composition code="WO" desc="Wool" percentage="61"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599504183" width="L" fit=""/>
+      <Size ean="8718599504190" width="M" fit=""/>
+      <Size ean="8718599504206" width="S" fit=""/>
+      <Size ean="8718599504213" width="XL" fit=""/>
+      <Size ean="8718599504220" width="XS" fit=""/>
+      <Size ean="8718599504237" width="XXL" fit=""/>
+      <Size ean="8718599504244" width="XXS" fit=""/>
+      <Size ean="8718599504251" width="XXXS" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="149.95" currency="EUR"/>
+      <Price country="NL" type="RRP" value="149.95" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="KNT" desc="Knits"/>
+    <SubCategory code="CAR" desc="Cardigan"/>
+    <Style code="D00740" desc="Aeronotic long vest knit wmn l"/>
+    <Fabric code="K009" desc="Hulsy Wool Knit"/>
+    <Color code="5614" desc="Dk Peony Pink"/>
+    <Gender code="1" desc="Women"/>
+    <NeckLine desc="Turtle neck"/>
+    <SleeveLength code="LS" desc="Long sleeve"/>
+    <Fit code="STR" desc="Straight"/>
+    <CommercialDescription desc="Aeronotic long vest knit wmn l/s"/>
+    <CareLabels list="7-10-23-13-15-80-60-70"/>
+    <Volume liters="0.001"/>
+    <Weight gram="650"/>
+    <Compositions>
+      <Composition code="WO" desc="Wool" percentage="61"/>
+      <Composition code="PAN" desc="Acryl" percentage="39"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599504268" width="L" fit=""/>
+      <Size ean="8718599504275" width="M" fit=""/>
+      <Size ean="8718599504282" width="S" fit=""/>
+      <Size ean="8718599504299" width="XL" fit=""/>
+      <Size ean="8718599504305" width="XS" fit=""/>
+      <Size ean="8718599504312" width="XXL" fit=""/>
+      <Size ean="8718599504329" width="XXS" fit=""/>
+      <Size ean="8718599504336" width="XXXS" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="149.95" currency="EUR"/>
+      <Price country="NL" type="RRP" value="149.95" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="KNT" desc="Knits"/>
+    <SubCategory code="CAR" desc="Cardigan"/>
+    <Style code="D00740" desc="Aeronotic long vest knit wmn l"/>
+    <Fabric code="K009" desc="Hulsy Wool Knit"/>
+    <Color code="990" desc="black" group="green" nrf="400"/>
+    <Gender code="1" desc="Women"/>
+    <CoO code="CHN"/>
+    <NeckLine desc="Turtle neck"/>
+    <SleeveLength code="LS" desc="Long sleeve"/>
+    <Fit code="STR" desc="Straight"/>
+    <CommercialDescription desc="Aeronotic long vest knit wmn l/s"/>
+    <CareLabels list="7-10-23-13-15-80-60-70"/>
+    <Volume liters="3.690"/>
+    <Weight gram="552"/>
+    <Compositions>
+      <Composition code="PAN" desc="Acryl" percentage="39"/>
+      <Composition code="WO" desc="Wool" percentage="61"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599504107" width="L" fit=""/>
+      <Size ean="8718599504114" width="M" fit=""/>
+      <Size ean="8718599504121" width="S" fit=""/>
+      <Size ean="8718599504138" width="XL" fit=""/>
+      <Size ean="8718599504145" width="XS" fit=""/>
+      <Size ean="8718599504152" width="XXL" fit=""/>
+      <Size ean="8718599504169" width="XXS" fit=""/>
+      <Size ean="8718599504176" width="XXXS" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="149.95" currency="EUR"/>
+      <Price country="NL" type="RRP" value="149.95" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="SHT" desc="Shirts"/>
+    <Style code="D00744" desc="Remi BF Shirt Wmn l"/>
+    <Fabric code="D013" desc="Lt Wt Craser Denim"/>
+    <Color code="89" desc="Dk Aged"/>
+    <Gender code="1" desc="Women"/>
+    <CoO code="BGD"/>
+    <Collar desc="Shirt collar"/>
+    <SleeveLength code="LS" desc="Long sleeve"/>
+    <Fit code="LOO" desc="Loose"/>
+    <CommercialDescription desc="Remi BF Shirt Wmn l/s"/>
+    <CareLabels list="1-10-19-12-32-15-54"/>
+    <Volume liters="0.001"/>
+    <Weight gram="400"/>
+    <Compositions>
+      <Composition code="CO" desc="Cotton" percentage="100"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599458943" width="L" fit=""/>
+      <Size ean="8718599458950" width="M" fit=""/>
+      <Size ean="8718599458967" width="S" fit=""/>
+      <Size ean="8718599458974" width="XL" fit=""/>
+      <Size ean="8718599458981" width="XS" fit=""/>
+      <Size ean="8718599458998" width="XXL" fit=""/>
+      <Size ean="8718599459001" width="XXS" fit=""/>
+      <Size ean="8718599459018" width="XXXS" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="99.95" currency="EUR"/>
+      <Price country="NL" type="RRP" value="99.95" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="SWT" desc="Sweats"/>
+    <SubCategory code="SWT" desc="Sweater"/>
+    <Style code="D00745" desc="Gilya straight r sw wmn l"/>
+    <Fabric code="K007" desc="Sherland Sweat"/>
+    <Color code="1321" desc="Marble"/>
+    <Gender code="1" desc="Women"/>
+    <CoO code="CHN"/>
+    <NeckLine desc="R-neck"/>
+    <SleeveLength code="LS" desc="Long sleeve"/>
+    <Fit code="STR" desc="Straight"/>
+    <CommercialDescription desc="Gilya straight r sw wmn l/s"/>
+    <CareLabels list="3-10-23-32-13-36-53-70-50-71"/>
+    <Volume liters="1.953"/>
+    <Weight gram="335"/>
+    <Compositions>
+      <Composition code="CO" desc="Cotton" percentage="60"/>
+      <Composition code="PES" desc="Polyester" percentage="40"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599459186" width="L" fit=""/>
+      <Size ean="8718599459193" width="M" fit=""/>
+      <Size ean="8718599459209" width="S" fit=""/>
+      <Size ean="8718599459216" width="XL" fit=""/>
+      <Size ean="8718599459223" width="XS" fit=""/>
+      <Size ean="8718599459230" width="XXL" fit=""/>
+      <Size ean="8718599459247" width="XXS" fit=""/>
+      <Size ean="8718599459254" width="XXXS" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="89.95" currency="EUR"/>
+      <Price country="NL" type="RRP" value="79.95" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="SWT" desc="Sweats"/>
+    <SubCategory code="SWT" desc="Sweater"/>
+    <Style code="D00745" desc="Gilya straight r sw wmn l"/>
+    <Fabric code="K007" desc="Sherland Sweat"/>
+    <Color code="5617" desc="Merlot"/>
+    <Gender code="1" desc="Women"/>
+    <NeckLine desc="R-neck"/>
+    <SleeveLength code="LS" desc="Long sleeve"/>
+    <Fit code="STR" desc="Straight"/>
+    <CommercialDescription desc="Gilya straight r sw wmn l/s"/>
+    <CareLabels list="3-10-23-32-13-36-53-70-50-71"/>
+    <Volume liters="1.953"/>
+    <Weight gram="335"/>
+    <Compositions>
+      <Composition code="CO" desc="Cotton" percentage="60"/>
+      <Composition code="PES" desc="Polyester" percentage="40"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599459261" width="L" fit=""/>
+      <Size ean="8718599459278" width="M" fit=""/>
+      <Size ean="8718599459285" width="S" fit=""/>
+      <Size ean="8718599459292" width="XL" fit=""/>
+      <Size ean="8718599459308" width="XS" fit=""/>
+      <Size ean="8718599459315" width="XXL" fit=""/>
+      <Size ean="8718599459322" width="XXS" fit=""/>
+      <Size ean="8718599459339" width="XXXS" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="89.95" currency="EUR"/>
+      <Price country="NL" type="RRP" value="79.95" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="SWT" desc="Sweats"/>
+    <SubCategory code="SWT" desc="Sweater"/>
+    <Style code="D00745" desc="Gilya straight r sw wmn l"/>
+    <Fabric code="K007" desc="Sherland Sweat"/>
+    <Color code="906" desc="Grey Htr"/>
+    <Gender code="1" desc="Women"/>
+    <NeckLine desc="R-neck"/>
+    <SleeveLength code="LS" desc="Long sleeve"/>
+    <Fit code="STR" desc="Straight"/>
+    <CommercialDescription desc="Gilya straight r sw wmn l/s"/>
+    <CareLabels list="3-10-23-32-13-36-53-70-50-71"/>
+    <Volume liters="1.953"/>
+    <Weight gram="335"/>
+    <Compositions>
+      <Composition code="CO" desc="Cotton" percentage="60"/>
+      <Composition code="PES" desc="Polyester" percentage="40"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599459100" width="L" fit=""/>
+      <Size ean="8718599459117" width="M" fit=""/>
+      <Size ean="8718599459124" width="S" fit=""/>
+      <Size ean="8718599459131" width="XL" fit=""/>
+      <Size ean="8718599459148" width="XS" fit=""/>
+      <Size ean="8718599459155" width="XXL" fit=""/>
+      <Size ean="8718599459162" width="XXS" fit=""/>
+      <Size ean="8718599459179" width="XXXS" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="89.95" currency="EUR"/>
+      <Price country="NL" type="RRP" value="79.95" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="SWT" desc="Sweats"/>
+    <SubCategory code="SWT" desc="Sweater"/>
+    <Style code="D00745" desc="Gilya straight r sw wmn l"/>
+    <Fabric code="K007" desc="Sherland Sweat"/>
+    <Color code="990" desc="black"/>
+    <Gender code="1" desc="Women"/>
+    <CoO code="CHN"/>
+    <NeckLine desc="R-neck"/>
+    <SleeveLength code="LS" desc="Long sleeve"/>
+    <Fit code="STR" desc="Straight"/>
+    <CommercialDescription desc="Gilya straight r sw wmn l/s"/>
+    <CareLabels list="3-10-23-32-13-36-53-70-50-71"/>
+    <Volume liters="1.953"/>
+    <Weight gram="335"/>
+    <Compositions>
+      <Composition code="CO" desc="Cotton" percentage="60"/>
+      <Composition code="PES" desc="Polyester" percentage="40"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599459025" width="L" fit=""/>
+      <Size ean="8718599459032" width="M" fit=""/>
+      <Size ean="8718599459049" width="S" fit=""/>
+      <Size ean="8718599459056" width="XL" fit=""/>
+      <Size ean="8718599459063" width="XS" fit=""/>
+      <Size ean="8718599459070" width="XXL" fit=""/>
+      <Size ean="8718599459087" width="XXS" fit=""/>
+      <Size ean="8718599459094" width="XXXS" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="89.95" currency="EUR"/>
+      <Price country="NL" type="RRP" value="79.95" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="JKT" desc="Jackets"/>
+    <SubCategory code="TRN" desc="Trench"/>
+    <Style code="D00751" desc="Correct warox coat"/>
+    <Fabric code="6901" desc="Dizrey"/>
+    <Color code="1522" desc="Saru Blue"/>
+    <Gender code="2" desc="Men"/>
+    <SleeveLength code="LS" desc="Long sleeve"/>
+    <Fit code="SLM" desc="Slim"/>
+    <CommercialDescription desc="Correct warox coat"/>
+    <CareLabels list="1-10-23-34-15-54"/>
+    <Volume liters="0.001"/>
+    <Weight gram="1100"/>
+    <Compositions>
+      <Composition code="CO" desc="Cotton" percentage="61"/>
+      <Composition code="PA" desc="Nylon" percentage="39"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599505364" width="L" fit=""/>
+      <Size ean="8718599505371" width="M" fit=""/>
+      <Size ean="8718599505388" width="S" fit=""/>
+      <Size ean="8718599505395" width="XL" fit=""/>
+      <Size ean="8718599505401" width="XS" fit=""/>
+      <Size ean="8718599505418" width="XXL" fit=""/>
+      <Size ean="8718599505425" width="XXS" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="299.95" currency="EUR"/>
+      <Price country="NL" type="RRP" value="279.95" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="JKT" desc="Jackets"/>
+    <SubCategory code="TRN" desc="Trench"/>
+    <Style code="D00751" desc="Correct warox coat"/>
+    <Fabric code="6901" desc="Dizrey"/>
+    <Color code="974" desc="Carbid"/>
+    <Gender code="2" desc="Men"/>
+    <CoO code="CHN"/>
+    <SleeveLength code="LS" desc="Long sleeve"/>
+    <Fit code="SLM" desc="Slim"/>
+    <CommercialDescription desc="Correct warox coat"/>
+    <CareLabels list="1-10-23-34-15-54"/>
+    <Volume liters="11.354"/>
+    <Weight gram="1089"/>
+    <Compositions>
+      <Composition code="CO" desc="Cotton" percentage="61"/>
+      <Composition code="PA" desc="Nylon" percentage="39"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599505296" width="L" fit=""/>
+      <Size ean="8718599505302" width="M" fit=""/>
+      <Size ean="8718599505319" width="S" fit=""/>
+      <Size ean="8718599505326" width="XL" fit=""/>
+      <Size ean="8718599505333" width="XS" fit=""/>
+      <Size ean="8718599505340" width="XXL" fit=""/>
+      <Size ean="8718599505357" width="XXS" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="299.95" currency="EUR"/>
+      <Price country="NL" type="RRP" value="279.95" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="JKT" desc="Jackets"/>
+    <SubCategory code="TRN" desc="Trench"/>
+    <Style code="D00751" desc="Correct warox coat"/>
+    <Fabric code="6901" desc="Dizrey"/>
+    <Color code="990" desc="black"/>
+    <Gender code="2" desc="Men"/>
+    <CoO code="CHN"/>
+    <SleeveLength code="LS" desc="Long sleeve"/>
+    <Fit code="SLM" desc="Slim"/>
+    <CommercialDescription desc="Correct warox coat"/>
+    <CareLabels list="1-10-23-34-15-54"/>
+    <Volume liters="0.001"/>
+    <Weight gram="1100"/>
+    <Compositions>
+      <Composition code="PA" desc="Nylon" percentage="39"/>
+      <Composition code="CO" desc="Cotton" percentage="61"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599505227" width="L" fit=""/>
+      <Size ean="8718599505234" width="M" fit=""/>
+      <Size ean="8718599505241" width="S" fit=""/>
+      <Size ean="8718599505258" width="XL" fit=""/>
+      <Size ean="8718599505265" width="XS" fit=""/>
+      <Size ean="8718599505272" width="XXL" fit=""/>
+      <Size ean="8718599505289" width="XXS" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="299.95" currency="EUR"/>
+      <Price country="NL" type="RRP" value="279.95" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="SHO" desc="Shorts"/>
+    <SubCategory code="5PO" desc="5Pocket"/>
+    <Style code="D00752" desc="Arc Low BF Long Short Wmn"/>
+    <Fabric code="D01" desc="Wardour Stretch Denim"/>
+    <Color code="5815" desc="Lt Aged Restored 53"/>
+    <Gender code="1" desc="Women"/>
+    <CoO code="IND"/>
+    <Fit code="BYF" desc="Boyfriend"/>
+    <CommercialDescription desc="Arc Low BF Long Short Wmn"/>
+    <CareLabels list="1-10-19-12-15-32-54"/>
+    <Volume liters="1.465"/>
+    <Weight gram="358"/>
+    <Compositions>
+      <Composition code="CO" desc="Cotton" percentage="98"/>
+      <Composition code="EA" desc="Elastane" percentage="2"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599459346" width="22" fit=""/>
+      <Size ean="8718599459353" width="23" fit=""/>
+      <Size ean="8718599459360" width="24" fit=""/>
+      <Size ean="8718599459377" width="25" fit=""/>
+      <Size ean="8718599459384" width="26" fit=""/>
+      <Size ean="8718599459391" width="27" fit=""/>
+      <Size ean="8718599459407" width="28" fit=""/>
+      <Size ean="8718599459414" width="29" fit=""/>
+      <Size ean="8718599459421" width="30" fit=""/>
+      <Size ean="8718599459438" width="31" fit=""/>
+      <Size ean="8718599459445" width="32" fit=""/>
+      <Size ean="8718599459452" width="33" fit=""/>
+      <Size ean="8718599459469" width="34" fit=""/>
+      <Size ean="8718599459476" width="35" fit=""/>
+      <Size ean="8718599459483" width="36" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="139.95" currency="EUR"/>
+      <Price country="NL" type="RRP" value="119.95" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="BLZ" desc="Blazers"/>
+    <SubCategory code="DEC" desc="Deconstructed"/>
+    <Style code="D00754" desc="Admiral blazer"/>
+    <Fabric code="4211" desc="King Bt"/>
+    <Color code="974" desc="Carbid"/>
+    <Gender code="2" desc="Men"/>
+    <CoO code="IND"/>
+    <Collar desc="Stand up collar"/>
+    <SleeveLength code="LS" desc="Long sleeve"/>
+    <Fit code="SLM" desc="Slim"/>
+    <CommercialDescription desc="Admiral blazer"/>
+    <CareLabels list="1-10-19-13-15-54-70"/>
+    <Volume liters="0.001"/>
+    <Weight gram="1100"/>
+    <Compositions>
+      <Composition code="CO" desc="Cotton" percentage="100"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599460618" width="L" fit=""/>
+      <Size ean="8718599460625" width="M" fit=""/>
+      <Size ean="8718599460632" width="S" fit=""/>
+      <Size ean="8718599460649" width="XL" fit=""/>
+      <Size ean="8718599460656" width="XS" fit=""/>
+      <Size ean="8718599460663" width="XXL" fit=""/>
+      <Size ean="8718599460670" width="XXS" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="199.95" currency="EUR"/>
+      <Price country="NL" type="RRP" value="179.95" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="BLZ" desc="Blazers"/>
+    <SubCategory code="DEC" desc="Deconstructed"/>
+    <Style code="D00754" desc="Admiral blazer"/>
+    <Fabric code="4211" desc="King Bt"/>
+    <Color code="995" desc="Asfalt"/>
+    <Gender code="2" desc="Men"/>
+    <CoO code="IND"/>
+    <Collar desc="Stand up collar"/>
+    <SleeveLength code="LS" desc="Long sleeve"/>
+    <Fit code="SLM" desc="Slim"/>
+    <CommercialDescription desc="Admiral blazer"/>
+    <CareLabels list="1-10-19-13-15-54-70"/>
+    <Volume liters="3.064"/>
+    <Weight gram="585"/>
+    <Compositions>
+      <Composition code="CO" desc="Cotton" percentage="100"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599460540" width="L" fit=""/>
+      <Size ean="8718599460557" width="M" fit=""/>
+      <Size ean="8718599460564" width="S" fit=""/>
+      <Size ean="8718599460571" width="XL" fit=""/>
+      <Size ean="8718599460588" width="XS" fit=""/>
+      <Size ean="8718599460595" width="XXL" fit=""/>
+      <Size ean="8718599460601" width="XXS" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="199.95" currency="EUR"/>
+      <Price country="NL" type="RRP" value="179.95" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="JMP" desc="Jumpsuit"/>
+    <SubCategory code="SAL" desc="Salopette"/>
+    <Style code="D00757" desc="Arc BF Short Overall Wmn"/>
+    <Fabric code="6729" desc="Inza White Stretch Denim"/>
+    <Color code="1367" desc="3d Aged"/>
+    <Gender code="1" desc="Women"/>
+    <CoO code="CHN"/>
+    <Collar desc="No collar"/>
+    <SleeveLength code="SLS" desc="Sleeveless"/>
+    <Fit code="LOO" desc="Loose"/>
+    <CommercialDescription desc="Arc BF Short Overall Wmn"/>
+    <CareLabels list="1-10-23-32-12-15-54-70-60"/>
+    <Volume liters="2.504"/>
+    <Weight gram="485"/>
+    <Compositions>
+      <Composition code="CO" desc="Cotton" percentage="98"/>
+      <Composition code="EA" desc="Elastane" percentage="2"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599460892" width="L" fit=""/>
+      <Size ean="8718599460908" width="M" fit=""/>
+      <Size ean="8718599460915" width="S" fit=""/>
+      <Size ean="8718599460922" width="XL" fit=""/>
+      <Size ean="8718599460939" width="XS" fit=""/>
+      <Size ean="8718599460946" width="XXL" fit=""/>
+      <Size ean="8718599460953" width="XXS" fit=""/>
+      <Size ean="8718599460960" width="XXXS" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="139.95" currency="EUR"/>
+      <Price country="NL" type="RRP" value="119.95" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="O5P" desc="O 5 pockets"/>
+    <SubCategory code="ARM" desc="Army pant"/>
+    <Style code="D00771" desc="Air Defence 5620 3D Slim"/>
+    <Fabric code="W009" desc="Premium Micro Stretch Twill Mi"/>
+    <Color code="6254" desc="Saru Blue/Mazarine Blue Ao"/>
+    <Gender code="2" desc="Men"/>
+    <CoO code="CHN"/>
+    <Closure desc="Button closure"/>
+    <Fit code="SLM" desc="Slim"/>
+    <CommercialDescription desc="Air Defence 5620 3D Slim"/>
+    <CareLabels list="1-10-23-32-13-36-76-70-54"/>
+    <Volume liters="3.746"/>
+    <Weight gram="705"/>
+    <Compositions>
+      <Composition code="CO" desc="Cotton" percentage="97"/>
+      <Composition code="EA" desc="Elastane" percentage="3"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599506422" width="24" length="26" fit=""/>
+      <Size ean="8718599506439" width="24" length="28" fit=""/>
+      <Size ean="8718599506446" width="24" length="30" fit=""/>
+      <Size ean="8718599506453" width="24" length="32" fit=""/>
+      <Size ean="8718599506460" width="24" length="34" fit=""/>
+      <Size ean="8718599506477" width="25" length="26" fit=""/>
+      <Size ean="8718599506484" width="25" length="28" fit=""/>
+      <Size ean="8718599506491" width="25" length="30" fit=""/>
+      <Size ean="8718599506507" width="25" length="32" fit=""/>
+      <Size ean="8718599506514" width="25" length="34" fit=""/>
+      <Size ean="8718599506521" width="26" length="26" fit=""/>
+      <Size ean="8718599506538" width="26" length="28" fit=""/>
+      <Size ean="8718599506545" width="26" length="30" fit=""/>
+      <Size ean="8718599506552" width="26" length="32" fit=""/>
+      <Size ean="8718599506569" width="26" length="34" fit=""/>
+      <Size ean="8718599506576" width="27" length="26" fit=""/>
+      <Size ean="8718599506583" width="27" length="28" fit=""/>
+      <Size ean="8718599506590" width="27" length="30" fit=""/>
+      <Size ean="8718599506606" width="27" length="32" fit=""/>
+      <Size ean="8718599506613" width="27" length="34" fit=""/>
+      <Size ean="8718599506620" width="28" length="26" fit=""/>
+      <Size ean="8718599506637" width="28" length="28" fit=""/>
+      <Size ean="8718599506644" width="28" length="30" fit=""/>
+      <Size ean="8718599506651" width="28" length="32" fit=""/>
+      <Size ean="8718599506668" width="28" length="34" fit=""/>
+      <Size ean="8718599506675" width="29" length="26" fit=""/>
+      <Size ean="8718599506682" width="29" length="28" fit=""/>
+      <Size ean="8718599506699" width="29" length="30" fit=""/>
+      <Size ean="8718599506705" width="29" length="32" fit=""/>
+      <Size ean="8718599506712" width="29" length="34" fit=""/>
+      <Size ean="8718599506729" width="30" length="26" fit=""/>
+      <Size ean="8718599506736" width="30" length="28" fit=""/>
+      <Size ean="8718599506743" width="30" length="30" fit=""/>
+      <Size ean="8718599506750" width="30" length="32" fit=""/>
+      <Size ean="8718599506767" width="30" length="34" fit=""/>
+      <Size ean="8718599506774" width="30" length="36" fit=""/>
+      <Size ean="8718599506781" width="31" length="26" fit=""/>
+      <Size ean="8718599506798" width="31" length="28" fit=""/>
+      <Size ean="8718599506804" width="31" length="30" fit=""/>
+      <Size ean="8718599506811" width="31" length="32" fit=""/>
+      <Size ean="8718599506828" width="31" length="34" fit=""/>
+      <Size ean="8718599506835" width="31" length="36" fit=""/>
+      <Size ean="8718599506842" width="31" length="38" fit=""/>
+      <Size ean="8718599506859" width="32" length="26" fit=""/>
+      <Size ean="8718599506866" width="32" length="28" fit=""/>
+      <Size ean="8718599506873" width="32" length="30" fit=""/>
+      <Size ean="8718599506880" width="32" length="32" fit=""/>
+      <Size ean="8718599506897" width="32" length="34" fit=""/>
+      <Size ean="8718599506903" width="32" length="36" fit=""/>
+      <Size ean="8718599506910" width="32" length="38" fit=""/>
+      <Size ean="8718599506927" width="33" length="26" fit=""/>
+      <Size ean="8718599506934" width="33" length="28" fit=""/>
+      <Size ean="8718599506941" width="33" length="30" fit=""/>
+      <Size ean="8718599506958" width="33" length="32" fit=""/>
+      <Size ean="8718599506965" width="33" length="34" fit=""/>
+      <Size ean="8718599506972" width="33" length="36" fit=""/>
+      <Size ean="8718599506989" width="33" length="38" fit=""/>
+      <Size ean="8718599506996" width="34" length="26" fit=""/>
+      <Size ean="8718599507009" width="34" length="28" fit=""/>
+      <Size ean="8718599507016" width="34" length="30" fit=""/>
+      <Size ean="8718599507023" width="34" length="32" fit=""/>
+      <Size ean="8718599507030" width="34" length="34" fit=""/>
+      <Size ean="8718599507047" width="34" length="36" fit=""/>
+      <Size ean="8718599507054" width="34" length="38" fit=""/>
+      <Size ean="8718599507061" width="35" length="28" fit=""/>
+      <Size ean="8718599507078" width="35" length="30" fit=""/>
+      <Size ean="8718599507085" width="35" length="32" fit=""/>
+      <Size ean="8718599507092" width="35" length="34" fit=""/>
+      <Size ean="8718599507108" width="35" length="36" fit=""/>
+      <Size ean="8718599507115" width="35" length="38" fit=""/>
+      <Size ean="8718599507122" width="36" length="28" fit=""/>
+      <Size ean="8718599507139" width="36" length="30" fit=""/>
+      <Size ean="8718599507146" width="36" length="32" fit=""/>
+      <Size ean="8718599507153" width="36" length="34" fit=""/>
+      <Size ean="8718599507160" width="36" length="36" fit=""/>
+      <Size ean="8718599507177" width="36" length="38" fit=""/>
+      <Size ean="8718599507184" width="38" length="30" fit=""/>
+      <Size ean="8718599507191" width="38" length="32" fit=""/>
+      <Size ean="8718599507207" width="38" length="34" fit=""/>
+      <Size ean="8718599507214" width="38" length="36" fit=""/>
+      <Size ean="8718599507221" width="38" length="38" fit=""/>
+      <Size ean="8718599507238" width="40" length="32" fit=""/>
+      <Size ean="8718599507245" width="40" length="34" fit=""/>
+      <Size ean="8718599507252" width="40" length="36" fit=""/>
+      <Size ean="8718599507269" width="40" length="38" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="139.95" currency="EUR"/>
+      <Price country="NL" type="RRP" value="139.95" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="TOP" desc="Tops"/>
+    <SubCategory code="TEE" desc="T-Shirt"/>
+    <Style code="D00785" desc="Evalu straight r t wmn s"/>
+    <Fabric code="4834" desc="Jisoe Jersey"/>
+    <Color code="1321" desc="Marble"/>
+    <Gender code="1" desc="Women"/>
+    <CoO code="BGD"/>
+    <NeckLine desc="R-neck"/>
+    <SleeveLength code="SS" desc="Short sleeve"/>
+    <Fit code="STR" desc="Straight"/>
+    <CommercialDescription desc="Evalu straight r t wmn s/s"/>
+    <CareLabels list="2-10-23-32-13-36-54-70"/>
+    <Volume liters="0.603"/>
+    <Weight gram="138"/>
+    <Compositions>
+      <Composition code="CO" desc="Cotton" percentage="60"/>
+      <Composition code="PES" desc="Polyester" percentage="40"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599467730" width="L" fit=""/>
+      <Size ean="8718599467747" width="M" fit=""/>
+      <Size ean="8718599467754" width="S" fit=""/>
+      <Size ean="8718599467761" width="XL" fit=""/>
+      <Size ean="8718599467778" width="XS" fit=""/>
+      <Size ean="8718599467785" width="XXL" fit=""/>
+      <Size ean="8718599467792" width="XXS" fit=""/>
+      <Size ean="8718599467808" width="XXXS" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="35.00" currency="EUR"/>
+      <Price country="NL" type="RRP" value="35.00" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="TOP" desc="Tops"/>
+    <SubCategory code="TEE" desc="T-Shirt"/>
+    <Style code="D00785" desc="Evalu straight r t wmn s"/>
+    <Fabric code="4834" desc="Jisoe Jersey"/>
+    <Color code="1824" desc="Twilit"/>
+    <Gender code="1" desc="Women"/>
+    <NeckLine desc="R-neck"/>
+    <SleeveLength code="SS" desc="Short sleeve"/>
+    <Fit code="STR" desc="Straight"/>
+    <CommercialDescription desc="Evalu straight r t wmn s/s"/>
+    <CareLabels list="2-10-23-32-13-36-54-70"/>
+    <Volume liters="0.001"/>
+    <Weight gram="250"/>
+    <Compositions>
+      <Composition code="CO" desc="Cotton" percentage="60"/>
+      <Composition code="PES" desc="Polyester" percentage="40"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599467976" width="L" fit=""/>
+      <Size ean="8718599467983" width="M" fit=""/>
+      <Size ean="8718599467990" width="S" fit=""/>
+      <Size ean="8718599468003" width="XL" fit=""/>
+      <Size ean="8718599468010" width="XS" fit=""/>
+      <Size ean="8718599468027" width="XXL" fit=""/>
+      <Size ean="8718599468034" width="XXS" fit=""/>
+      <Size ean="8718599468041" width="XXXS" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="35.00" currency="EUR"/>
+      <Price country="NL" type="RRP" value="35.00" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="TOP" desc="Tops"/>
+    <SubCategory code="TEE" desc="T-Shirt"/>
+    <Style code="D00785" desc="Evalu straight r t wmn s"/>
+    <Fabric code="4834" desc="Jisoe Jersey"/>
+    <Color code="4213" desc="Mazarine Blue"/>
+    <Gender code="1" desc="Women"/>
+    <NeckLine desc="R-neck"/>
+    <SleeveLength code="SS" desc="Short sleeve"/>
+    <Fit code="STR" desc="Straight"/>
+    <CommercialDescription desc="Evalu straight r t wmn s/s"/>
+    <CareLabels list="2-10-23-32-13-36-54-70"/>
+    <Volume liters="0.001"/>
+    <Weight gram="250"/>
+    <Compositions>
+      <Composition code="CO" desc="Cotton" percentage="60"/>
+      <Composition code="PES" desc="Polyester" percentage="40"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599467815" width="L" fit=""/>
+      <Size ean="8718599467822" width="M" fit=""/>
+      <Size ean="8718599467839" width="S" fit=""/>
+      <Size ean="8718599467846" width="XL" fit=""/>
+      <Size ean="8718599467853" width="XS" fit=""/>
+      <Size ean="8718599467860" width="XXL" fit=""/>
+      <Size ean="8718599467877" width="XXS" fit=""/>
+      <Size ean="8718599467884" width="XXXS" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="35.00" currency="EUR"/>
+      <Price country="NL" type="RRP" value="35.00" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="TOP" desc="Tops"/>
+    <SubCategory code="TEE" desc="T-Shirt"/>
+    <Style code="D00785" desc="Evalu straight r t wmn s"/>
+    <Fabric code="4834" desc="Jisoe Jersey"/>
+    <Color code="5617" desc="Merlot"/>
+    <Gender code="1" desc="Women"/>
+    <NeckLine desc="R-neck"/>
+    <SleeveLength code="SS" desc="Short sleeve"/>
+    <Fit code="STR" desc="Straight"/>
+    <CommercialDescription desc="Evalu straight r t wmn s/s"/>
+    <CareLabels list="2-10-23-32-13-36-54-70"/>
+    <Volume liters="0.001"/>
+    <Weight gram="250"/>
+    <Compositions>
+      <Composition code="PES" desc="Polyester" percentage="40"/>
+      <Composition code="CO" desc="Cotton" percentage="60"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599467891" width="L" fit=""/>
+      <Size ean="8718599467907" width="M" fit=""/>
+      <Size ean="8718599467914" width="S" fit=""/>
+      <Size ean="8718599467921" width="XL" fit=""/>
+      <Size ean="8718599467938" width="XS" fit=""/>
+      <Size ean="8718599467945" width="XXL" fit=""/>
+      <Size ean="8718599467952" width="XXS" fit=""/>
+      <Size ean="8718599467969" width="XXXS" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="35.00" currency="EUR"/>
+      <Price country="NL" type="RRP" value="35.00" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="TOP" desc="Tops"/>
+    <SubCategory code="TEE" desc="T-Shirt"/>
+    <Style code="D00785" desc="Evalu straight r t wmn s"/>
+    <Fabric code="4834" desc="Jisoe Jersey"/>
+    <Color code="990" desc="black"/>
+    <Gender code="1" desc="Women"/>
+    <NeckLine desc="R-neck"/>
+    <SleeveLength code="SS" desc="Short sleeve"/>
+    <Fit code="STR" desc="Straight"/>
+    <CommercialDescription desc="Evalu straight r t wmn s/s"/>
+    <CareLabels list="2-10-23-32-13-36-54-70"/>
+    <Volume liters="0.001"/>
+    <Weight gram="250"/>
+    <Compositions>
+      <Composition code="CO" desc="Cotton" percentage="60"/>
+      <Composition code="PES" desc="Polyester" percentage="40"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599467655" width="L" fit=""/>
+      <Size ean="8718599467662" width="M" fit=""/>
+      <Size ean="8718599467679" width="S" fit=""/>
+      <Size ean="8718599467686" width="XL" fit=""/>
+      <Size ean="8718599467693" width="XS" fit=""/>
+      <Size ean="8718599467709" width="XXL" fit=""/>
+      <Size ean="8718599467716" width="XXS" fit=""/>
+      <Size ean="8718599467723" width="XXXS" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="35.00" currency="EUR"/>
+      <Price country="NL" type="RRP" value="35.00" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="TOP" desc="Tops"/>
+    <SubCategory code="TEE" desc="T-Shirt"/>
+    <Style code="D00793" desc="Fynila slim r t wmn s"/>
+    <Fabric code="4107" desc="Lyon Jersey"/>
+    <Color code="1321" desc="Marble"/>
+    <Gender code="1" desc="Women"/>
+    <CoO code="BGD"/>
+    <NeckLine desc="R-neck"/>
+    <SleeveLength code="SS" desc="Short sleeve"/>
+    <Fit code="SLM" desc="Slim"/>
+    <CommercialDescription desc="Fynila slim r t wmn s/s"/>
+    <CareLabels list="4-10-23-32-13-36-54-70"/>
+    <Volume liters="0.678"/>
+    <Weight gram="102"/>
+    <Compositions>
+      <Composition code="CO" desc="Cotton" percentage="100"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599469499" width="L" fit=""/>
+      <Size ean="8718599469505" width="M" fit=""/>
+      <Size ean="8718599469512" width="S" fit=""/>
+      <Size ean="8718599469529" width="XL" fit=""/>
+      <Size ean="8718599469536" width="XS" fit=""/>
+      <Size ean="8718599469543" width="XXL" fit=""/>
+      <Size ean="8718599469550" width="XXS" fit=""/>
+      <Size ean="8718599469567" width="XXXS" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="39.95" currency="EUR"/>
+      <Price country="NL" type="RRP" value="39.95" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="TOP" desc="Tops"/>
+    <SubCategory code="TEE" desc="T-Shirt"/>
+    <Style code="D00793" desc="Fynila slim r t wmn s"/>
+    <Fabric code="4107" desc="Lyon Jersey"/>
+    <Color code="5617" desc="Merlot"/>
+    <Gender code="1" desc="Women"/>
+    <CoO code="BGD"/>
+    <NeckLine desc="R-neck"/>
+    <SleeveLength code="SS" desc="Short sleeve"/>
+    <Fit code="SLM" desc="Slim"/>
+    <CommercialDescription desc="Fynila slim r t wmn s/s"/>
+    <CareLabels list="4-10-23-32-13-36-54-70"/>
+    <Volume liters="0.001"/>
+    <Weight gram="250"/>
+    <Compositions>
+      <Composition code="CO" desc="Cotton" percentage="100"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599469574" width="L" fit=""/>
+      <Size ean="8718599469581" width="M" fit=""/>
+      <Size ean="8718599469598" width="S" fit=""/>
+      <Size ean="8718599469604" width="XL" fit=""/>
+      <Size ean="8718599469611" width="XS" fit=""/>
+      <Size ean="8718599469628" width="XXL" fit=""/>
+      <Size ean="8718599469635" width="XXS" fit=""/>
+      <Size ean="8718599469642" width="XXXS" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="39.95" currency="EUR"/>
+      <Price country="NL" type="RRP" value="39.95" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="TOP" desc="Tops"/>
+    <SubCategory code="TEE" desc="T-Shirt"/>
+    <Style code="D00793" desc="Fynila slim r t wmn s"/>
+    <Fabric code="4107" desc="Lyon Jersey"/>
+    <Color code="5618" desc="Dk Gold"/>
+    <Gender code="1" desc="Women"/>
+    <CoO code="BGD"/>
+    <NeckLine desc="R-neck"/>
+    <SleeveLength code="SS" desc="Short sleeve"/>
+    <Fit code="SLM" desc="Slim"/>
+    <CommercialDescription desc="Fynila slim r t wmn s/s"/>
+    <CareLabels list="4-10-23-32-13-36-54-70"/>
+    <Volume liters="0.001"/>
+    <Weight gram="250"/>
+    <Compositions>
+      <Composition code="CO" desc="Cotton" percentage="100"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599469338" width="L" fit=""/>
+      <Size ean="8718599469345" width="M" fit=""/>
+      <Size ean="8718599469352" width="S" fit=""/>
+      <Size ean="8718599469369" width="XL" fit=""/>
+      <Size ean="8718599469376" width="XS" fit=""/>
+      <Size ean="8718599469383" width="XXL" fit=""/>
+      <Size ean="8718599469390" width="XXS" fit=""/>
+      <Size ean="8718599469406" width="XXXS" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="39.95" currency="EUR"/>
+      <Price country="NL" type="RRP" value="39.95" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="TOP" desc="Tops"/>
+    <SubCategory code="TEE" desc="T-Shirt"/>
+    <Style code="D00793" desc="Fynila slim r t wmn s"/>
+    <Fabric code="4107" desc="Lyon Jersey"/>
+    <Color code="906" desc="Grey Htr"/>
+    <Gender code="1" desc="Women"/>
+    <CoO code="BGD"/>
+    <NeckLine desc="R-neck"/>
+    <SleeveLength code="SS" desc="Short sleeve"/>
+    <Fit code="SLM" desc="Slim"/>
+    <CommercialDescription desc="Fynila slim r t wmn s/s"/>
+    <CareLabels list="4-10-23-32-13-36-54-70"/>
+    <Volume liters="0.001"/>
+    <Weight gram="250"/>
+    <Compositions>
+      <Composition code="CO" desc="Cotton" percentage="100"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599469413" width="L" fit=""/>
+      <Size ean="8718599469420" width="M" fit=""/>
+      <Size ean="8718599469437" width="S" fit=""/>
+      <Size ean="8718599469444" width="XL" fit=""/>
+      <Size ean="8718599469451" width="XS" fit=""/>
+      <Size ean="8718599469468" width="XXL" fit=""/>
+      <Size ean="8718599469475" width="XXS" fit=""/>
+      <Size ean="8718599469482" width="XXXS" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="39.95" currency="EUR"/>
+      <Price country="NL" type="RRP" value="39.95" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="TOP" desc="Tops"/>
+    <SubCategory code="TEE" desc="T-Shirt"/>
+    <Style code="D00793" desc="Fynila slim r t wmn s"/>
+    <Fabric code="4107" desc="Lyon Jersey"/>
+    <Color code="990" desc="black"/>
+    <Gender code="1" desc="Women"/>
+    <CoO code="BGD"/>
+    <NeckLine desc="R-neck"/>
+    <SleeveLength code="SS" desc="Short sleeve"/>
+    <Fit code="SLM" desc="Slim"/>
+    <CommercialDescription desc="Fynila slim r t wmn s/s"/>
+    <CareLabels list="4-10-23-32-13-36-54-70"/>
+    <Volume liters="0.001"/>
+    <Weight gram="250"/>
+    <Compositions>
+      <Composition code="CO" desc="Cotton" percentage="100"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599469253" width="L" fit=""/>
+      <Size ean="8718599469260" width="M" fit=""/>
+      <Size ean="8718599469277" width="S" fit=""/>
+      <Size ean="8718599469284" width="XL" fit=""/>
+      <Size ean="8718599469291" width="XS" fit=""/>
+      <Size ean="8718599469307" width="XXL" fit=""/>
+      <Size ean="8718599469314" width="XXS" fit=""/>
+      <Size ean="8718599469321" width="XXXS" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="39.95" currency="EUR"/>
+      <Price country="NL" type="RRP" value="39.95" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="OST" desc="Overshirts"/>
+    <SubCategory code="VES" desc="Vest"/>
+    <Style code="D00799" desc="Meefic quilted vest"/>
+    <Fabric code="6931" desc="Myrow Nylon C.F."/>
+    <Color code="1522" desc="Saru Blue"/>
+    <Gender code="2" desc="Men"/>
+    <CoO code="BGD"/>
+    <Collar desc="Stand up collar"/>
+    <SleeveLength code="SLS" desc="Sleeveless"/>
+    <Fit code="SLM" desc="Slim"/>
+    <CommercialDescription desc="Meefic quilted vest"/>
+    <CareLabels list="3-10-23-34-36-54"/>
+    <Volume liters="3.411"/>
+    <Weight gram="545"/>
+    <Compositions>
+      <Composition code="PA" desc="Nylon" percentage="100"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599471645" width="L" fit=""/>
+      <Size ean="8718599471652" width="M" fit=""/>
+      <Size ean="8718599471669" width="S" fit=""/>
+      <Size ean="8718599471676" width="XL" fit=""/>
+      <Size ean="8718599471683" width="XS" fit=""/>
+      <Size ean="8718599471690" width="XXL" fit=""/>
+      <Size ean="8718599471706" width="XXS" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="119.95" currency="EUR"/>
+      <Price country="NL" type="RRP" value="119.95" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="OST" desc="Overshirts"/>
+    <Style code="D00801" desc="Rovic overshirt l"/>
+    <Fabric code="W034" desc="Premium Micro Stretch Twill Mi"/>
+    <Color code="6260" desc="Asfalt/Arsenic Ao"/>
+    <Gender code="2" desc="Men"/>
+    <Collar desc="Stand up collar"/>
+    <SleeveLength code="LS" desc="Long sleeve"/>
+    <Fit code="SLM" desc="Slim"/>
+    <CommercialDescription desc="Rovic overshirt l/s"/>
+    <CareLabels list="3-10-23-12-36-54-70"/>
+    <Volume liters="5.855"/>
+    <Weight gram="1033"/>
+    <Compositions>
+      <Composition code="CO" desc="Cotton" percentage="97"/>
+      <Composition code="EA" desc="Elastane" percentage="3"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599635030" width="L" fit=""/>
+      <Size ean="8718599633791" width="M" fit=""/>
+      <Size ean="8718599633364" width="S" fit=""/>
+      <Size ean="8718599634149" width="XL" fit=""/>
+      <Size ean="8718599634156" width="XS" fit=""/>
+      <Size ean="8718599634163" width="XXL" fit=""/>
+      <Size ean="8718599633371" width="XXS" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="189.95" currency="EUR"/>
+      <Price country="NL" type="RRP" value="189.95" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="OST" desc="Overshirts"/>
+    <Style code="D00802" desc="Setscale overshirt l"/>
+    <Fabric code="6901" desc="Dizrey"/>
+    <Color code="990" desc="black"/>
+    <Gender code="2" desc="Men"/>
+    <CoO code="CHN"/>
+    <Collar desc="Rib collar"/>
+    <SleeveLength code="LS" desc="Long sleeve"/>
+    <Fit code="SLM" desc="Slim"/>
+    <CommercialDescription desc="Setscale overshirt l/s"/>
+    <CareLabels list="1-10-23-34-15-54"/>
+    <Volume liters="8.346"/>
+    <Weight gram="634"/>
+    <Compositions>
+      <Composition code="CO" desc="Cotton" percentage="61"/>
+      <Composition code="PA" desc="Nylon" percentage="39"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599472208" width="L" fit=""/>
+      <Size ean="8718599472215" width="M" fit=""/>
+      <Size ean="8718599472222" width="S" fit=""/>
+      <Size ean="8718599472239" width="XL" fit=""/>
+      <Size ean="8718599472246" width="XS" fit=""/>
+      <Size ean="8718599472253" width="XXL" fit=""/>
+      <Size ean="8718599472260" width="XXS" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="139.95" currency="EUR"/>
+      <Price country="NL" type="RRP" value="139.95" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="ACC" desc="Accessories"/>
+    <SubCategory code="BEA" desc="Beanie"/>
+    <Style code="D00816" desc="Cryla beanie wmn"/>
+    <Fabric code="K027" desc="Sheldy knit"/>
+    <Color code="154" desc="Oatmeal"/>
+    <Gender code="1" desc="Women"/>
+    <CoO code="CHN"/>
+    <CommercialDescription desc="Cryla beanie wmn"/>
+    <CareLabels list="3-10-23-24-13-36-54-70-60"/>
+    <Volume liters="0.727"/>
+    <Weight gram="100"/>
+    <Compositions>
+      <Composition code="PAN" desc="Acryl" percentage="100"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599473014" width="PC" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="35.00" currency="EUR"/>
+      <Price country="NL" type="RRP" value="29.95" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="ACC" desc="Accessories"/>
+    <SubCategory code="BEA" desc="Beanie"/>
+    <Style code="D00816" desc="Cryla beanie wmn"/>
+    <Fabric code="K027" desc="Sheldy knit"/>
+    <Color code="3038" desc="Brittany Blue"/>
+    <Gender code="1" desc="Women"/>
+    <CommercialDescription desc="Cryla beanie wmn"/>
+    <CareLabels list="3-10-23-24-13-36-54-70-60"/>
+    <Volume liters="0.001"/>
+    <Weight gram="500"/>
+    <Compositions>
+      <Composition code="PAN" desc="Acryl" percentage="100"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599473007" width="PC" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="35.00" currency="EUR"/>
+      <Price country="NL" type="RRP" value="29.95" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="ACC" desc="Accessories"/>
+    <SubCategory code="BEA" desc="Beanie"/>
+    <Style code="D00816" desc="Cryla beanie wmn"/>
+    <Fabric code="K027" desc="Sheldy knit"/>
+    <Color code="990" desc="black"/>
+    <Gender code="1" desc="Women"/>
+    <CommercialDescription desc="Cryla beanie wmn"/>
+    <CareLabels list="3-10-23-24-13-36-54-70-60"/>
+    <Volume liters="0.001"/>
+    <Weight gram="500"/>
+    <Compositions>
+      <Composition code="PAN" desc="Acryl" percentage="100"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599472994" width="PC" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="35.00" currency="EUR"/>
+      <Price country="NL" type="RRP" value="29.95" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="COJ" desc="Col jeans"/>
+    <Style code="D00847" desc="Lynn Custom Mid Skinny COJ Wmn"/>
+    <Fabric code="7315" desc="Slander Superstretch Od"/>
+    <Color code="5617" desc="Merlot"/>
+    <Gender code="1" desc="Women"/>
+    <CoO code="VNM"/>
+    <Closure desc="Zip &amp; button closure"/>
+    <Fit code="SKN" desc="Skinny"/>
+    <CommercialDescription desc="Lynn Custom Mid Skinny COJ Wmn"/>
+    <CareLabels list="1-10-23-32-12-15-54-76"/>
+    <Volume liters="1.814"/>
+    <Weight gram="567"/>
+    <Compositions>
+      <Composition code="PES" desc="Polyester" percentage="28"/>
+      <Composition code="EA" desc="Elastane" percentage="2"/>
+      <Composition code="CO" desc="Cotton" percentage="35"/>
+      <Composition code="CLT" desc="Lyocell (Tencel®)" percentage="35"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718604834229" width="22" length="26" fit=""/>
+      <Size ean="8718604834649" width="22" length="28" fit=""/>
+      <Size ean="8718604842200" width="22" length="30" fit=""/>
+      <Size ean="8718604842217" width="22" length="32" fit=""/>
+      <Size ean="8718604842224" width="23" length="26" fit=""/>
+      <Size ean="8718604842231" width="23" length="28" fit=""/>
+      <Size ean="8718604842248" width="23" length="30" fit=""/>
+      <Size ean="8718604877233" width="23" length="32" fit=""/>
+      <Size ean="8718604834656" width="23" length="34" fit=""/>
+      <Size ean="8718604834663" width="23" length="36" fit=""/>
+      <Size ean="8718604842255" width="24" length="26" fit=""/>
+      <Size ean="8718604842613" width="24" length="28" fit=""/>
+      <Size ean="8718604834670" width="24" length="30" fit=""/>
+      <Size ean="8718604842620" width="24" length="32" fit=""/>
+      <Size ean="8718604842262" width="24" length="34" fit=""/>
+      <Size ean="8718604842279" width="24" length="36" fit=""/>
+      <Size ean="8718604877240" width="25" length="26" fit=""/>
+      <Size ean="8718604842286" width="25" length="28" fit=""/>
+      <Size ean="8718604877257" width="25" length="30" fit=""/>
+      <Size ean="8718604843061" width="25" length="32" fit=""/>
+      <Size ean="8718604834687" width="25" length="34" fit=""/>
+      <Size ean="8718604877264" width="25" length="36" fit=""/>
+      <Size ean="8718604834694" width="26" length="26" fit=""/>
+      <Size ean="8718604843078" width="26" length="28" fit=""/>
+      <Size ean="8718604843085" width="26" length="30" fit=""/>
+      <Size ean="8718604843092" width="26" length="32" fit=""/>
+      <Size ean="8718604834700" width="26" length="34" fit=""/>
+      <Size ean="8718604842637" width="26" length="36" fit=""/>
+      <Size ean="8718604877271" width="27" length="26" fit=""/>
+      <Size ean="8718604834717" width="27" length="28" fit=""/>
+      <Size ean="8718604834724" width="27" length="30" fit=""/>
+      <Size ean="8718604834731" width="27" length="32" fit=""/>
+      <Size ean="8718604842644" width="27" length="34" fit=""/>
+      <Size ean="8718604842651" width="27" length="36" fit=""/>
+      <Size ean="8718604843108" width="28" length="26" fit=""/>
+      <Size ean="8718604834748" width="28" length="28" fit=""/>
+      <Size ean="8718604842880" width="28" length="30" fit=""/>
+      <Size ean="8718604877288" width="28" length="32" fit=""/>
+      <Size ean="8718604877295" width="28" length="34" fit=""/>
+      <Size ean="8718604834755" width="28" length="36" fit=""/>
+      <Size ean="8718604877301" width="29" length="26" fit=""/>
+      <Size ean="8718604877318" width="29" length="28" fit=""/>
+      <Size ean="8718604842897" width="29" length="30" fit=""/>
+      <Size ean="8718604834762" width="29" length="32" fit=""/>
+      <Size ean="8718604843115" width="29" length="34" fit=""/>
+      <Size ean="8718604842903" width="29" length="36" fit=""/>
+      <Size ean="8718604877325" width="30" length="26" fit=""/>
+      <Size ean="8718604842910" width="30" length="28" fit=""/>
+      <Size ean="8718604877332" width="30" length="30" fit=""/>
+      <Size ean="8718604843122" width="30" length="32" fit=""/>
+      <Size ean="8718604834779" width="30" length="34" fit=""/>
+      <Size ean="8718604842927" width="30" length="36" fit=""/>
+      <Size ean="8718604834786" width="31" length="26" fit=""/>
+      <Size ean="8718604843139" width="31" length="28" fit=""/>
+      <Size ean="8718604877349" width="31" length="30" fit=""/>
+      <Size ean="8718604842934" width="31" length="32" fit=""/>
+      <Size ean="8718604834793" width="31" length="34" fit=""/>
+      <Size ean="8718604834809" width="31" length="36" fit=""/>
+      <Size ean="8718604842941" width="32" length="26" fit=""/>
+      <Size ean="8718604843146" width="32" length="28" fit=""/>
+      <Size ean="8718604877356" width="32" length="30" fit=""/>
+      <Size ean="8718604842958" width="32" length="32" fit=""/>
+      <Size ean="8718604834816" width="32" length="34" fit=""/>
+      <Size ean="8718604835219" width="32" length="36" fit=""/>
+      <Size ean="8718604835226" width="33" length="26" fit=""/>
+      <Size ean="8718604842965" width="33" length="28" fit=""/>
+      <Size ean="8718604842972" width="33" length="30" fit=""/>
+      <Size ean="8718604835233" width="33" length="32" fit=""/>
+      <Size ean="8718604843153" width="33" length="34" fit=""/>
+      <Size ean="8718604877363" width="33" length="36" fit=""/>
+      <Size ean="8718604843160" width="34" length="26" fit=""/>
+      <Size ean="8718604842989" width="34" length="28" fit=""/>
+      <Size ean="8718604843177" width="34" length="30" fit=""/>
+      <Size ean="8718604835240" width="34" length="32" fit=""/>
+      <Size ean="8718604842996" width="34" length="34" fit=""/>
+      <Size ean="8718604843009" width="34" length="36" fit=""/>
+      <Size ean="8718604877370" width="35" length="28" fit=""/>
+      <Size ean="8718604877387" width="35" length="30" fit=""/>
+      <Size ean="8718604835257" width="35" length="32" fit=""/>
+      <Size ean="8718604835264" width="35" length="34" fit=""/>
+      <Size ean="8718604877394" width="35" length="36" fit=""/>
+      <Size ean="8718604843184" width="36" length="28" fit=""/>
+      <Size ean="8718604877400" width="36" length="30" fit=""/>
+      <Size ean="8718604835271" width="36" length="32" fit=""/>
+      <Size ean="8718604843191" width="36" length="34" fit=""/>
+      <Size ean="8718604843016" width="36" length="36" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="NL" type="RRP" value="109.95" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="COJ" desc="Col jeans"/>
+    <Style code="D00847" desc="Lynn Custom Mid Skinny COJ Wmn"/>
+    <Fabric code="7315" desc="Slander Superstretch Od"/>
+    <Color code="5682" desc="Crieff"/>
+    <Gender code="1" desc="Women"/>
+    <CoO code="VNM"/>
+    <Closure desc="Zip &amp; button closure"/>
+    <Fit code="SKN" desc="Skinny"/>
+    <CommercialDescription desc="Lynn Custom Mid Skinny COJ Wmn"/>
+    <CareLabels list="1-10-23-32-12-15-54-76"/>
+    <Volume liters="1.814"/>
+    <Weight gram="567"/>
+    <Compositions>
+      <Composition code="CLT" desc="Lyocell (Tencel®)" percentage="35"/>
+      <Composition code="CO" desc="Cotton" percentage="35"/>
+      <Composition code="EA" desc="Elastane" percentage="2"/>
+      <Composition code="PES" desc="Polyester" percentage="28"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718604841449" width="22" length="26" fit=""/>
+      <Size ean="8718604842002" width="22" length="28" fit=""/>
+      <Size ean="8718604842019" width="22" length="30" fit=""/>
+      <Size ean="8718604877028" width="22" length="32" fit=""/>
+      <Size ean="8718604877035" width="23" length="26" fit=""/>
+      <Size ean="8718604841456" width="23" length="28" fit=""/>
+      <Size ean="8718604833802" width="23" length="30" fit=""/>
+      <Size ean="8718604842026" width="23" length="32" fit=""/>
+      <Size ean="8718604877042" width="23" length="34" fit=""/>
+      <Size ean="8718604841463" width="23" length="36" fit=""/>
+      <Size ean="8718604841470" width="24" length="26" fit=""/>
+      <Size ean="8718604833819" width="24" length="28" fit=""/>
+      <Size ean="8718604842033" width="24" length="30" fit=""/>
+      <Size ean="8718604833826" width="24" length="32" fit=""/>
+      <Size ean="8718604833833" width="24" length="34" fit=""/>
+      <Size ean="8718604834052" width="24" length="36" fit=""/>
+      <Size ean="8718604841487" width="25" length="26" fit=""/>
+      <Size ean="8718604841494" width="25" length="28" fit=""/>
+      <Size ean="8718604842040" width="25" length="30" fit=""/>
+      <Size ean="8718604834069" width="25" length="32" fit=""/>
+      <Size ean="8718604841500" width="25" length="34" fit=""/>
+      <Size ean="8718604877059" width="25" length="36" fit=""/>
+      <Size ean="8718604842057" width="26" length="26" fit=""/>
+      <Size ean="8718604842064" width="26" length="28" fit=""/>
+      <Size ean="8718604841517" width="26" length="30" fit=""/>
+      <Size ean="8718604877066" width="26" length="32" fit=""/>
+      <Size ean="8718604842071" width="26" length="34" fit=""/>
+      <Size ean="8718604834076" width="26" length="36" fit=""/>
+      <Size ean="8718604834083" width="27" length="26" fit=""/>
+      <Size ean="8718604834090" width="27" length="28" fit=""/>
+      <Size ean="8718604841524" width="27" length="30" fit=""/>
+      <Size ean="8718604877073" width="27" length="32" fit=""/>
+      <Size ean="8718604842088" width="27" length="34" fit=""/>
+      <Size ean="8718604834106" width="27" length="36" fit=""/>
+      <Size ean="8718604842095" width="28" length="26" fit=""/>
+      <Size ean="8718604841531" width="28" length="28" fit=""/>
+      <Size ean="8718604834113" width="28" length="30" fit=""/>
+      <Size ean="8718604841548" width="28" length="32" fit=""/>
+      <Size ean="8718604842101" width="28" length="34" fit=""/>
+      <Size ean="8718604842484" width="28" length="36" fit=""/>
+      <Size ean="8718604834120" width="29" length="26" fit=""/>
+      <Size ean="8718604877080" width="29" length="28" fit=""/>
+      <Size ean="8718604877097" width="29" length="30" fit=""/>
+      <Size ean="8718604842118" width="29" length="32" fit=""/>
+      <Size ean="8718604834137" width="29" length="34" fit=""/>
+      <Size ean="8718604842125" width="29" length="36" fit=""/>
+      <Size ean="8718604842491" width="30" length="26" fit=""/>
+      <Size ean="8718604834144" width="30" length="28" fit=""/>
+      <Size ean="8718604842132" width="30" length="30" fit=""/>
+      <Size ean="8718604877103" width="30" length="32" fit=""/>
+      <Size ean="8718604842507" width="30" length="34" fit=""/>
+      <Size ean="8718604877110" width="30" length="36" fit=""/>
+      <Size ean="8718604877127" width="31" length="26" fit=""/>
+      <Size ean="8718604877134" width="31" length="28" fit=""/>
+      <Size ean="8718604877141" width="31" length="30" fit=""/>
+      <Size ean="8718604842514" width="31" length="32" fit=""/>
+      <Size ean="8718604834151" width="31" length="34" fit=""/>
+      <Size ean="8718604842521" width="31" length="36" fit=""/>
+      <Size ean="8718604834168" width="32" length="26" fit=""/>
+      <Size ean="8718604834175" width="32" length="28" fit=""/>
+      <Size ean="8718604842538" width="32" length="30" fit=""/>
+      <Size ean="8718604877158" width="32" length="32" fit=""/>
+      <Size ean="8718604834182" width="32" length="34" fit=""/>
+      <Size ean="8718604877165" width="32" length="36" fit=""/>
+      <Size ean="8718604877172" width="33" length="26" fit=""/>
+      <Size ean="8718604877189" width="33" length="28" fit=""/>
+      <Size ean="8718604834199" width="33" length="30" fit=""/>
+      <Size ean="8718604842149" width="33" length="32" fit=""/>
+      <Size ean="8718604842545" width="33" length="34" fit=""/>
+      <Size ean="8718604842156" width="33" length="36" fit=""/>
+      <Size ean="8718604842552" width="34" length="26" fit=""/>
+      <Size ean="8718604842569" width="34" length="28" fit=""/>
+      <Size ean="8718604834205" width="34" length="30" fit=""/>
+      <Size ean="8718604842163" width="34" length="32" fit=""/>
+      <Size ean="8718604842576" width="34" length="34" fit=""/>
+      <Size ean="8718604842170" width="34" length="36" fit=""/>
+      <Size ean="8718604877196" width="35" length="28" fit=""/>
+      <Size ean="8718604877202" width="35" length="30" fit=""/>
+      <Size ean="8718604842187" width="35" length="32" fit=""/>
+      <Size ean="8718604842583" width="35" length="34" fit=""/>
+      <Size ean="8718604842194" width="35" length="36" fit=""/>
+      <Size ean="8718604877219" width="36" length="28" fit=""/>
+      <Size ean="8718604834212" width="36" length="30" fit=""/>
+      <Size ean="8718604842590" width="36" length="32" fit=""/>
+      <Size ean="8718604877226" width="36" length="34" fit=""/>
+      <Size ean="8718604842606" width="36" length="36" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="NL" type="RRP" value="109.95" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="COJ" desc="Col jeans"/>
+    <Style code="D00847" desc="Lynn Custom Mid Skinny COJ Wmn"/>
+    <Fabric code="7315" desc="Slander Superstretch Od"/>
+    <Color code="5847" desc="Merlot/Black"/>
+    <Gender code="1" desc="Women"/>
+    <CoO code="VNM"/>
+    <Closure desc="Zip &amp; button closure"/>
+    <Fit code="SKN" desc="Skinny"/>
+    <CommercialDescription desc="Lynn Custom Mid Skinny COJ Wmn"/>
+    <CareLabels list="1-10-23-32-12-15-54-76"/>
+    <Volume liters="0.001"/>
+    <Weight gram="750"/>
+    <Compositions>
+      <Composition code="PES" desc="Polyester" percentage="28"/>
+      <Composition code="EA" desc="Elastane" percentage="2"/>
+      <Composition code="CO" desc="Cotton" percentage="35"/>
+      <Composition code="CLT" desc="Lyocell (Tencel®)" percentage="35"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599481637" width="22" length="26" fit=""/>
+      <Size ean="8718599481644" width="22" length="28" fit=""/>
+      <Size ean="8718599481651" width="22" length="30" fit=""/>
+      <Size ean="8718599481668" width="22" length="32" fit=""/>
+      <Size ean="8718599481675" width="23" length="26" fit=""/>
+      <Size ean="8718599481682" width="23" length="28" fit=""/>
+      <Size ean="8718599481699" width="23" length="30" fit=""/>
+      <Size ean="8718599481705" width="23" length="32" fit=""/>
+      <Size ean="8718599481712" width="23" length="34" fit=""/>
+      <Size ean="8718599481729" width="23" length="36" fit=""/>
+      <Size ean="8718599481736" width="24" length="26" fit=""/>
+      <Size ean="8718599481743" width="24" length="28" fit=""/>
+      <Size ean="8718599481750" width="24" length="30" fit=""/>
+      <Size ean="8718599481767" width="24" length="32" fit=""/>
+      <Size ean="8718599481774" width="24" length="34" fit=""/>
+      <Size ean="8718599481781" width="24" length="36" fit=""/>
+      <Size ean="8718599481798" width="25" length="26" fit=""/>
+      <Size ean="8718599481804" width="25" length="28" fit=""/>
+      <Size ean="8718599481811" width="25" length="30" fit=""/>
+      <Size ean="8718599481828" width="25" length="32" fit=""/>
+      <Size ean="8718599481835" width="25" length="34" fit=""/>
+      <Size ean="8718599481842" width="25" length="36" fit=""/>
+      <Size ean="8718599481859" width="26" length="26" fit=""/>
+      <Size ean="8718599481866" width="26" length="28" fit=""/>
+      <Size ean="8718599481873" width="26" length="30" fit=""/>
+      <Size ean="8718599481880" width="26" length="32" fit=""/>
+      <Size ean="8718599481897" width="26" length="34" fit=""/>
+      <Size ean="8718599481903" width="26" length="36" fit=""/>
+      <Size ean="8718599481910" width="27" length="26" fit=""/>
+      <Size ean="8718599481927" width="27" length="28" fit=""/>
+      <Size ean="8718599481934" width="27" length="30" fit=""/>
+      <Size ean="8718599481941" width="27" length="32" fit=""/>
+      <Size ean="8718599481958" width="27" length="34" fit=""/>
+      <Size ean="8718599481965" width="27" length="36" fit=""/>
+      <Size ean="8718599481972" width="28" length="26" fit=""/>
+      <Size ean="8718599481989" width="28" length="28" fit=""/>
+      <Size ean="8718599481996" width="28" length="30" fit=""/>
+      <Size ean="8718599482009" width="28" length="32" fit=""/>
+      <Size ean="8718599482016" width="28" length="34" fit=""/>
+      <Size ean="8718599482023" width="28" length="36" fit=""/>
+      <Size ean="8718599482030" width="29" length="26" fit=""/>
+      <Size ean="8718599482047" width="29" length="28" fit=""/>
+      <Size ean="8718599482054" width="29" length="30" fit=""/>
+      <Size ean="8718599482061" width="29" length="32" fit=""/>
+      <Size ean="8718599482078" width="29" length="34" fit=""/>
+      <Size ean="8718599482085" width="29" length="36" fit=""/>
+      <Size ean="8718599482092" width="30" length="26" fit=""/>
+      <Size ean="8718599482108" width="30" length="28" fit=""/>
+      <Size ean="8718599482115" width="30" length="30" fit=""/>
+      <Size ean="8718599482122" width="30" length="32" fit=""/>
+      <Size ean="8718599482139" width="30" length="34" fit=""/>
+      <Size ean="8718599482146" width="30" length="36" fit=""/>
+      <Size ean="8718599482153" width="31" length="26" fit=""/>
+      <Size ean="8718599482160" width="31" length="28" fit=""/>
+      <Size ean="8718599482177" width="31" length="30" fit=""/>
+      <Size ean="8718599482184" width="31" length="32" fit=""/>
+      <Size ean="8718599482191" width="31" length="34" fit=""/>
+      <Size ean="8718599482207" width="31" length="36" fit=""/>
+      <Size ean="8718599482214" width="32" length="26" fit=""/>
+      <Size ean="8718599482221" width="32" length="28" fit=""/>
+      <Size ean="8718599482238" width="32" length="30" fit=""/>
+      <Size ean="8718599482245" width="32" length="32" fit=""/>
+      <Size ean="8718599482252" width="32" length="34" fit=""/>
+      <Size ean="8718599482269" width="32" length="36" fit=""/>
+      <Size ean="8718599482276" width="33" length="26" fit=""/>
+      <Size ean="8718599482283" width="33" length="28" fit=""/>
+      <Size ean="8718599482290" width="33" length="30" fit=""/>
+      <Size ean="8718599482306" width="33" length="32" fit=""/>
+      <Size ean="8718599482313" width="33" length="34" fit=""/>
+      <Size ean="8718599482320" width="33" length="36" fit=""/>
+      <Size ean="8718599482337" width="34" length="26" fit=""/>
+      <Size ean="8718599482344" width="34" length="28" fit=""/>
+      <Size ean="8718599482351" width="34" length="30" fit=""/>
+      <Size ean="8718599482368" width="34" length="32" fit=""/>
+      <Size ean="8718599482375" width="34" length="34" fit=""/>
+      <Size ean="8718599482382" width="34" length="36" fit=""/>
+      <Size ean="8718599482399" width="35" length="28" fit=""/>
+      <Size ean="8718599482405" width="35" length="30" fit=""/>
+      <Size ean="8718599482412" width="35" length="32" fit=""/>
+      <Size ean="8718599482429" width="35" length="34" fit=""/>
+      <Size ean="8718599482436" width="35" length="36" fit=""/>
+      <Size ean="8718599482443" width="36" length="28" fit=""/>
+      <Size ean="8718599482450" width="36" length="30" fit=""/>
+      <Size ean="8718599482467" width="36" length="32" fit=""/>
+      <Size ean="8718599482474" width="36" length="34" fit=""/>
+      <Size ean="8718599482481" width="36" length="36" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="139.95" currency="EUR"/>
+      <Price country="NL" type="RRP" value="139.95" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="COJ" desc="Col jeans"/>
+    <Style code="D00847" desc="Lynn Custom Mid Skinny COJ Wmn"/>
+    <Fabric code="7315" desc="Slander Superstretch Od"/>
+    <Color code="6235" desc="crieff/black"/>
+    <Gender code="1" desc="Women"/>
+    <CoO code="VNM"/>
+    <Closure desc="Zip &amp; button closure"/>
+    <Fit code="SKN" desc="Skinny"/>
+    <CommercialDescription desc="Lynn Custom Mid Skinny COJ Wmn"/>
+    <CareLabels list="1-10-23-32-12-15-54-76"/>
+    <Volume liters="0.001"/>
+    <Weight gram="750"/>
+    <Compositions>
+      <Composition code="PES" desc="Polyester" percentage="28"/>
+      <Composition code="EA" desc="Elastane" percentage="2"/>
+      <Composition code="CLT" desc="Lyocell (Tencel®)" percentage="35"/>
+      <Composition code="CO" desc="Cotton" percentage="35"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599480777" width="22" length="26" fit=""/>
+      <Size ean="8718599480784" width="22" length="28" fit=""/>
+      <Size ean="8718599480791" width="22" length="30" fit=""/>
+      <Size ean="8718599480807" width="22" length="32" fit=""/>
+      <Size ean="8718599480814" width="23" length="26" fit=""/>
+      <Size ean="8718599480821" width="23" length="28" fit=""/>
+      <Size ean="8718599480838" width="23" length="30" fit=""/>
+      <Size ean="8718599480845" width="23" length="32" fit=""/>
+      <Size ean="8718599480852" width="23" length="34" fit=""/>
+      <Size ean="8718599480869" width="23" length="36" fit=""/>
+      <Size ean="8718599480876" width="24" length="26" fit=""/>
+      <Size ean="8718599480883" width="24" length="28" fit=""/>
+      <Size ean="8718599480890" width="24" length="30" fit=""/>
+      <Size ean="8718599480906" width="24" length="32" fit=""/>
+      <Size ean="8718599480913" width="24" length="34" fit=""/>
+      <Size ean="8718599480920" width="24" length="36" fit=""/>
+      <Size ean="8718599480937" width="25" length="26" fit=""/>
+      <Size ean="8718599480944" width="25" length="28" fit=""/>
+      <Size ean="8718599480951" width="25" length="30" fit=""/>
+      <Size ean="8718599480968" width="25" length="32" fit=""/>
+      <Size ean="8718599480975" width="25" length="34" fit=""/>
+      <Size ean="8718599480982" width="25" length="36" fit=""/>
+      <Size ean="8718599480999" width="26" length="26" fit=""/>
+      <Size ean="8718599481002" width="26" length="28" fit=""/>
+      <Size ean="8718599481019" width="26" length="30" fit=""/>
+      <Size ean="8718599481026" width="26" length="32" fit=""/>
+      <Size ean="8718599481033" width="26" length="34" fit=""/>
+      <Size ean="8718599481040" width="26" length="36" fit=""/>
+      <Size ean="8718599481057" width="27" length="26" fit=""/>
+      <Size ean="8718599481064" width="27" length="28" fit=""/>
+      <Size ean="8718599481071" width="27" length="30" fit=""/>
+      <Size ean="8718599481088" width="27" length="32" fit=""/>
+      <Size ean="8718599481095" width="27" length="34" fit=""/>
+      <Size ean="8718599481101" width="27" length="36" fit=""/>
+      <Size ean="8718599481118" width="28" length="26" fit=""/>
+      <Size ean="8718599481125" width="28" length="28" fit=""/>
+      <Size ean="8718599481132" width="28" length="30" fit=""/>
+      <Size ean="8718599481149" width="28" length="32" fit=""/>
+      <Size ean="8718599481156" width="28" length="34" fit=""/>
+      <Size ean="8718599481163" width="28" length="36" fit=""/>
+      <Size ean="8718599481170" width="29" length="26" fit=""/>
+      <Size ean="8718599481187" width="29" length="28" fit=""/>
+      <Size ean="8718599481194" width="29" length="30" fit=""/>
+      <Size ean="8718599481200" width="29" length="32" fit=""/>
+      <Size ean="8718599481217" width="29" length="34" fit=""/>
+      <Size ean="8718599481224" width="29" length="36" fit=""/>
+      <Size ean="8718599481231" width="30" length="26" fit=""/>
+      <Size ean="8718599481248" width="30" length="28" fit=""/>
+      <Size ean="8718599481255" width="30" length="30" fit=""/>
+      <Size ean="8718599481262" width="30" length="32" fit=""/>
+      <Size ean="8718599481279" width="30" length="34" fit=""/>
+      <Size ean="8718599481286" width="30" length="36" fit=""/>
+      <Size ean="8718599481293" width="31" length="26" fit=""/>
+      <Size ean="8718599481309" width="31" length="28" fit=""/>
+      <Size ean="8718599481316" width="31" length="30" fit=""/>
+      <Size ean="8718599481323" width="31" length="32" fit=""/>
+      <Size ean="8718599481330" width="31" length="34" fit=""/>
+      <Size ean="8718599481347" width="31" length="36" fit=""/>
+      <Size ean="8718599481354" width="32" length="26" fit=""/>
+      <Size ean="8718599481361" width="32" length="28" fit=""/>
+      <Size ean="8718599481378" width="32" length="30" fit=""/>
+      <Size ean="8718599481385" width="32" length="32" fit=""/>
+      <Size ean="8718599481392" width="32" length="34" fit=""/>
+      <Size ean="8718599481408" width="32" length="36" fit=""/>
+      <Size ean="8718599481415" width="33" length="26" fit=""/>
+      <Size ean="8718599481422" width="33" length="28" fit=""/>
+      <Size ean="8718599481439" width="33" length="30" fit=""/>
+      <Size ean="8718599481446" width="33" length="32" fit=""/>
+      <Size ean="8718599481453" width="33" length="34" fit=""/>
+      <Size ean="8718599481460" width="33" length="36" fit=""/>
+      <Size ean="8718599481477" width="34" length="26" fit=""/>
+      <Size ean="8718599481484" width="34" length="28" fit=""/>
+      <Size ean="8718599481491" width="34" length="30" fit=""/>
+      <Size ean="8718599481507" width="34" length="32" fit=""/>
+      <Size ean="8718599481514" width="34" length="34" fit=""/>
+      <Size ean="8718599481521" width="34" length="36" fit=""/>
+      <Size ean="8718599481538" width="35" length="28" fit=""/>
+      <Size ean="8718599481545" width="35" length="30" fit=""/>
+      <Size ean="8718599481552" width="35" length="32" fit=""/>
+      <Size ean="8718599481569" width="35" length="34" fit=""/>
+      <Size ean="8718599481576" width="35" length="36" fit=""/>
+      <Size ean="8718599481583" width="36" length="28" fit=""/>
+      <Size ean="8718599481590" width="36" length="30" fit=""/>
+      <Size ean="8718599481606" width="36" length="32" fit=""/>
+      <Size ean="8718599481613" width="36" length="34" fit=""/>
+      <Size ean="8718599481620" width="36" length="36" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="139.95" currency="EUR"/>
+      <Price country="NL" type="RRP" value="139.95" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="ACC" desc="Accessories"/>
+    <SubCategory code="BLT" desc="Belts"/>
+    <Style code="D00862" desc="Badyo belt"/>
+    <Fabric code="W022" desc="Luxa Cuba Leather"/>
+    <Color code="990" desc="black"/>
+    <Gender code="2" desc="Men"/>
+    <CoO code="MAR"/>
+    <CommercialDescription desc="Badyo belt"/>
+    <CareLabels list="7-10-23-34-36"/>
+    <Volume liters="0.422"/>
+    <Weight gram="185"/>
+    <Compositions>
+      <Composition code="LE" desc="Leather" percentage="100"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599484447" width="100" fit=""/>
+      <Size ean="8718599484454" width="105" fit=""/>
+      <Size ean="8718599484461" width="110" fit=""/>
+      <Size ean="8718599484478" width="115" fit=""/>
+      <Size ean="8718599484485" width="120" fit=""/>
+      <Size ean="8718599484492" width="65" fit=""/>
+      <Size ean="8718599484508" width="70" fit=""/>
+      <Size ean="8718599484515" width="75" fit=""/>
+      <Size ean="8718599484522" width="80" fit=""/>
+      <Size ean="8718599484539" width="85" fit=""/>
+      <Size ean="8718599484546" width="90" fit=""/>
+      <Size ean="8718599484553" width="95" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="59.95" currency="EUR"/>
+      <Price country="NL" type="RRP" value="59.95" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="SHT" desc="Shirts"/>
+    <Style code="D00878" desc="Type C straight long Zip shirt l"/>
+    <Fabric code="D015" desc="Lt Wt Portland Superstretch"/>
+    <Color code="082" desc="Rinsed"/>
+    <Gender code="2" desc="Men"/>
+    <CoO code="CHN"/>
+    <Collar desc="Shirt collar"/>
+    <SleeveLength code="LS" desc="Long sleeve"/>
+    <Fit code="STR" desc="Straight"/>
+    <CommercialDescription desc="Type C straight long Zip shirt l/s"/>
+    <CareLabels list="3-10-23-32-13-15-54-70-76"/>
+    <Volume liters="3.367"/>
+    <Weight gram="736"/>
+    <Compositions>
+      <Composition code="PES" desc="Polyester" percentage="27"/>
+      <Composition code="EA" desc="Elastane" percentage="2"/>
+      <Composition code="CO" desc="Cotton" percentage="71"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599489541" width="L" fit=""/>
+      <Size ean="8718599489558" width="M" fit=""/>
+      <Size ean="8718599489565" width="S" fit=""/>
+      <Size ean="8718599489572" width="XL" fit=""/>
+      <Size ean="8718599489589" width="XS" fit=""/>
+      <Size ean="8718599489596" width="XXL" fit=""/>
+      <Size ean="8718599489602" width="XXS" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="169.95" currency="EUR"/>
+      <Price country="NL" type="RRP" value="149.95" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="DRS" desc="Dresses"/>
+    <SubCategory code="BOD" desc="Bodycon"/>
+    <Style code="D00903" desc="Lynn Jet Slim Zip Dress 1"/>
+    <Fabric code="D020" desc="Tobin Superstretch"/>
+    <Color code="424" desc="Lt Aged"/>
+    <Gender code="1" desc="Women"/>
+    <CoO code="IND"/>
+    <Collar desc="Stand up collar"/>
+    <NeckLine desc="R-neck"/>
+    <SleeveLength code="SLS" desc="Sleeveless"/>
+    <Fit code="SLM" desc="Slim"/>
+    <CommercialDescription desc="Lynn Jet Slim Zip Dress 1"/>
+    <CareLabels list="1-10-12-23-32-15-54-76"/>
+    <Volume liters="2.388"/>
+    <Weight gram="509"/>
+    <Compositions>
+      <Composition code="EA" desc="Elastane" percentage="2"/>
+      <Composition code="CO" desc="Cotton" percentage="98"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599495825" width="L" fit=""/>
+      <Size ean="8718599495832" width="M" fit=""/>
+      <Size ean="8718599495849" width="S" fit=""/>
+      <Size ean="8718599495856" width="XL" fit=""/>
+      <Size ean="8718599495863" width="XS" fit=""/>
+      <Size ean="8718599495870" width="XXL" fit=""/>
+      <Size ean="8718599495887" width="XXS" fit=""/>
+      <Size ean="8718599495894" width="XXXS" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="169.95" currency="EUR"/>
+      <Price country="NL" type="RRP" value="169.95" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="TEE" desc="T-Shirts"/>
+    <Style code="D00914" desc="Starkon r t s"/>
+    <Fabric code="5895" desc="Lyon Jersey Inside Od"/>
+    <Color code="5617" desc="Merlot"/>
+    <Gender code="2" desc="Men"/>
+    <CoO code="BGD"/>
+    <Closure desc="Drawstring closure"/>
+    <NeckLine desc="R-neck"/>
+    <SleeveLength code="SS" desc="Short sleeve"/>
+    <Fit code="LOO" desc="Loose"/>
+    <CommercialDescription desc="Starkon r t s/s"/>
+    <CareLabels list="1-10-23-24-12-36-50-53-70"/>
+    <Volume liters="0.871"/>
+    <Weight gram="161"/>
+    <Compositions>
+      <Composition code="CO" desc="Cotton" percentage="100"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718604844532" width="L" fit=""/>
+      <Size ean="8718604878070" width="M" fit=""/>
+      <Size ean="8718604878087" width="S" fit=""/>
+      <Size ean="8718604878094" width="XL" fit=""/>
+      <Size ean="8718604845812" width="XS" fit=""/>
+      <Size ean="8718604878100" width="XXL" fit=""/>
+      <Size ean="8718604836957" width="XXS" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="45.00" currency="EUR"/>
+      <Price country="NL" type="RRP" value="45.00" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="TEE" desc="T-Shirts"/>
+    <Style code="D00914" desc="Starkon r t s"/>
+    <Fabric code="5895" desc="Lyon Jersey Inside Od"/>
+    <Color code="5618" desc="Dk Gold"/>
+    <Gender code="2" desc="Men"/>
+    <CoO code="BGD"/>
+    <NeckLine desc="R-neck"/>
+    <SleeveLength code="SS" desc="Short sleeve"/>
+    <Fit code="LOO" desc="Loose"/>
+    <CommercialDescription desc="Starkon r t s/s"/>
+    <CareLabels list="1-10-23-24-12-36-50-53-70"/>
+    <Volume liters="0.907"/>
+    <Weight gram="164"/>
+    <Compositions>
+      <Composition code="CO" desc="Cotton" percentage="100"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718604836704" width="L" fit=""/>
+      <Size ean="8718604836711" width="M" fit=""/>
+      <Size ean="8718604878056" width="S" fit=""/>
+      <Size ean="8718604844525" width="XL" fit=""/>
+      <Size ean="8718604845775" width="XS" fit=""/>
+      <Size ean="8718604836902" width="XXL" fit=""/>
+      <Size ean="8718604845782" width="XXS" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="45.00" currency="EUR"/>
+      <Price country="NL" type="RRP" value="45.00" currency="EUR"/>
+    </Prices>
+  </Product>
+  <Product>
+    <Category code="TEE" desc="T-Shirts"/>
+    <Style code="D00914" desc="Starkon r t s"/>
+    <Fabric code="5895" desc="Lyon Jersey Inside Od"/>
+    <Color code="5619" desc="Rustic Green"/>
+    <Gender code="2" desc="Men"/>
+    <CoO code="BGD"/>
+    <NeckLine desc="R-neck"/>
+    <SleeveLength code="SS" desc="Short sleeve"/>
+    <Fit code="LOO" desc="Loose"/>
+    <CommercialDescription desc="Starkon r t s/s"/>
+    <CareLabels list="1-10-23-24-12-36-50-53-70"/>
+    <Volume liters="0.001"/>
+    <Weight gram="250"/>
+    <Compositions>
+      <Composition code="CO" desc="Cotton" percentage="100"/>
+    </Compositions>
+    <Sizes>
+      <Size ean="8718599496044" width="L" fit=""/>
+      <Size ean="8718599496051" width="M" fit=""/>
+      <Size ean="8718599496068" width="S" fit=""/>
+      <Size ean="8718599496075" width="XL" fit=""/>
+      <Size ean="8718599496082" width="XS" fit=""/>
+      <Size ean="8718599496099" width="XXL" fit=""/>
+      <Size ean="8718599496105" width="XXS" fit=""/>
+    </Sizes>
+    <Prices>
+      <Price country="DE" type="RRP" value="45.00" currency="EUR"/>
+      <Price country="NL" type="RRP" value="45.00" currency="EUR"/>
+    </Prices>
+  </Product>
+</Products>

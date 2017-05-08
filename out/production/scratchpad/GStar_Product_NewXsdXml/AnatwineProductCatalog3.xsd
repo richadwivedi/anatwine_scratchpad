@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2008 (http://www.altova.com) by G-Star International (G-Star International) -->
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<xsd:element name="Products">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="retailerID" nillable="true" type="xsd:string" minOccurs="0"/>
+				<xsd:element name="currentSeason" nillable="true" type="xsd:string"/>
+				<xsd:element name="Product" nillable="true" type="product" maxOccurs="unbounded"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:complexType name="priceCatalog">
+		<xsd:sequence>
+			<xsd:element name="Products" nillable="true">
+				<xsd:complexType>
+					<xsd:sequence>
+						<xsd:element name="retailerID" nillable="true" type="xsd:string" minOccurs="0"/>
+						<xsd:element name="currentSeason" nillable="true" type="xsd:string"/>
+						<xsd:element name="Product" nillable="true" type="product" maxOccurs="unbounded"/>
+					</xsd:sequence>
+				</xsd:complexType>
+			</xsd:element>
+		</xsd:sequence>
+		<xsd:attribute name="version" type="xsd:string" use="required"/>
+		<xsd:attribute name="encoding" type="xsd:string" use="required"/>
+		<xsd:attribute name="standalone" type="xsd:string" use="required"/>
+	</xsd:complexType>
+	<xsd:complexType name="product">
+		<xsd:sequence>
+			<xsd:element name="Category" nillable="true" minOccurs="0">
+				<xsd:complexType>
+					<xsd:attribute name="code" type="xsd:string" use="required"/>
+					<xsd:attribute name="desc" type="xsd:string" use="required"/>
+				</xsd:complexType>
+			</xsd:element>
+			<xsd:element name="SubCategory" nillable="true" minOccurs="0">
+				<xsd:complexType>
+					<xsd:attribute name="code" type="xsd:string" use="required"/>
+					<xsd:attribute name="desc" type="xsd:string" use="required"/>
+				</xsd:complexType>
+			</xsd:element>
+			<xsd:element name="Style" nillable="true">
+				<xsd:complexType>
+					<xsd:attribute name="code" type="xsd:string" use="required"/>
+					<xsd:attribute name="desc" type="xsd:string" use="required"/>
+				</xsd:complexType>
+			</xsd:element>
+			<xsd:element name="Fabric" nillable="true">
+				<xsd:complexType>
+					<xsd:attribute name="code" type="xsd:string" use="required"/>
+					<xsd:attribute name="desc" type="xsd:string" use="required"/>
+				</xsd:complexType>
+			</xsd:element>
+			<xsd:element name="Color" nillable="true">
+				<xsd:complexType>
+					<xsd:attribute name="code" type="xsd:string" use="required"/>
+					<xsd:attribute name="desc" type="xsd:string" use="required"/>
+					<xsd:attribute name="nrf" type="xsd:string" use="required"/>
+					<xsd:attribute name="group" type="xsd:string"/>
+				</xsd:complexType>
+			</xsd:element>
+			<xsd:element name="Gender" nillable="true" minOccurs="0">
+				<xsd:complexType>
+					<xsd:attribute name="code" type="xsd:string" use="required"/>
+					<xsd:attribute name="desc" type="xsd:string" use="required"/>
+				</xsd:complexType>
+			</xsd:element>
+			<xsd:element name="CoO" nillable="true" minOccurs="0">
+				<xsd:complexType>
+					<xsd:attribute name="code" type="xsd:string" use="required"/>
+				</xsd:complexType>
+			</xsd:element>
+			<xsd:element name="Closure" nillable="true" minOccurs="0">
+				<xsd:complexType>
+					<xsd:attribute name="desc" type="xsd:string" use="required"/>
+				</xsd:complexType>
+			</xsd:element>
+			<xsd:element name="Collar" nillable="true" minOccurs="0">
+				<xsd:complexType>
+					<xsd:attribute name="desc" type="xsd:string" use="required"/>
+				</xsd:complexType>
+			</xsd:element>
+			<xsd:element name="NeckLine" nillable="true" minOccurs="0">
+				<xsd:complexType>
+					<xsd:attribute name="desc" type="xsd:string" use="required"/>
+				</xsd:complexType>
+			</xsd:element>
+			<xsd:element name="SleeveLength" nillable="true" minOccurs="0">
+				<xsd:complexType>
+					<xsd:attribute name="code" type="xsd:string" use="required"/>
+					<xsd:attribute name="desc" type="xsd:string" use="required"/>
+				</xsd:complexType>
+			</xsd:element>
+			<xsd:element name="Fit" nillable="true" minOccurs="0">
+				<xsd:complexType>
+					<xsd:attribute name="code" type="xsd:string" use="required"/>
+					<xsd:attribute name="desc" type="xsd:string" use="required"/>
+				</xsd:complexType>
+			</xsd:element>
+			<xsd:element name="HeelHeight" nillable="true" minOccurs="0">
+				<xsd:complexType>
+					<xsd:attribute name="desc" type="xsd:string" use="required"/>
+				</xsd:complexType>
+			</xsd:element>
+			<xsd:element name="Padded" nillable="true" minOccurs="0">
+				<xsd:complexType>
+					<xsd:attribute name="desc" type="xsd:string" use="required"/>
+				</xsd:complexType>
+			</xsd:element>
+			<xsd:element name="CommercialDescription" nillable="true" minOccurs="0">
+				<xsd:complexType>
+					<xsd:attribute name="desc" type="xsd:string" use="required"/>
+				</xsd:complexType>
+			</xsd:element>
+			<xsd:element name="CareLabels" nillable="true" minOccurs="0">
+				<xsd:complexType>
+					<xsd:attribute name="list" type="xsd:string" use="required"/>
+				</xsd:complexType>
+			</xsd:element>
+			<xsd:element name="EcommerceUse" nillable="true" minOccurs="0">
+				<xsd:complexType>
+					<xsd:attribute name="code" type="xsd:string" use="required"/>
+					<xsd:attribute name="desc" type="xsd:string" use="required"/>
+				</xsd:complexType>
+			</xsd:element>
+			<xsd:element name="Volume" nillable="true" minOccurs="0">
+				<xsd:complexType>
+					<xsd:attribute name="liters" type="xsd:string" use="required"/>
+				</xsd:complexType>
+			</xsd:element>
+			<xsd:element name="Weight" nillable="true" minOccurs="0">
+				<xsd:complexType>
+					<xsd:attribute name="gram" type="xsd:string" use="required"/>
+				</xsd:complexType>
+			</xsd:element>
+			<xsd:element name="Compositions" nillable="true" minOccurs="0">
+				<xsd:complexType>
+					<xsd:sequence>
+						<xsd:element name="Composition" nillable="true" type="composition" maxOccurs="unbounded"/>
+					</xsd:sequence>
+				</xsd:complexType>
+			</xsd:element>
+			<xsd:element name="Sizes" nillable="true">
+				<xsd:complexType>
+					<xsd:sequence>
+						<xsd:element name="Size" nillable="true" type="size" maxOccurs="unbounded"/>
+					</xsd:sequence>
+				</xsd:complexType>
+			</xsd:element>
+			<xsd:element name="Prices" nillable="true" minOccurs="0">
+				<xsd:complexType>
+					<xsd:sequence>
+						<xsd:element name="Price" nillable="true" type="price" maxOccurs="unbounded"/>
+					</xsd:sequence>
+				</xsd:complexType>
+			</xsd:element>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="composition">
+		<xsd:attribute name="code" type="xsd:string" use="required"/>
+		<xsd:attribute name="desc" type="xsd:string" use="required"/>
+		<xsd:attribute name="percentage" type="xsd:string" use="required"/>
+	</xsd:complexType>
+	<xsd:complexType name="size">
+		<xsd:attribute name="ean" type="xsd:string" use="required"/>
+		<xsd:attribute name="width" type="xsd:string" use="required"/>
+		<xsd:attribute name="length" type="xsd:string"/>
+		<xsd:attribute name="fit" type="xsd:string"/>
+		<xsd:attribute name="backfill" type="xsd:string"/>
+	</xsd:complexType>
+	<xsd:complexType name="price">
+		<xsd:attribute name="country" type="xsd:string" use="required"/>
+		<xsd:attribute name="type" type="xsd:string" use="required"/>
+		<xsd:attribute name="value" type="xsd:string" use="required"/>
+		<xsd:attribute name="currency" type="xsd:string" use="required"/>
+	</xsd:complexType>
+</xsd:schema>

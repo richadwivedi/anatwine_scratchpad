@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stockData xmlns="http://api.anatwine.com/schemas/brand/v3/stock">
+    <stocks>
+        <stock>
+            <brandArticleSku>11404909</brandArticleSku>
+            <ean>44444444444444</ean>
+            <quantity>101</quantity>
+        </stock>
+        <stock>
+            <brandArticleSku>11404914</brandArticleSku>
+            <quantity>22</quantity>
+        </stock>
+    </stocks>
+</stockData>
