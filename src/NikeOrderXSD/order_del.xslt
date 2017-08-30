@@ -23,7 +23,7 @@
         </xsl:copy>
     </xsl:template>
 
-    <!-- Transform orderLine element with adding deliveryServiceCode element for the specified retailerChannelCode -->
+    <!-- Transform orderLine element by adding deliveryServiceCode element for the specified retailerChannelCode -->
     <xsl:template match="articleDescription">
         <xsl:copy>
             <xsl:apply-templates/>
