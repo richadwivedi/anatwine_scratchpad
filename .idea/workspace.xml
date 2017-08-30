@@ -2,15 +2,14 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/src/com/anatwine/brand/util/DemoTest.java" line="3" mnemonic="0" />
+    <bookmark url="file://$PROJECT_DIR$/src/NikeOrderXSD/order_del.xslt" line="3" mnemonic="3" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25e98a1d-a4ba-4c33-b306-4f11cb9204e3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_anatwine_commons_test_1_0_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NikeOrderXSD/nike_order_NoDeliveryCode.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NikeOrderXSD/order_del.xslt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/scratchpad/NikeXSLT/NikePIXFeed.xml" afterPath="$PROJECT_DIR$/out/production/scratchpad/NikeXSLT/NikePIXFeed.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/scratchpad/NikeXSLT/linesheet.xslt" afterPath="$PROJECT_DIR$/out/production/scratchpad/NikeXSLT/linesheet.xslt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/NikeXSLT/NikePIXFeed.xml" afterPath="$PROJECT_DIR$/src/NikeXSLT/NikePIXFeed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/NikeXSLT/linesheet.xslt" afterPath="$PROJECT_DIR$/src/NikeXSLT/linesheet.xslt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/../shopping-cart/target/" />
@@ -33,45 +32,22 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="linesheet.xslt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/NikeXSLT/linesheet.xslt">
+      <file leaf-file-name="order_del.xslt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NikeOrderXSD/order_del.xslt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="17" />
+            <state relative-caret-position="465">
+              <caret line="31" column="32" lean-forward="false" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../anatwine-CodeChallenges/shopping-cart/pom.xml">
+      <file leaf-file-name="order.xsd" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NikeOrderXSD/order.xsd">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="244">
+              <caret line="82" column="43" lean-forward="false" selection-start-line="82" selection-start-column="43" selection-end-line="82" selection-end-column="43" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../anatwine-CodeChallenges/challenge-master/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="470">
-              <caret line="112" column="21" lean-forward="false" selection-start-line="112" selection-start-column="21" selection-end-line="112" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NikePIXFeed.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/NikeXSLT/NikePIXFeed.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16125">
-              <caret line="3251" column="35" lean-forward="false" selection-start-line="3251" selection-start-column="35" selection-end-line="3251" selection-end-column="35" />
-              <folding>
-                <element signature="n#PRODUCT#0;n#products#0;n#!!top" expanded="false" />
-                <element signature="n#PRODUCT#1;n#products#0;n#!!top" expanded="false" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -79,8 +55,8 @@
       <file leaf-file-name="order.xslt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/NikeOrderXSD/order.xslt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="74" lean-forward="false" selection-start-line="15" selection-start-column="74" selection-end-line="15" selection-end-column="74" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -89,8 +65,18 @@
       <file leaf-file-name="pricefeed.xslt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/NikeXSLT/pricefeed.xslt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="44" column="19" lean-forward="false" selection-start-line="36" selection-start-column="4" selection-end-line="44" selection-end-column="19" />
+            <state relative-caret-position="435">
+              <caret line="41" column="69" lean-forward="false" selection-start-line="41" selection-start-column="45" selection-end-line="41" selection-end-column="69" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pricefeed_original.xslt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NikeXSLT/pricefeed_original.xslt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="690">
+              <caret line="46" column="42" lean-forward="false" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -99,50 +85,53 @@
       <file leaf-file-name="nike_order.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/NikeOrderXSD/nike_order.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="64" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="64" />
+            <state relative-caret-position="285">
+              <caret line="19" column="36" lean-forward="false" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nike_order_UAT_LargeRetailerArticleSku1.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/NikeOrderXSD/nike_order_UAT_LargeRetailerArticleSku1.xml">
+      <file leaf-file-name="nike_order_NoDeliveryCode.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NikeOrderXSD/nike_order_NoDeliveryCode.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="81" selection-end-column="16" />
+            <state relative-caret-position="270">
+              <caret line="18" column="44" lean-forward="false" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nike_order_UAT_LargeRetailerArticleSku1_multiple.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/NikeOrderXSD/nike_order_UAT_LargeRetailerArticleSku1_multiple.xml">
+      <file leaf-file-name="nike_order_WithDeliveryCodeAdded.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/NikeOrderXSD/nike_order_WithDeliveryCodeAdded.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="795" column="0" lean-forward="false" selection-start-line="795" selection-start-column="0" selection-end-line="795" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nike_order_original.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NikeOrderXSD/nike_order_original.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NikePIXFeed.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NikeXSLT/NikePIXFeed.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="17" />
               <folding>
-                <element signature="n#order#0;n#orders#0;n#orderFile#0;n#!!top" expanded="false" />
-                <element signature="n#order#1;n#orders#0;n#orderFile#0;n#!!top" expanded="false" />
-                <element signature="n#order#2;n#orders#0;n#orderFile#0;n#!!top" expanded="false" />
-                <element signature="n#order#3;n#orders#0;n#orderFile#0;n#!!top" expanded="false" />
-                <element signature="n#order#4;n#orders#0;n#orderFile#0;n#!!top" expanded="false" />
-                <element signature="n#order#5;n#orders#0;n#orderFile#0;n#!!top" expanded="false" />
-                <element signature="n#order#6;n#orders#0;n#orderFile#0;n#!!top" expanded="false" />
-                <element signature="n#order#7;n#orders#0;n#orderFile#0;n#!!top" expanded="false" />
-                <element signature="n#order#8;n#orders#0;n#orderFile#0;n#!!top" expanded="false" />
-                <element signature="n#order#9;n#orders#0;n#orderFile#0;n#!!top" expanded="false" />
+                <element signature="n#styledetail#0;n#PRODUCT#0;n#products#0;n#!!top" expanded="false" />
+                <element signature="n#catalogs#0;n#PRODUCT#0;n#products#0;n#!!top" expanded="false" />
+                <element signature="n#prices#0;n#PRODUCT#0;n#products#0;n#!!top" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="nike_order_UAT_LargeRetailerArticleSku1_multiple_RESULT.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/NikeOrderXSD/nike_order_UAT_LargeRetailerArticleSku1_multiple_RESULT.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="11925">
-              <caret line="795" column="0" lean-forward="false" selection-start-line="795" selection-start-column="0" selection-end-line="795" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -179,7 +168,17 @@
       <find>retailerArticleSku</find>
       <find>partnu</find>
       <find>&lt;partnu</find>
+      <find>deliveryServiceCode</find>
+      <find>p</find>
+      <find>partM</find>
+      <find>part</find>
+      <find>partNumb</find>
+      <find>partNumber</find>
+      <find>retailerArticlesku</find>
     </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/NikeXSLT</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -192,9 +191,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/order/OrderFile.java" />
-        <option value="$PROJECT_DIR$/src/my/example/package-info.java" />
-        <option value="$PROJECT_DIR$/src/com/anatwine/brand/model/order/ObjectFactory.java" />
         <option value="$PROJECT_DIR$/src/com/anatwine/brand/model/util/XmlUtil.java" />
         <option value="$PROJECT_DIR$/test/java/DemoTest.java" />
         <option value="$PROJECT_DIR$/src/com/anatwine/brand/model/order/Order.java" />
@@ -236,13 +232,16 @@
         <option value="$PROJECT_DIR$/src/NikeXSLT/SingleProduct_example_NoPartnerProgram.xml" />
         <option value="$PROJECT_DIR$/src/NikeOrderXSD/nike-order_largeRetailerArticleSku.xml" />
         <option value="$PROJECT_DIR$/src/NikeOrderXSD/nike_order_UAT_LargeRetailerArticleSku2.xml" />
-        <option value="$PROJECT_DIR$/src/NikeOrderXSD/order.xslt" />
         <option value="$PROJECT_DIR$/src/NikeOrderXSD/nike_order_UAT_LargeRetailerArticleSku1.xml" />
         <option value="$PROJECT_DIR$/src/NikeOrderXSD/nike_order_UAT_LargeRetailerArticleSku1_multiplecopy.xml" />
         <option value="$PROJECT_DIR$/src/NikeOrderXSD/nike_order_UAT_LargeRetailerArticleSku1_multiple_RESULT.xml" />
         <option value="$PROJECT_DIR$/src/NikeXSLT/NikePIXFeed.xml" />
         <option value="$PROJECT_DIR$/src/NikeXSLT/linesheet.xslt" />
         <option value="$PROJECT_DIR$/../anatwine-CodeChallenges/challenge-master/pom.xml" />
+        <option value="$PROJECT_DIR$/src/NikeOrderXSD/nike_order.xml" />
+        <option value="$PROJECT_DIR$/src/NikeOrderXSD/order.xslt" />
+        <option value="$PROJECT_DIR$/src/NikeOrderXSD/nike_order_deliveryCode.xml" />
+        <option value="$PROJECT_DIR$/src/NikeOrderXSD/order_del.xslt" />
       </list>
     </option>
   </component>
@@ -256,10 +255,10 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1444" />
-    <option name="y" value="-379" />
-    <option name="width" value="2531" />
-    <option name="height" value="1202" />
+    <option name="x" value="1441" />
+    <option name="y" value="-382" />
+    <option name="width" value="2522" />
+    <option name="height" value="1329" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -279,6 +278,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -307,15 +307,64 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="challenge-master" />
+              <option name="myItemId" value="anatwine_scratchpad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="anatwine_scratchpad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="anatwine_scratchpad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="anatwine_scratchpad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="anatwine_scratchpad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NikeXSLT" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="anatwine_scratchpad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="anatwine_scratchpad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NikeOrderXSD" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -356,7 +405,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="XSLT.LineSheet">
+  <component name="RunManager" selected="XSLT.Nike_Order_DeliveryServCode">
     <configuration default="false" name="DemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -989,7 +1038,25 @@
       <JdkChoice value="FROM_MODULE" />
       <method />
     </configuration>
-    <list size="12">
+    <configuration default="false" name="Nike_Order_DeliveryServCode" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" value="" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" value="" />
+      <option name="myWorkingDirectory" value="" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <XsltFile url="file://$PROJECT_DIR$/src/NikeOrderXSD/order_del.xslt" />
+      <XmlFile url="file://$PROJECT_DIR$/src/NikeOrderXSD/nike_order_NoDeliveryCode.xml" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="false" />
+      <FileType name="XML" />
+      <JdkChoice value="FROM_MODULE" />
+      <method />
+    </configuration>
+    <list size="13">
       <item index="0" class="java.lang.String" itemvalue="Application.ShoppingCart_Darshan" />
       <item index="1" class="java.lang.String" itemvalue="XSLT.PriceExtraction_Test" />
       <item index="2" class="java.lang.String" itemvalue="XSLT.Stock_EANRemove_XSLT" />
@@ -997,11 +1064,12 @@
       <item index="4" class="java.lang.String" itemvalue="XSLT.PriceExtraction_original" />
       <item index="5" class="java.lang.String" itemvalue="XSLT.Order_XSLT" />
       <item index="6" class="java.lang.String" itemvalue="XSLT.LineSheet" />
-      <item index="7" class="java.lang.String" itemvalue="Application.DemoTest" />
-      <item index="8" class="java.lang.String" itemvalue="Application.ShoppingCartApplication" />
-      <item index="9" class="java.lang.String" itemvalue="JUnit.All in shopping-cart" />
-      <item index="10" class="java.lang.String" itemvalue="JUnit.ShoppingCartApplicationTest.runApplication" />
-      <item index="11" class="java.lang.String" itemvalue="XSLT.linesheet.xslt" />
+      <item index="7" class="java.lang.String" itemvalue="XSLT.Nike_Order_DeliveryServCode" />
+      <item index="8" class="java.lang.String" itemvalue="Application.DemoTest" />
+      <item index="9" class="java.lang.String" itemvalue="Application.ShoppingCartApplication" />
+      <item index="10" class="java.lang.String" itemvalue="JUnit.All in shopping-cart" />
+      <item index="11" class="java.lang.String" itemvalue="JUnit.ShoppingCartApplicationTest.runApplication" />
+      <item index="12" class="java.lang.String" itemvalue="XSLT.linesheet.xslt" />
     </list>
     <recent_temporary>
       <list size="5">
@@ -1061,6 +1129,8 @@
       <workItem from="1494426156526" duration="1936000" />
       <workItem from="1494509474577" duration="522000" />
       <workItem from="1495033340540" duration="1167000" />
+      <workItem from="1504005426469" duration="6671000" />
+      <workItem from="1504078684931" duration="4661000" />
     </task>
     <task id="LOCAL-00001" summary="Saving..">
       <created>1486033278676</created>
@@ -1095,42 +1165,41 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105942000" />
+    <option name="totallyTimeSpent" value="117274000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1444" y="-379" width="2531" height="1202" extended-state="0" />
-    <editor active="true" />
+    <frame x="1441" y="-382" width="2522" height="1329" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3260606" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32896653" sideWeight="0.50572246" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991362" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33579335" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946298" sideWeight="0.49713877" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36829066" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38007382" sideWeight="0.49427754" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30222955" sideWeight="0.49427754" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21615106" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22056451" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3993994" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3993994" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="combo" />
       <window_info id="JSF" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3260606" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2637119" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
@@ -1201,62 +1270,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/NikeXSLT/black-listed-prods.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NikeOSNXSD/OSN1_broken.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NikeOSNXSD/1171045_OSN.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NikeXSLT/linesheet_test.xslt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="57" column="17" lean-forward="false" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NikeOSNXSD/1171030_OSN.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NikeOSNXSD/BrandOrderStatusNotifications.xsd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="68" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Adidas/commonTypes.xsd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="48" column="68" lean-forward="false" selection-start-line="48" selection-start-column="67" selection-end-line="48" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Adidas/Example XML - Awaiting Fulfilment.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="55" lean-forward="false" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Adidas/Example XML - multiple orders.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -1275,13 +1288,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NikeXSLT/pricefeed_original.xslt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1345,13 +1351,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GStar_Product_OldXsdXml/GSTAR_Products_20160219114928105455154.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1456,26 +1455,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/NikeOrderXSD/nike_no_frigging.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="76" column="36" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="190" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NikeOrderXSD/order.xsd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/NikeOSNXSD/1170985_OSN_OrderLine2.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="40" lean-forward="false" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1491,14 +1474,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NikeOrderXSD/nike_order.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="64" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="64" />
           <folding />
         </state>
       </provider>
@@ -1538,41 +1513,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/NikeOrderXSD/order.xslt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="74" lean-forward="false" selection-start-line="15" selection-start-column="74" selection-end-line="15" selection-end-column="74" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NikeXSLT/pricefeed.xslt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="44" column="19" lean-forward="false" selection-start-line="36" selection-start-column="4" selection-end-line="44" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NikeXSLT/NikePIXFeed.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16125">
-          <caret line="3251" column="35" lean-forward="false" selection-start-line="3251" selection-start-column="35" selection-end-line="3251" selection-end-column="35" />
-          <folding>
-            <element signature="n#PRODUCT#0;n#products#0;n#!!top" expanded="false" />
-            <element signature="n#PRODUCT#1;n#products#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NikeXSLT/linesheet.xslt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../anatwine-CodeChallenges/shopping-cart/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1585,6 +1525,143 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="470">
           <caret line="112" column="21" lean-forward="false" selection-start-line="112" selection-start-column="21" selection-end-line="112" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NikeOrderXSD/Oysho_Order.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NikeOSNXSD/OSN2_broken.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GStar_Product_OldXsdXml/GSTAR_Products_20160219114928105455154.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NikeOrderXSD/nike_no_frigging.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="43" lean-forward="false" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NikeXSLT/linesheet.xslt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NikeXSLT/linesheet_test.xslt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NikeXSLT/linesheet_old.xslt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="21" column="66" lean-forward="false" selection-start-line="21" selection-start-column="66" selection-end-line="21" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NikeXSLT/NikePIXFeed.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <element signature="n#styledetail#0;n#PRODUCT#0;n#products#0;n#!!top" expanded="false" />
+            <element signature="n#catalogs#0;n#PRODUCT#0;n#products#0;n#!!top" expanded="false" />
+            <element signature="n#prices#0;n#PRODUCT#0;n#products#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NikeXSLT/pricefeed_original.xslt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" column="42" lean-forward="false" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NikeXSLT/pricefeed.xslt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="41" column="69" lean-forward="false" selection-start-line="41" selection-start-column="45" selection-end-line="41" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NikeOrderXSD/order.xslt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NikeOrderXSD/nike_order.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="36" lean-forward="false" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NikeOrderXSD/order_del.xslt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="32" lean-forward="false" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NikeOrderXSD/nike_order_original.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NikeOrderXSD/nike_order_NoDeliveryCode.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="44" lean-forward="false" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NikeOrderXSD/order.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="82" column="43" lean-forward="false" selection-start-line="82" selection-start-column="43" selection-end-line="82" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NikeOrderXSD/nike_order_WithDeliveryCodeAdded.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
