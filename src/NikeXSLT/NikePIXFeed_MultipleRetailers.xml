@@ -370,8 +370,16 @@
                 <name>Zalando</name>
             </attribute>
             <attribute type="partnerprograms" language="en">
-                <code>Zalando</code>
-                <name>Zalando</name>
+                <code>zalando</code>
+                <name>zalandolowercase</name>
+            </attribute>
+            <attribute type="partnerprograms" language="en">
+                <code>NikeSucks</code>
+                <name>NikeReallySucks</name>
+            </attribute>
+            <attribute type="partnerprograms" language="en">
+                <code>NIKESUCKSINCAPS</code>
+                <name>NikeReallySuckInCapsToo</name>
             </attribute>
             <attribute type="digitalseason" language="en">
                 <code>HO15</code>
@@ -1524,9 +1532,13 @@
             </size>
         </sizes>
         <attributes>
-            <attribute type="partnerprogram" language="en">
-                <code>Zalando</code>
-                <name>Zalando</name>
+            <attribute type="partnerprograms" language="en">
+                <code>SURPERRY</code>
+                <name>SurPerry</name>
+            </attribute>
+            <attribute type="partnerprograms" language="en">
+                <code>surperry</code>
+                <name>SurPerryLowerCase</name>
             </attribute>
             <attribute type="digitalseason" language="en">
                 <code>HO15</code>
@@ -2555,7 +2567,7 @@
         </sizes>
         <attributes>
             <attribute type="partnerprogram" language="en">
-                <code>Zalando</code>
+                <code>zalando</code>
                 <name>Zalando</name>
             </attribute>
             <attribute type="digitalseason" language="en">
@@ -3620,6 +3632,10 @@
             </size>
         </sizes>
         <attributes>
+            <attribute type="partnerprograms" language="en">
+                <code>surperry</code>
+                <name>SurPerryLowerCase</name>
+            </attribute>
             <attribute type="digitalseason" language="en">
                 <code>HO15</code>
                 <name>HO15</name>

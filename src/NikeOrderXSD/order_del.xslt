@@ -27,7 +27,7 @@
         <xsl:copy>
             <xsl:apply-templates/>
         </xsl:copy>
-        <xsl:if test="ancestor::orders/order/orderHeader[retailerChannelCode='zadede']">
+        <xsl:if test="ancestor::orders/order/orderHeader[retailerChannelCode='surperrynl']">
             <deliveryServiceCode>NDA</deliveryServiceCode>
         </xsl:if>
     </xsl:template>
