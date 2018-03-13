@@ -1,6 +1,7 @@
 <stockData xmlns="http://api.anatwine.com/schemas/brand/v3/stock"
            xmlns:com="http://api.anatwine.com/schemas/brand/v3/commonTypes">
     <stocks>
+        <StockFeed>BAPISTOCK123</StockFeed>
         <stock>
             <brandArticleSku>10000255</brandArticleSku>
             <ean>0675911191835</ean>

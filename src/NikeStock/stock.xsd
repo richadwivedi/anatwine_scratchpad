@@ -11,6 +11,7 @@
         <xs:sequence>
             <xs:element name="stocks" type="anatwine:stocks"/>
         </xs:sequence>
+        <xs:attribute name="stockFeedName" type="xs:string" />
     </xs:complexType>
 
     <xs:complexType name="stocks">
