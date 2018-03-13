@@ -6,24 +6,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25e98a1d-a4ba-4c33-b306-4f11cb9204e3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LaCostePriceFileXSLT/20180116164939_price_38_DE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LaCostePriceFileXSLT/pricefeed.xslt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NikeStock/InvSnapshot_10items_RESULT.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NikeStock/InvSnapshot_10items_WithStockFeed.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/scratchpad/NikeOrderXSD/nike_order_NoDeliveryCode.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/scratchpad/NikeOrderXSD/order_del.xslt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/scratchpad/NikeStock/InvSnapshot_10items.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/scratchpad/NikeStock/InvSnapshot_10items_updated.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/scratchpad/NikeStock/Nike_UAT_1.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/scratchpad/NikeStock/Nike_UAT_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/NikeStock/InvSnapshot_10items_updated.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/NikeStock/Nike_UAT_1.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/NikeStock/Nike_UAT_2.xml" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/NikeStock/InvSnapshot_10items_updated.xml" afterPath="$PROJECT_DIR$/src/NikeStock/InvSnapshot_10items.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/NikeStock/Nike_UAT_1.xml" afterPath="$PROJECT_DIR$/src/NikeStock/InvSnapshot_10items_WithStockFeed_RESULT.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/scratchpad/NikeOrderXSD/nike_order_NoDeliveryCode.xml" afterPath="$PROJECT_DIR$/out/production/scratchpad/NikeOrderXSD/nike_order_NoDeliveryCode.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/scratchpad/NikeOrderXSD/order_del.xslt" afterPath="$PROJECT_DIR$/out/production/scratchpad/NikeOrderXSD/order_del.xslt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/scratchpad/NikeStock/InvSnapshot_10items.xml" afterPath="$PROJECT_DIR$/out/production/scratchpad/NikeStock/InvSnapshot_10items.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/scratchpad/NikeStock/stock.xsd" afterPath="$PROJECT_DIR$/out/production/scratchpad/NikeStock/stock.xsd" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/scratchpad/NikeStock/stock.xslt" afterPath="$PROJECT_DIR$/out/production/scratchpad/NikeStock/stock.xslt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/scratchpad/NikeXSLT/NikePIXFeed.xml" afterPath="$PROJECT_DIR$/out/production/scratchpad/NikeXSLT/NikePIXFeed.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/scratchpad/NikeXSLT/linesheet.xslt" afterPath="$PROJECT_DIR$/out/production/scratchpad/NikeXSLT/linesheet.xslt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/NikeStock/InvSnapshot_10items.xml" afterPath="$PROJECT_DIR$/src/NikeStock/InvSnapshot_10items.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/NikeStock/stock.xsd" afterPath="$PROJECT_DIR$/src/NikeStock/stock.xsd" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/NikeStock/stock.xslt" afterPath="$PROJECT_DIR$/src/NikeStock/stock.xslt" />
     </list>
@@ -332,83 +328,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="out" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="NikeXSLT" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="anatwine_scratchpad" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="anatwine_scratchpad" />
+              <option name="myItemId" value="production" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NikeStock" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="anatwine_scratchpad" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="anatwine_scratchpad" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NikeOSNXSD" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="anatwine_scratchpad" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="anatwine_scratchpad" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NikeOrderXSD" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="anatwine_scratchpad" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="anatwine_scratchpad" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LaCostePriceFileXSLT" />
+              <option name="myItemId" value="scratchpad" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1209,7 +1137,7 @@
       <workItem from="1517818378166" duration="356000" />
       <workItem from="1518177561362" duration="1167000" />
       <workItem from="1520867057431" duration="5917000" />
-      <workItem from="1520931958063" duration="245000" />
+      <workItem from="1520931958063" duration="663000" />
     </task>
     <task id="LOCAL-00001" summary="Saving..">
       <created>1486033278676</created>
@@ -1244,7 +1172,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="134643000" />
+    <option name="totallyTimeSpent" value="135061000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1441" y="-382" width="2522" height="1329" extended-state="0" />
