@@ -1,5 +1,5 @@
 <stockData xmlns="http://api.anatwine.com/schemas/brand/v3/stock"
-           xmlns:com="http://api.anatwine.com/schemas/brand/v3/commonTypes" stockFeedName="BAPISTOCK">
+           xmlns:com="http://api.anatwine.com/schemas/brand/v3/commonTypes" stockFeedName="BAPISTOCK123">
     <stocks>
         <stock>
             <brandArticleSku>10000255</brandArticleSku>

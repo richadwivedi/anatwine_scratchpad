@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:urn="urn:ebay:apis:eBLBaseComponents">
+    <soapenv:Header>
+        <urn:RequesterCredentials>
+            <urn:eBayAuthToken>AgAAAA**AQAAAA**aAAAAA**SXYFWg**nY+sHZ2PrBmdj6wVnY+sEZ2PrA2dj6ABmYuiC5OEqQ+dj6x9nY+seQ**RFEDAA**AAMAAA**sSG0IY+RR7aPT5hfzN6+HVo3BKe00+weMyE78qZn3/myWR6CxpfX3RvHj/lk/ItstyTtMyTH1r5msuPUlUd2BubcJzNPJIHVWw1CK5hxlsDoyfcGhV7F05pdfdg+sf/10sW7nXuCmLH3lFOeX5LHId/NGBysc5NU5wfEQ1xSoc+6Nuy/mw0V93z3ZB4w6kjp+P9xBPS6UuL8a/x11rK+P1QQaBGyftShATRQwqP8P8eACBcSw8d5FHiHZqT7TDWJYv8RWbfh8W+Z0GLoFl9gEcj4dMqWJsEj7quSCR+drz1KZp8Bja3JIT9+olmAl5wlXWsDoQ/aXsbjpwEXA7uPfvlF8pUHpVxNdhCqbYxMu+wqfdJuggzUs7Zjqquh8f8tA1fEfxQQfnDtxZTX8y0u1FZ4d3cV1M5+aYwD287ChMO+KDINLaFIhoI1CULYibC+3/isD4H30VptspxzmKvIkjC4JASKtbgir9+VnAii6YP4On6i5YaOfjCPJG0upp4EMDCII+1hBrRh+Tk9W5XUn06g9WAciBKUNa5uLXaZoI2AJXys0CeqsHVIEc7loGPpIyIHovFSPO3uduGdYVWHLOau+oVj8NNaYFgJ1ajjzMp+PBVqOhk2iLtwO8SaEvAkX/fqzAfzPrE7b6c+kOwnebhsT7OG1UjTn7YoQHSU2GYJAdMZnGs+gRF1HLWym1fuG3qMF9RovfIG1WDPY84gB/yanxVJEuchGUizFhSXeWIQW/M0qOngEKLV1KQ2g2W8</urn:eBayAuthToken>
+        </urn:RequesterCredentials>
+    </soapenv:Header>
+    <soapenv:Body>
+        <urn:GetMyeBaySellingRequest>
+            <urn:ActiveList>
+                <urn:Include>true</urn:Include>
+                <urn:ListingType>FixedPriceItem</urn:ListingType>
+                <urn:Pagination>
+                    <urn:EntriesPerPage>200</urn:EntriesPerPage>
+                    <urn:PageNumber>2</urn:PageNumber>
+                </urn:Pagination>
+            </urn:ActiveList>
+            <urn:ScheduledList>
+                <urn:Include>false</urn:Include>
+            </urn:ScheduledList>
+            <urn:DeletedFromSoldList>
+                <urn:Include>false</urn:Include>
+            </urn:DeletedFromSoldList>
+            <urn:DeletedFromUnsoldList>
+                <urn:Include>false</urn:Include>
+            </urn:DeletedFromUnsoldList>
+            <urn:SoldList>
+                <urn:Include>false</urn:Include>
+            </urn:SoldList>
+            <urn:UnsoldList>
+                <urn:Include>false</urn:Include>
+            </urn:UnsoldList>
+            <!-- Standard Input Fields -->
+            <urn:DetailLevel>ReturnAll</urn:DetailLevel>
+            <urn:HideVariations>false</urn:HideVariations>
+            <urn:ErrorLanguage>en_GB</urn:ErrorLanguage>
+            <urn:MessageID>ASR_TEST_1</urn:MessageID>
+            <urn:OutputSelector>ItemID</urn:OutputSelector>
+            <urn:OutputSelector>SKU</urn:OutputSelector>
+            <urn:OutputSelector>TotalNumberOfPages</urn:OutputSelector>
+            <urn:Version>1019</urn:Version>
+            <urn:WarningLevel>High</urn:WarningLevel>
+        </urn:GetMyeBaySellingRequest>
+    </soapenv:Body>
+</soapenv:Envelope>

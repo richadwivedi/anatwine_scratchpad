@@ -1,105 +1,116 @@
 <stockData xmlns="http://api.anatwine.com/schemas/brand/v3/stock"
-           xmlns:com="http://api.anatwine.com/schemas/brand/v3/commonTypes" stockFeedName="BAPISTOCK123">
+           xmlns:com="http://api.anatwine.com/schemas/brand/v3/commonTypes">
     <stocks>
         <stock>
             <brandArticleSku>10000255</brandArticleSku>
+            <ean>0675911191835</ean>
             <quantity>100</quantity>
             <extensions>
                 <com:extension>
-                    <com:extensionName/>
-                    <com:extensionValue/>
+                    <com:extensionName></com:extensionName>
+                    <com:extensionValue></com:extensionValue>
                 </com:extension>
             </extensions>
         </stock>
         <stock>
             <brandArticleSku>10000259</brandArticleSku>
+            <ean>0675911193143</ean>
             <quantity>100</quantity>
             <extensions>
                 <com:extension>
-                    <com:extensionName/>
-                    <com:extensionValue/>
+                    <com:extensionName></com:extensionName>
+                    <com:extensionValue></com:extensionValue>
                 </com:extension>
             </extensions>
         </stock>
         <stock>
             <brandArticleSku>10001213</brandArticleSku>
+            <ean>0887791013309</ean>
             <quantity>100</quantity>
             <extensions>
                 <com:extension>
-                    <com:extensionName/>
-                    <com:extensionValue/>
+                    <com:extensionName></com:extensionName>
+                    <com:extensionValue></com:extensionValue>
                 </com:extension>
             </extensions>
         </stock>
         <stock>
             <brandArticleSku>10003154</brandArticleSku>
+            <ean>0884497843292</ean>
             <quantity>100</quantity>
             <extensions>
                 <com:extension>
-                    <com:extensionName/>
-                    <com:extensionValue/>
+                    <com:extensionName></com:extensionName>
+                    <com:extensionValue></com:extensionValue>
                 </com:extension>
             </extensions>
         </stock>
         <stock>
             <brandArticleSku>10003310</brandArticleSku>
+            <ean>0886059375692</ean>
             <quantity>100</quantity>
             <extensions>
                 <com:extension>
-                    <com:extensionName/>
-                    <com:extensionValue/>
+                    <com:extensionName></com:extensionName>
+                    <com:extensionValue></com:extensionValue>
                 </com:extension>
             </extensions>
         </stock>
         <stock>
             <brandArticleSku>10003313</brandArticleSku>
+            <ean>0886059375722</ean>
             <quantity>100</quantity>
             <extensions>
                 <com:extension>
-                    <com:extensionName/>
-                    <com:extensionValue/>
+                    <com:extensionName></com:extensionName>
+                    <com:extensionValue></com:extensionValue>
                 </com:extension>
             </extensions>
         </stock>
         <stock>
             <brandArticleSku>10003319</brandArticleSku>
+            <ean>0886059375784</ean>
             <quantity>100</quantity>
             <extensions>
                 <com:extension>
-                    <com:extensionName/>
-                    <com:extensionValue/>
+                    <com:extensionName></com:extensionName>
+                    <com:extensionValue></com:extensionValue>
                 </com:extension>
             </extensions>
         </stock>
         <stock>
             <brandArticleSku>10004859</brandArticleSku>
+            <ean>0091209621394</ean>
             <quantity>100</quantity>
             <extensions>
                 <com:extension>
-                    <com:extensionName/>
-                    <com:extensionValue/>
+                    <com:extensionName></com:extensionName>
+                    <com:extensionValue></com:extensionValue>
                 </com:extension>
             </extensions>
         </stock>
         <stock>
             <brandArticleSku>10004861</brandArticleSku>
+            <ean>0887223767619</ean>
             <quantity>100</quantity>
             <extensions>
                 <com:extension>
-                    <com:extensionName/>
-                    <com:extensionValue/>
+                    <com:extensionName></com:extensionName>
+                    <com:extensionValue></com:extensionValue>
                 </com:extension>
             </extensions>
         </stock>
         <stock>
             <brandArticleSku>10004863</brandArticleSku>
+            <ean>0887223767626</ean>
             <quantity>100</quantity>
             <extensions>
                 <com:extension>
-                    <com:extensionName/>
-                    <com:extensionValue/>
+                    <com:extensionName></com:extensionName>
+                    <com:extensionValue></com:extensionValue>
                 </com:extension>
             </extensions>
         </stock>
+
     </stocks>
 </stockData>
