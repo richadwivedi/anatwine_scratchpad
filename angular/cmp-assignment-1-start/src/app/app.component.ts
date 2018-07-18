@@ -10,6 +10,7 @@ export class AppComponent {
   rootCart = ['Apples', 'Bananas', 'Cherries'];
 
   onAddItem(newItem) {
-    this.rootCart = this.rootCart + newItem;
+    this.rootCart.push(newItem);
+    console.log(this.rootCart);
   }
 }
